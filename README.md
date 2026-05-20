@@ -22,12 +22,14 @@ S&P Global announces index changes 1–13 days before they take effect. That win
 
 ## Output
 
-Running the script produces two files:
+Running the script produces two files and sends an email:
 
 | File | Description |
 |---|---|
 | `SP500_Pulse_Dashboard.html` | Visual dashboard — open in any browser |
 | `sp500_pulse_data.json` | Raw structured data (all alerts, deduped) |
+
+After each run the dashboard is also **emailed as an inline HTML email** to `avin.khurana18@gmail.com` (requires credentials — see [Email setup](#email-setup) below).
 
 The dashboard shows:
 - **ANNOUNCED** cards (amber left border) — changes not yet effective, the tradeable window
@@ -46,6 +48,41 @@ pip install -r requirements.txt
 ```
 
 Dependencies: `feedparser`, `requests`, `beautifulsoup4`
+
+---
+
+## Email setup
+
+The script emails the dashboard after every run using Gmail SMTP. No extra packages are needed — it uses Python's built-in `smtplib`.
+
+### Credentials required
+
+| Variable | Description |
+|---|---|
+| `GMAIL_SENDER_EMAIL` | Gmail address that sends the email |
+| `GMAIL_APP_PASSWORD` | 16-character [App Password](https://myaccount.google.com/apppasswords) for that account (not the login password) |
+
+> **Important:** Gmail requires an App Password, not your regular account password. Generate one at [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) (requires 2FA to be enabled).
+
+### Running locally with email
+
+```bash
+export GMAIL_SENDER_EMAIL="sender@gmail.com"
+export GMAIL_APP_PASSWORD="xxxx xxxx xxxx xxxx"
+python sp500_pulse.py
+```
+
+If either variable is not set, the script skips the email and completes normally.
+
+### GitHub Actions setup
+
+The workflow already passes both secrets to the script. Add them once via the GitHub CLI:
+
+```bash
+gh secret set --repo avin-khurana/USIndexAdditionRemoval --env-file .env.secrets
+```
+
+Or set them manually: repo → **Settings → Secrets and variables → Actions → New repository secret**.
 
 ---
 
@@ -77,7 +114,8 @@ After each run:
 
 1. Push this repo to GitHub
 2. Go to repo → **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → Save
-3. To trigger manually: repo → **Actions → S&P 500 Pulse Monitor → Run workflow**
+3. Add `GMAIL_SENDER_EMAIL` and `GMAIL_APP_PASSWORD` as repository secrets (see [Email setup](#email-setup))
+4. To trigger manually: repo → **Actions → S&P 500 Pulse Monitor → Run workflow**
 
 **Mobile push notifications:**
 
@@ -114,6 +152,7 @@ tail -f sp500_pulse.log
 ├── sp500_pulse_data.json        # Persisted alert history
 ├── SP500_Pulse_Dashboard.html   # Generated dashboard (open in browser)
 ├── requirements.txt             # Python dependencies
+├── .env.secrets                 # Local credentials file (gitignored — never committed)
 ├── .github/
 │   └── workflows/
 │       └── sp500_pulse.yml      # GitHub Actions weekly schedule
