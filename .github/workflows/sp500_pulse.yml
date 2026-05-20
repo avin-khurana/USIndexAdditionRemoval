@@ -95,8 +95,8 @@ jobs:
 
           # Find or create the tracker issue, then post a comment (visible in mobile app)
           result = subprocess.run(
-              ["gh", "issue", "list", "--label", "weekly-summary", "--state", "open",
-               "--json", "number", "--jq", ".[0].number"],
+              ["gh", "issue", "list", "--search", "S&P 500 Weekly Summary in:title",
+               "--state", "open", "--json", "number", "--jq", ".[0].number"],
               capture_output=True, text=True
           )
           issue_number = result.stdout.strip()
@@ -105,12 +105,13 @@ jobs:
               create = subprocess.run(
                   ["gh", "issue", "create",
                    "--title", "S&P 500 Weekly Summary",
-                   "--label", "weekly-summary",
                    "--body", "Pinned tracker — weekly run summaries are posted as comments below."],
-                  capture_output=True, text=True
+                  capture_output=True, text=True, check=True
               )
               # extract number from URL e.g. https://github.com/owner/repo/issues/3
               issue_number = create.stdout.strip().split("/")[-1]
+
+          print(f"Using issue #{issue_number}")
 
           with open("/tmp/comment.md", "w") as f:
               f.write(body)
