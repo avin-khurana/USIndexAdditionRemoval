@@ -386,9 +386,12 @@ def send_email_report():
     msg["To"]      = EMAIL_RECEIVER
     msg.attach(MIMEText(html_body, "html"))
 
+    # Strip spaces/non-breaking spaces Google inserts in displayed App Passwords
+    clean_password = re.sub(r"\s+", "", EMAIL_PASSWORD)
+
     print(f"[*] Sending dashboard email to {EMAIL_RECEIVER}...")
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(EMAIL_SENDER, EMAIL_PASSWORD)
+        server.login(EMAIL_SENDER, clean_password)
         server.sendmail(EMAIL_SENDER, EMAIL_RECEIVER, msg.as_string())
     print("[+] Email sent successfully.")
 
