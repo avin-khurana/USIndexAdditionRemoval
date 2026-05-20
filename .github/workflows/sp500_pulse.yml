@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write            # Needed to commit updated JSON + HTML back to repo
+  issues: write              # Needed to post weekly summary comment
 
 jobs:
   run-pulse:
@@ -36,10 +37,13 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: weekly S&P 500 pulse update $(date +'%Y-%m-%d')"
           git push
 
-      - name: Write job summary (shown in GitHub mobile notification)
+      - name: Post weekly summary to GitHub Issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
         run: |
           python - <<'EOF'
-          import json, os
+          import json, os, subprocess
           from datetime import datetime, timedelta
 
           with open("sp500_pulse_data.json") as f:
@@ -50,45 +54,70 @@ jobs:
               e for e in data
               if datetime.strptime(e["date_announced"], "%Y-%m-%d %H:%M") >= cutoff
           ]
-
-          additions = [e for e in recent if e["action"] == "ADDITION"]
-          removals  = [e for e in recent if e["action"] == "REMOVAL"]
           announced = [e for e in recent if e.get("status") == "ANNOUNCED"]
+          additions = [e for e in recent if e["action"] == "ADDITION" and e.get("status") == "CONFIRMED"]
+          removals  = [e for e in recent if e["action"] == "REMOVAL"  and e.get("status") == "CONFIRMED"]
 
           dashboard_url = "https://avin-khurana.github.io/USIndexAdditionRemoval/SP500_Pulse_Dashboard.html"
-          summary = "# S&P 500 Pulse — Weekly Report\n\n"
-          summary += f"**Run:** {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}  \n"
-          summary += f"**New signals this week:** {len(recent)}  \n"
-          summary += f"**[View Dashboard →]({dashboard_url})**\n\n"
+          body  = f"## S&P 500 Pulse — {datetime.now().strftime('%Y-%m-%d')}\n\n"
+          body += f"**[Open Dashboard]({dashboard_url})**\n\n"
+          body += f"New signals this week: **{len(recent)}**\n\n"
 
           if announced:
-              summary += "## ⚡ Pre-Announcement (Not Yet Effective)\n"
-              summary += "| Action | Ticker | Headline |\n|---|---|---|\n"
+              body += "### ⚡ Pre-Announcement (tradeable window)\n"
+              body += "| Action | Ticker | Headline |\n|---|---|---|\n"
               for e in announced:
                   tickers = ", ".join(e["tickers"]) if e["tickers"] else "TBC"
-                  action_icon = "🟢" if e["action"] == "ADDITION" else "🔴"
-                  summary += f"| {action_icon} {e['action']} | **{tickers}** | [{e['title'][:70]}]({e['link']}) |\n"
-              summary += "\n"
+                  icon = "🟢" if e["action"] == "ADDITION" else "🔴"
+                  body += f"| {icon} {e['action']} | **{tickers}** | [{e['title'][:65]}]({e['link']}) |\n"
+              body += "\n"
 
           if additions:
-              summary += "## ✅ Confirmed Additions\n"
-              summary += "| Ticker | Effective Date | Reason |\n|---|---|---|\n"
+              body += "### ✅ Confirmed Additions\n"
+              body += "| Ticker | Effective Date |\n|---|---|\n"
               for e in additions:
-                  if e.get("status") == "CONFIRMED":
-                      summary += f"| **{', '.join(e['tickers'])}** | {e['effective_date']} | {e['summary'][:80]} |\n"
-              summary += "\n"
+                  body += f"| **{', '.join(e['tickers'])}** | {e['effective_date']} |\n"
+              body += "\n"
 
           if removals:
-              summary += "## ❌ Confirmed Removals\n"
-              summary += "| Ticker | Effective Date | Reason |\n|---|---|---|\n"
+              body += "### ❌ Confirmed Removals\n"
+              body += "| Ticker | Effective Date |\n|---|---|\n"
               for e in removals:
-                  if e.get("status") == "CONFIRMED":
-                      summary += f"| **{', '.join(e['tickers'])}** | {e['effective_date']} | {e['summary'][:80]} |\n"
-              summary += "\n"
+                  body += f"| **{', '.join(e['tickers'])}** | {e['effective_date']} |\n"
+              body += "\n"
 
           if not recent:
-              summary += "_No S&P 500 changes detected this week._\n"
+              body += "_No S&P 500 changes detected this week._\n"
 
+          # Write to job summary (visible on GitHub web)
           with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as f:
-              f.write(summary)
+              f.write(body)
+
+          # Find or create the tracker issue, then post a comment (visible in mobile app)
+          result = subprocess.run(
+              ["gh", "issue", "list", "--label", "weekly-summary", "--state", "open",
+               "--json", "number", "--jq", ".[0].number"],
+              capture_output=True, text=True
+          )
+          issue_number = result.stdout.strip()
+
+          if not issue_number:
+              create = subprocess.run(
+                  ["gh", "issue", "create",
+                   "--title", "S&P 500 Weekly Summary",
+                   "--label", "weekly-summary",
+                   "--body", "Pinned tracker — weekly run summaries are posted as comments below."],
+                  capture_output=True, text=True
+              )
+              # extract number from URL e.g. https://github.com/owner/repo/issues/3
+              issue_number = create.stdout.strip().split("/")[-1]
+
+          with open("/tmp/comment.md", "w") as f:
+              f.write(body)
+
+          subprocess.run(
+              ["gh", "issue", "comment", issue_number, "--body-file", "/tmp/comment.md"],
+              check=True
+          )
+          print(f"Comment posted to issue #{issue_number}")
           EOF
