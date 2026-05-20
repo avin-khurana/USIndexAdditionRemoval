@@ -1,5 +1,16 @@
 [
     {
+        "title": "Veeva Systems climbs 9% after S&P 500 addition - MSN",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-05-01 12:58",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZklTWTlnSUZoTWI1RGVLMnhFeXc0YTA1aXpjTlFKYy1MRlh2ZWJVTHQzVWNYM0pNcVVUWmVfUUtGNHVFRjBXaWwxV3hreTB3NTZqTXpxRFVLTEhnRFVQeFozUEd4clBseExWcEpXQXE4Tkh4TGlEa0I1ZjczbThmWFhFOFVBVFZNMEgtbjdjN2ZQLVZvT1hYYXBrcVBWc1p1VlZXZmYxZ3Nid01YTUotbUppbkZOMk5hWDB2cmNfajc4ZWlsV3lMVFdySlc5a0NlelRNMHJLcV9oUTNjWUV1b3ZJZEh2MUpoNTIwMXZPWHRvdjlCQ2dwMUhZcExFZ2xTSmNweVhTd21Jb19iajZ4VXBydUpRN2syVktiTGVSajV6U245RFRKc19VQWFzVHdGRE93dW9jUzNMMjlhSGV1UEtSSXV5OXZWbmphWW5FN3YxdDdpeW41U0hrOUxaSjhZQkdRZGx3?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZklTWTlnSUZoTWI1RGVLMnhFeXc0YTA1aXpjTlFKYy1MRlh2ZWJVTHQzVWNYM0pNcVVUWmVfUUtGNHVFRjBXaWwxV3hreTB3NTZqTXpxRFVLTEhnRFVQeFozUEd4clBseExWcEpXQXE4Tkh4TGlEa0I1ZjczbThmWFhFOFVBVFZNMEgtbjdjN2ZQLVZv",
+        "source": "google_news"
+    },
+    {
         "title": "Coterra Energy Inc.(NYSE: CTRA) dropped from S&P 500 - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
