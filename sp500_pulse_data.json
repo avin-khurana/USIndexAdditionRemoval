@@ -1,5 +1,29 @@
 [
     {
+        "title": "Coterra Energy Inc.(NYSE: CTRA) dropped from S&P 500 - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CTRA"
+        ],
+        "date_announced": "2026-05-06 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2xoNmlVTU5jTkMya1p2UTJ5UkFhRDBlemlFa0Z2OWJIR3lEY0h5SlBHdTI2LWg4bGI2dk9ncU5wemZXcmtHN0x2a3RRTUVpODRDRlU5ZDNjY19JcnZiVVo2N1lxRnpGbWt3bHNHWTlfMjVvMXNEV0xaU1FhRFN6dTVvajFNVFVYN3gxLXpWMHZGRHNPOWp0anJwYmNNb3N6QkNBRQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2xoNmlVTU5jTkMya1p2UTJ5UkFhRDBlemlFa0Z2OWJIR3lEY0h5SlBHdTI2LWg4bGI2dk9ncU5wemZXcmtHN0x2a3RRTUVpODRDRlU5ZDNjY19JcnZiVVo2N1lxRnpGbWt3bHNHWTlfMjVvMXNEV0xaU1FhRFN6dTVvajFNVFVYN3gxLXpWMHZGRHNP",
+        "source": "google_news"
+    },
+    {
+        "title": "Veeva Systems climbs 9% after S&P 500 addition - MSN",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-05-17 23:05",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHVWLW4yamZGektZNzlsZ2ZnV0R5amZKa3BTdVZITWM5LWxYT2ZzY3YySVduZE8xOXRqVHExbjZpOTFWSW9XTHFCLURvSGhveFZCTmM3ZjRXYXdXZlRCRmJmY281dVJDcXhaX01BVjhEY0dOSlN0VXk1Si1JbFRYNEpLZ3RZTXJvQnZHc3puYm5PQV90NjR4M3UzRWZIWjBEa0UxakRoeWdBZzU1?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHVWLW4yamZGektZNzlsZ2ZnV0R5amZKa3BTdVZITWM5LWxYT2ZzY3YySVduZE8xOXRqVHExbjZpOTFWSW9XTHFCLURvSGhveFZCTmM3ZjRXYXdXZlRCRmJmY281dVJDcXhaX01BVjhEY0dOSlN0VXk1Si1JbFRYNEpLZ3RZTXJvQnZHc3puYm5PQV90",
+        "source": "google_news"
+    },
+    {
         "title": "Coterra Energy Inc.(NYSE: CTRA) dropped from S&P 500 Energy - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
