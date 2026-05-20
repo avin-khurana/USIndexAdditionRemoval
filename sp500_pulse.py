@@ -1,15 +1,22 @@
 import re
 import os
 import json
+import smtplib
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 # --- CONFIGURATION ---
 WIKI_URL    = "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies"
 DATA_FILE   = "sp500_pulse_data.json"
 HTML_FILE   = "SP500_Pulse_Dashboard.html"
+
+EMAIL_SENDER   = os.environ.get("GMAIL_SENDER_EMAIL", "")
+EMAIL_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
+EMAIL_RECEIVER = "avin.khurana18@gmail.com"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -362,6 +369,30 @@ def generate_html(data, news_window=30, confirmed_window=90):
     print(f"[+] Dashboard written to {HTML_FILE}.")
 
 
+# ── email ─────────────────────────────────────────────────────────────────────
+
+def send_email_report():
+    if not EMAIL_SENDER or not EMAIL_PASSWORD:
+        print("[!] Email skipped: GMAIL_SENDER_EMAIL or GMAIL_APP_PASSWORD not set.")
+        return
+
+    with open(HTML_FILE, "r") as f:
+        html_body = f.read()
+
+    now = datetime.now().strftime("%Y-%m-%d")
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = f"S&P 500 Pulse Dashboard — {now}"
+    msg["From"]    = EMAIL_SENDER
+    msg["To"]      = EMAIL_RECEIVER
+    msg.attach(MIMEText(html_body, "html"))
+
+    print(f"[*] Sending dashboard email to {EMAIL_RECEIVER}...")
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+        server.login(EMAIL_SENDER, EMAIL_PASSWORD)
+        server.sendmail(EMAIL_SENDER, EMAIL_RECEIVER, msg.as_string())
+    print("[+] Email sent successfully.")
+
+
 # ── main ──────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
@@ -370,4 +401,5 @@ if __name__ == "__main__":
     all_new           = news_entries + confirmed_entries
     all_data          = save_data(all_new)
     generate_html(all_data)
+    send_email_report()
     print("[!] Pulse Check Complete.")

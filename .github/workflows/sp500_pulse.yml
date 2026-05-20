@@ -27,6 +27,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run S&P 500 Pulse script
+        env:
+          GMAIL_SENDER_EMAIL: ${{ secrets.GMAIL_SENDER_EMAIL }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python sp500_pulse.py
 
       - name: Commit updated data and dashboard
