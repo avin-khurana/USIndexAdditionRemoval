@@ -55,9 +55,11 @@ jobs:
           removals  = [e for e in recent if e["action"] == "REMOVAL"]
           announced = [e for e in recent if e.get("status") == "ANNOUNCED"]
 
+          dashboard_url = "https://avin-khurana.github.io/USIndexAdditionRemoval/SP500_Pulse_Dashboard.html"
           summary = "# S&P 500 Pulse — Weekly Report\n\n"
           summary += f"**Run:** {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}  \n"
-          summary += f"**New signals this week:** {len(recent)}\n\n"
+          summary += f"**New signals this week:** {len(recent)}  \n"
+          summary += f"**[View Dashboard →]({dashboard_url})**\n\n"
 
           if announced:
               summary += "## ⚡ Pre-Announcement (Not Yet Effective)\n"
