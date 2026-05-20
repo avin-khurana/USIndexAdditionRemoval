@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>S&P 500 Pulse Monitor</title>
+    <style>
+        body { font-family: 'Inter', -apple-system, sans-serif; background: #0d1117; color: #c9d1d9; margin: 0; padding: 40px; }
+        .container { max-width: 960px; margin: 0 auto; }
+        header { border-bottom: 1px solid #30363d; padding-bottom: 20px; margin-bottom: 32px; }
+        h1 { margin: 0; font-size: 1.8rem; color: #58a6ff; font-weight: 700; letter-spacing: -0.5px; }
+        .stats { margin-top: 10px; font-size: 0.85rem; color: #8b949e; display: flex; gap: 24px; flex-wrap: wrap; }
+        .stat-pill { background: #161b22; border: 1px solid #30363d; border-radius: 20px; padding: 3px 12px; }
+
+        .section-label { font-size: 0.7rem; font-weight: 800; text-transform: uppercase;
+                         letter-spacing: 1.5px; color: #8b949e; margin: 28px 0 12px; }
+
+        .alert-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px;
+                      padding: 22px 24px; margin-bottom: 16px; transition: all 0.2s; }
+        .alert-card:hover { border-color: #58a6ff; transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
+        .alert-card.announced { border-left: 3px solid #d29922; }
+
+        .card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
+        .badge { padding: 4px 12px; border-radius: 20px; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; }
+        .badge-ADDITION { background: rgba(63,185,80,0.15); color: #3fb950; border: 1px solid rgba(63,185,80,0.3); }
+        .badge-REMOVAL  { background: rgba(248,81,73,0.15);  color: #f85149; border: 1px solid rgba(248,81,73,0.3); }
+        .status-badge { padding: 3px 10px; border-radius: 20px; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; }
+        .status-ANNOUNCED { background: rgba(210,153,34,0.15); color: #d29922; border: 1px solid rgba(210,153,34,0.3); }
+        .status-CONFIRMED { background: rgba(88,166,255,0.12); color: #58a6ff; border: 1px solid rgba(88,166,255,0.25); }
+
+        .ticker-group { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
+        .ticker { font-family: 'JetBrains Mono', monospace; font-weight: 700; color: #fff;
+                  background: #21262d; padding: 3px 10px; border-radius: 6px; border: 1px solid #30363d; font-size: 0.85rem; }
+
+        .title { font-size: 1.05rem; font-weight: 600; display: block; text-decoration: none;
+                 color: #adbac7; margin: 12px 0; line-height: 1.45; }
+        .title:hover { color: #58a6ff; }
+
+        .effective-box { background: rgba(35,134,54,0.07); border: 1px solid rgba(35,134,54,0.2);
+                         border-radius: 8px; padding: 10px 14px; margin: 12px 0; }
+        .effective-box.pending { background: rgba(210,153,34,0.07); border-color: rgba(210,153,34,0.2); }
+        .effective-label { font-size: 0.72rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+        .effective-date  { font-size: 0.95rem; color: #3fb950; font-weight: 600; margin-top: 3px; }
+        .effective-date.pending { color: #d29922; }
+
+        .summary { font-size: 0.82rem; color: #8b949e; margin: 10px 0; line-height: 1.5; }
+        .footer-info { display: flex; justify-content: space-between; font-size: 0.78rem;
+                       color: #8b949e; border-top: 1px solid #30363d; padding-top: 12px; margin-top: 12px; flex-wrap: wrap; gap: 8px; }
+        .source-tag { font-size: 0.68rem; background: #21262d; border-radius: 10px; padding: 2px 8px; color: #8b949e; }
+
+        .empty { text-align: center; padding: 80px; border: 2px dashed #30363d; border-radius: 12px; color: #8b949e; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>S&amp;P 500 PULSE MONITOR</h1>
+        <div class="stats">
+            <span class="stat-pill">&#x26A1; 14 pre-announcement</span>
+            <span class="stat-pill">&#x2713; 1 confirmed (90d)</span>
+            <span>Updated: 2026-05-19 21:56</span>
+        </div>
+    </header>
+    <div id="alerts">
+        <div class="section-label">Early Warning — Announced, Not Yet Effective</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">VEEV</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3BjUUxFTVhaS0pKREZqcHNqWVZWcFk1eGpUT1c3bDhXWlNtMUY4Tzc4SG9DYzRzZUZQaTA1U1hTTXB4cTRfUVEyQmJkb2VMdWUtNFRUVS0yZjAyOXVZOXFCbTBEeEZVVGR0eGV2ajVHRk1tWkpRTUJCRWJSenc2UXp1QUYxNmctWElRcDlEc0t4SzM5RkZUTnpndElhc2c0ZlVsemhuMVpHNThsajVFblJB?oc=5" class="title" target="_blank">Veeva Systems Inc.(NYSE: VEEV) added to S&P 500 Equal Weighted - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3BjUUxFTVhaS0pKREZqcHNqWVZWcFk1eGpUT1c3bDhXWlNtMUY4Tzc4SG9DYzRzZUZQaTA1U1hTTXB4cTRfUVEyQmJkb2VMdWUtNFRUVS0yZjAyOXVZOXFCbTBEeEZVVGR0eGV2ajVHRk1tWkpRTUJCRWJSenc2UXp1QUYxNmctWElRcDlEc0t4SzM5</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-07 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3BjUUxFTVhaS0pKREZqcHNqWVZWcFk1eGpUT1c3bDhXWlNtMUY4Tzc4SG9DYzRzZUZQaTA1U1hTTXB4cTRfUVEyQmJkb2VMdWUtNFRUVS0yZjAyOXVZOXFCbTBEeEZVVGR0eGV2ajVHRk1tWkpRTUJCRWJSenc2UXp1QUYxNmctWElRcDlEc0t4SzM5RkZUTnpndElhc2c0ZlVsemhuMVpHNThsajVFblJB?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-REMOVAL">REMOVAL</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">CTRA</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzhCQXZTdmpuXzA3aDdfODlwd2M1d3BBYUxfeFMzejJuaEozQWJCcEtiM3NHSHR2ZFgta1J5VlZVZXo3WmstS3NHWU5uVjVfYlhfWlZWU1F6RWNwU29nODI5cmpLdmxJaFdjeTlLOHhiNlVVZHI0bXpUc3hLLWVZM19oZ2Z4OENXVHBkSXF1cFFhTmRLbzNkTGk3ZmZiVXZEa0tWRUNsNl95b0ZzS1E?oc=5" class="title" target="_blank">Coterra Energy Inc.(NYSE: CTRA) dropped from S&P 500 Energy - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzhCQXZTdmpuXzA3aDdfODlwd2M1d3BBYUxfeFMzejJuaEozQWJCcEtiM3NHSHR2ZFgta1J5VlZVZXo3WmstS3NHWU5uVjVfYlhfWlZWU1F6RWNwU29nODI5cmpLdmxJaFdjeTlLOHhiNlVVZHI0bXpUc3hLLWVZM19oZ2Z4OENXVHBkSXF1cFFhTmRL</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-07 00:22</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzhCQXZTdmpuXzA3aDdfODlwd2M1d3BBYUxfeFMzejJuaEozQWJCcEtiM3NHSHR2ZFgta1J5VlZVZXo3WmstS3NHWU5uVjVfYlhfWlZWU1F6RWNwU29nODI5cmpLdmxJaFdjeTlLOHhiNlVVZHI0bXpUc3hLLWVZM19oZ2Z4OENXVHBkSXF1cFFhTmRLbzNkTGk3ZmZiVXZEa0tWRUNsNl95b0ZzS1E?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-REMOVAL">REMOVAL</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">CTRA</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JKeGZvVl9yN2tGaWI4VVNKYzFWZEJldy1uYTJQanFnZnFwVFNUXzlRT3NMdHE3SzdzcEVMTDYxTnY0QmRhQm9aZ1l4V2tteUo3TEVBTXlEbGpMRWhpTDV4NmY5TTZ0Z054ZXZQckV0Qzdsdnk0Mm1PcHFDbklWVmtWbV9TTFkyNzlaMU9aVWFuWm9LN2hfS0ZaY2Z0TEVNVFNSZlNhY0NLUmUtNlZZU3BNQkM0dE1NTnJUUlB2dWd2b1otRzJ6d2pnSUF1MVFuZjNPRm02RG8?oc=5" class="title" target="_blank">Coterra Energy Inc.(NYSE:CTRA) dropped from S&P 500 Oil & Gas Exploration & Production (Sub Ind) - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JKeGZvVl9yN2tGaWI4VVNKYzFWZEJldy1uYTJQanFnZnFwVFNUXzlRT3NMdHE3SzdzcEVMTDYxTnY0QmRhQm9aZ1l4V2tteUo3TEVBTXlEbGpMRWhpTDV4NmY5TTZ0Z054ZXZQckV0Qzdsdnk0Mm1PcHFDbklWVmtWbV9TTFkyNzlaMU9aVWFuWm9L</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-07 00:22</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JKeGZvVl9yN2tGaWI4VVNKYzFWZEJldy1uYTJQanFnZnFwVFNUXzlRT3NMdHE3SzdzcEVMTDYxTnY0QmRhQm9aZ1l4V2tteUo3TEVBTXlEbGpMRWhpTDV4NmY5TTZ0Z054ZXZQckV0Qzdsdnk0Mm1PcHFDbklWVmtWbV9TTFkyNzlaMU9aVWFuWm9LN2hfS0ZaY2Z0TEVNVFNSZlNhY0NLUmUtNlZZU3BNQkM0dE1NTnJUUlB2dWd2b1otRzJ6d2pnSUF1MVFuZjNPRm02RG8?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-REMOVAL">REMOVAL</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">CTRA</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWZkTWN4YURNY0VUUFRBSl9zYlcybG51WHNIVEw0b0ctLUdUUFhTYVoxX0dJRWNDbzRjWnZsbFk5YWNIMDIyUnNHTzJKMFZEeWdzZ1BCbnN2TnhReFk4U3EwUjlBSlBickQwTS1oTzdoRXdoREYzWEhwbEt0VFhERjBnMlBpS0t3ek9MMFg2OExGRThJRGUxY00tV0tCVzdCVU1IUjdvSzhmY2dl?oc=5" class="title" target="_blank">Coterra Energy Inc.(NYSE: CTRA) dropped from S&P 500 Value - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWZkTWN4YURNY0VUUFRBSl9zYlcybG51WHNIVEw0b0ctLUdUUFhTYVoxX0dJRWNDbzRjWnZsbFk5YWNIMDIyUnNHTzJKMFZEeWdzZ1BCbnN2TnhReFk4U3EwUjlBSlBickQwTS1oTzdoRXdoREYzWEhwbEt0VFhERjBnMlBpS0t3ek9MMFg2OExGRThJ</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-07 00:21</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWZkTWN4YURNY0VUUFRBSl9zYlcybG51WHNIVEw0b0ctLUdUUFhTYVoxX0dJRWNDbzRjWnZsbFk5YWNIMDIyUnNHTzJKMFZEeWdzZ1BCbnN2TnhReFk4U3EwUjlBSlBickQwTS1oTzdoRXdoREYzWEhwbEt0VFhERjBnMlBpS0t3ek9MMFg2OExGRThJRGUxY00tV0tCVzdCVU1IUjdvSzhmY2dl?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">VEEV</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzQ3YlZnVWNicm9WNEdQX3BjNkU3bHJfY3FYa29DRlJiMXlKbFktb3VWWkhXb0paSkduaUh0YTlXdVAwdnhBWV9YUmFZa2ZRb1ZpSUxhRm5rdXBwdzhzUl9nTGdES1dRaDN2M2hublFkUTdFeFRPTmVvUDV3a3dtUnNBa19VcG5MWkE2SUgwMm9iYi1wc2p1ZkQwLXVXQThNU2g3WlJndEplaU1iQzAxZzR6M2hRaFhleEJoWDUxRExjbjNSN0VmUFl6ZkgwaGRIRmJFZTlYZHpTalE?oc=5" class="title" target="_blank">Veeva Systems Inc.(NYSE:VEEV) added to S&P 500 Health Care Equipment & Services (Industry Group) - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzQ3YlZnVWNicm9WNEdQX3BjNkU3bHJfY3FYa29DRlJiMXlKbFktb3VWWkhXb0paSkduaUh0YTlXdVAwdnhBWV9YUmFZa2ZRb1ZpSUxhRm5rdXBwdzhzUl9nTGdES1dRaDN2M2hublFkUTdFeFRPTmVvUDV3a3dtUnNBa19VcG5MWkE2SUgwMm9iYi1w</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-07 00:20</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzQ3YlZnVWNicm9WNEdQX3BjNkU3bHJfY3FYa29DRlJiMXlKbFktb3VWWkhXb0paSkduaUh0YTlXdVAwdnhBWV9YUmFZa2ZRb1ZpSUxhRm5rdXBwdzhzUl9nTGdES1dRaDN2M2hublFkUTdFeFRPTmVvUDV3a3dtUnNBa19VcG5MWkE2SUgwMm9iYi1wc2p1ZkQwLXVXQThNU2g3WlJndEplaU1iQzAxZzR6M2hRaFhleEJoWDUxRExjbjNSN0VmUFl6ZkgwaGRIRmJFZTlYZHpTalE?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+<div class="section-label">Confirmed Changes</div>
+
+<div class="alert-card">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-CONFIRMED">CONFIRMED</span>
+        <div class="ticker-group"><span class="ticker">VEEV</span></div>
+    </div>
+    <a href="https://en.wikipedia.org/wiki/List_of_S%26P_500_companies#changes" class="title" target="_blank">VEEV (Veeva Systems) added to S&P 500</a>
+    <div class="summary">S&P 500 constituentDevon Energy Corp.is acquiring Coterra Energy.[6][7]</div>
+    <div class="effective-box ">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date ">May 7, 2026</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-07 00:00</span>
+        <span class="source-tag">Wikipedia</span>
+        <a href="https://en.wikipedia.org/wiki/List_of_S%26P_500_companies#changes" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+<div class="section-label">Early Warning — Announced, Not Yet Effective</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-REMOVAL">REMOVAL</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">CTRA</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWFWazlfYWloVE9JVU9wYlh3MG45eUFodWpiTTNtYVB2R0otR09VZUplSHZhaVhkbF9mNWZiemtKd0Q4bVMyeUlhNlRseGFjN2QtTlFiLUtVWU1wd1BqdEFhUnc5UTRBZGcwVTljanR2ZHNyVlNRaTFOVS1JUGdCa1hDWVk0VVZoc0ZtWmNBVklvZmY0cEN4NTFfU3lua05LMXRhS2wwUmdWMTBXX3NFcjRWbEhnZ2xSY1c1azN1QjRVbHAtd0hYd1VvYjJsaVZUWHZ5Z3IwaXZPbFFCTDAxQWp0bw?oc=5" class="title" target="_blank">Coterra Energy Inc.(NYSE:CTRA) dropped from S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWFWazlfYWloVE9JVU9wYlh3MG45eUFodWpiTTNtYVB2R0otR09VZUplSHZhaVhkbF9mNWZiemtKd0Q4bVMyeUlhNlRseGFjN2QtTlFiLUtVWU1wd1BqdEFhUnc5UTRBZGcwVTljanR2ZHNyVlNRaTFOVS1JUGdCa1hDWVk0VVZoc0ZtWmNBVklvZmY0</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-06 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWFWazlfYWloVE9JVU9wYlh3MG45eUFodWpiTTNtYVB2R0otR09VZUplSHZhaVhkbF9mNWZiemtKd0Q4bVMyeUlhNlRseGFjN2QtTlFiLUtVWU1wd1BqdEFhUnc5UTRBZGcwVTljanR2ZHNyVlNRaTFOVS1JUGdCa1hDWVk0VVZoc0ZtWmNBVklvZmY0cEN4NTFfU3lua05LMXRhS2wwUmdWMTBXX3NFcjRWbEhnZ2xSY1c1azN1QjRVbHAtd0hYd1VvYjJsaVZUWHZ5Z3IwaXZPbFFCTDAxQWp0bw?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">VEEV</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1owcy1LUm5CZ1B2dThEQ0Q0QWsxN2J4RFFEQkRqejVjNmN6TnRva21Nb1hIRkV4T21CRndPdkkzcDM1aTFCMTJINVAwOWlhM2FJVzQtZWlNN0VuVGJvcmlFREVEYlk5NFJwVG14ZEV4OHBWOTdaejE1b0dlUUh4Tl9jdWFVVmhFRHpVeXp4ZU96bTRSMXlSc2FJMmMwSDBsOVNIUVhFaUlwbG9BZ2F5blBqYl9lVG9Xd0N3cHVMV01fV013RHY2NERTd2NNTUc5RmUzc1Nyb05jWDRPVXVFVFJJVQ?oc=5" class="title" target="_blank">Veeva Systems Inc.(NYSE:VEEV) added to S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1owcy1LUm5CZ1B2dThEQ0Q0QWsxN2J4RFFEQkRqejVjNmN6TnRva21Nb1hIRkV4T21CRndPdkkzcDM1aTFCMTJINVAwOWlhM2FJVzQtZWlNN0VuVGJvcmlFREVEYlk5NFJwVG14ZEV4OHBWOTdaejE1b0dlUUh4Tl9jdWFVVmhFRHpVeXp4ZU96bTRS</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-06 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1owcy1LUm5CZ1B2dThEQ0Q0QWsxN2J4RFFEQkRqejVjNmN6TnRva21Nb1hIRkV4T21CRndPdkkzcDM1aTFCMTJINVAwOWlhM2FJVzQtZWlNN0VuVGJvcmlFREVEYlk5NFJwVG14ZEV4OHBWOTdaejE1b0dlUUh4Tl9jdWFVVmhFRHpVeXp4ZU96bTRSMXlSc2FJMmMwSDBsOVNIUVhFaUlwbG9BZ2F5blBqYl9lVG9Xd0N3cHVMV01fV013RHY2NERTd2NNTUc5RmUzc1Nyb05jWDRPVXVFVFJJVQ?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">VEEV</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUd6SEFkcDQzQVBrVHRnOW9fVmVQUld5SlJfUFg5aTIydzVvYVdWd1VLdVV0UktYN2l1VTIyRHMzalBMV3pKeFlvdkQtZU03X1pqWWc1a1ZfN1ZZNnpfbEVRMGVRWjA0WU8zVkM4bG9FVkxSV0xkaWxuZlA5SEJJbDY1YVpJX2NlSnRXdUR4WWxaX3dqMDNjSU9VRk04NmJ1RVd1VDJLNGZsOEx2N0E?oc=5" class="title" target="_blank">Veeva Systems Inc.(NYSE: VEEV) added to S&P 500 Health Care - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUd6SEFkcDQzQVBrVHRnOW9fVmVQUld5SlJfUFg5aTIydzVvYVdWd1VLdVV0UktYN2l1VTIyRHMzalBMV3pKeFlvdkQtZU03X1pqWWc1a1ZfN1ZZNnpfbEVRMGVRWjA0WU8zVkM4bG9FVkxSV0xkaWxuZlA5SEJJbDY1YVpJX2NlSnRXdUR4WWxaX3dq</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-06 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUd6SEFkcDQzQVBrVHRnOW9fVmVQUld5SlJfUFg5aTIydzVvYVdWd1VLdVV0UktYN2l1VTIyRHMzalBMV3pKeFlvdkQtZU03X1pqWWc1a1ZfN1ZZNnpfbEVRMGVRWjA0WU8zVkM4bG9FVkxSV0xkaWxuZlA5SEJJbDY1YVpJX2NlSnRXdUR4WWxaX3dqMDNjSU9VRk04NmJ1RVd1VDJLNGZsOEx2N0E?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span style="color:#8b949e;font-size:0.8rem">ticker TBC</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5Pd1ZnZW5UTXpDQ3NvRG5udXl2YnBoUUxWV0h1Q3FJQk9vTUtnbEwxZThGS3Z5cWtVQmIwODJDY0ctUVdTWlF2ZzNuY3FYWGZUUTBRYUJ1NGp0alp2RXdPelZYM1lqTTBiQ1dLeWhXMXNoR2F2c1hTQXBuOA?oc=5" class="title" target="_blank">Veeva Systems Surges As S&P 500 Addition Triggers Breakout - timothysykes.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5Pd1ZnZW5UTXpDQ3NvRG5udXl2YnBoUUxWV0h1Q3FJQk9vTUtnbEwxZThGS3Z5cWtVQmIwODJDY0ctUVdTWlF2ZzNuY3FYWGZUUTBRYUJ1NGp0alp2RXdPelZYM1lqTTBiQ1dLeWhXMXNoR2F2c1hTQXBuOA?oc=5" target="_blank">Veeva Syste</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-03 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5Pd1ZnZW5UTXpDQ3NvRG5udXl2YnBoUUxWV0h1Q3FJQk9vTUtnbEwxZThGS3Z5cWtVQmIwODJDY0ctUVdTWlF2ZzNuY3FYWGZUUTBRYUJ1NGp0alp2RXdPelZYM1lqTTBiQ1dLeWhXMXNoR2F2c1hTQXBuOA?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span class="ticker">VEEV</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHcxN3YyanBwZXZMNGpXNzE2R21Rd0lpYXFlaXVjeWk2VTlxaHlJVTFad3FhaUFpYnczOENkSjNwOGpxbVZHYzZZV1VEVHBQYS1MR3lwZ08xYng5eW40aXhHczlHeFlGMzk5eW9SNzdXX2J4Nkl2NnlHcEhOalVUQ1FMdWhQNmJPbEhqdmh5LWE?oc=5" class="title" target="_blank">Veeva Systems (VEEV) Is Up 6.9% After S&P 500 Addition and GC Transition News - Yahoo Finance</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHcxN3YyanBwZXZMNGpXNzE2R21Rd0lpYXFlaXVjeWk2VTlxaHlJVTFad3FhaUFpYnczOENkSjNwOGpxbVZHYzZZV1VEVHBQYS1MR3lwZ08xYng5eW40aXhHczlHeFlGMzk5eW9SNzdXX2J4Nkl2NnlHcEhOalVUQ1FMdWhQNmJPbEhqdmh5LWE?oc=5</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-03 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHcxN3YyanBwZXZMNGpXNzE2R21Rd0lpYXFlaXVjeWk2VTlxaHlJVTFad3FhaUFpYnczOENkSjNwOGpxbVZHYzZZV1VEVHBQYS1MR3lwZ08xYng5eW40aXhHczlHeFlGMzk5eW9SNzdXX2J4Nkl2NnlHcEhOalVUQ1FMdWhQNmJPbEhqdmh5LWE?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span style="color:#8b949e;font-size:0.8rem">ticker TBC</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMiwwJBVV95cUxNLTZqdnJaaTJfT0R5MGxNTzEzQ0tPRTFkOWd2MDRFU1ZXRl9rY2ltdGpGd0RoNF8tUmlwanlXVVJ0RFRwUUZFWUd6aTUxalZHYzlWSS1MSzRiMjIzaVQ1enpza0trdHJlaVkxTFVjYjluOGNLWFM5TGZOQWRWcEtnREF2RFAzR1NQZ3I1WXNzSks2UzByd2lqSFU1aXoxbG9qbEZuUlZKR1liX1NOWjloallVVF9ONzd0c240VV9xUEowUGp1V0Y0TkxHc0c1MWFid3gwZFpiUE9jdHFIdkxZRENhdm10aDY4VWFTaFV1VkJFZ29FbTUweURZN1pWRl9SYXZDREhJWHhBU0RZdXRqcFZ5ZVhZQ08wZ1lELVhDXzZQZlFVNm5fN0owc0ZiQTFFN0I5Ylp1bzJuZmxfbmtGaDJaMA?oc=5" class="title" target="_blank">Veeva Systems climbs 9% after S&P 500 addition - MSN</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMiwwJBVV95cUxNLTZqdnJaaTJfT0R5MGxNTzEzQ0tPRTFkOWd2MDRFU1ZXRl9rY2ltdGpGd0RoNF8tUmlwanlXVVJ0RFRwUUZFWUd6aTUxalZHYzlWSS1MSzRiMjIzaVQ1enpza0trdHJlaVkxTFVjYjluOGNLWFM5TGZOQWRWcEtnREF2RFAzR1NQZ3I1WXNzSks2UzBy</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-05-03 04:46</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMiwwJBVV95cUxNLTZqdnJaaTJfT0R5MGxNTzEzQ0tPRTFkOWd2MDRFU1ZXRl9rY2ltdGpGd0RoNF8tUmlwanlXVVJ0RFRwUUZFWUd6aTUxalZHYzlWSS1MSzRiMjIzaVQ1enpza0trdHJlaVkxTFVjYjluOGNLWFM5TGZOQWRWcEtnREF2RFAzR1NQZ3I1WXNzSks2UzByd2lqSFU1aXoxbG9qbEZuUlZKR1liX1NOWjloallVVF9ONzd0c240VV9xUEowUGp1V0Y0TkxHc0c1MWFid3gwZFpiUE9jdHFIdkxZRENhdm10aDY4VWFTaFV1VkJFZ29FbTUweURZN1pWRl9SYXZDREhJWHhBU0RZdXRqcFZ5ZVhZQ08wZ1lELVhDXzZQZlFVNm5fN0owc0ZiQTFFN0I5Ylp1bzJuZmxfbmtGaDJaMA?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span style="color:#8b949e;font-size:0.8rem">ticker TBC</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEZmRXFaWldOTXVUY05wZjZYd0hhamhfTTlidUZtd1A1SG0zQXNfM1NIYmd1MzFSUU9md1F3dXRpU2JEWHBKQXptdVR0WWpOek9VWUxHNHJyUDA1SE0xU0VncHRaWGJEWTVrTlNOSmZtbkFnVHp2R0NXTGxCMWJ2RHpQVXJEeXNzd1BqTDVGZG9Fek1fdi1ROUlmUy1SLXfSAaQBQVVfeXFMUFVIdnkydVEwaGk3ZmhfYnNQd1JCR2lyLVJlazJDYWpfOS04cGV4TzVPQ2tlaWhSVHZHdFU4M2wtZEF5aDd0a2trLTROVk5OVzRKZEU1ZzlmTzV5ZzRXVFJBaUl5LTdkTWdaZ2J4NWlyV1dBYUFXeFJ1WmhVcnNFMFF3OGR4UURCenB2bWNRc2hNeGZySTFGZ1EyeGg2bDFDLW5BcWo?oc=5" class="title" target="_blank">Veeva Systems to join S&P 500 index, replacing Coterra Energy - CNBC</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEZmRXFaWldOTXVUY05wZjZYd0hhamhfTTlidUZtd1A1SG0zQXNfM1NIYmd1MzFSUU9md1F3dXRpU2JEWHBKQXptdVR0WWpOek9VWUxHNHJyUDA1SE0xU0VncHRaWGJEWTVrTlNOSmZtbkFnVHp2R0NXTGxCMWJ2RHpQVXJEeXNzd1BqTDVGZG9Fek1f</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-04-30 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEZmRXFaWldOTXVUY05wZjZYd0hhamhfTTlidUZtd1A1SG0zQXNfM1NIYmd1MzFSUU9md1F3dXRpU2JEWHBKQXptdVR0WWpOek9VWUxHNHJyUDA1SE0xU0VncHRaWGJEWTVrTlNOSmZtbkFnVHp2R0NXTGxCMWJ2RHpQVXJEeXNzd1BqTDVGZG9Fek1fdi1ROUlmUy1SLXfSAaQBQVVfeXFMUFVIdnkydVEwaGk3ZmhfYnNQd1JCR2lyLVJlazJDYWpfOS04cGV4TzVPQ2tlaWhSVHZHdFU4M2wtZEF5aDd0a2trLTROVk5OVzRKZEU1ZzlmTzV5ZzRXVFJBaUl5LTdkTWdaZ2J4NWlyV1dBYUFXeFJ1WmhVcnNFMFF3OGR4UURCenB2bWNRc2hNeGZySTFGZ1EyeGg2bDFDLW5BcWo?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-ADDITION">ADDITION</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span style="color:#8b949e;font-size:0.8rem">ticker TBC</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9iM1hZa3B0c3pDNVpDSnBTbWt1WmdIS1BmYnZRajMxRkNYM2NwdHp3UzB5QURuZFBHSTVLMDMwOXlYdDNRUXFmMnEwZ2FmbFRuNk16MVhUaVRmUkRRaXA2cFpaMkdXSGVrOHV3ZkQ1NA?oc=5" class="title" target="_blank">The S&P 500 Bump That Doesn’t Last - Morningstar</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9iM1hZa3B0c3pDNVpDSnBTbWt1WmdIS1BmYnZRajMxRkNYM2NwdHp3UzB5QURuZFBHSTVLMDMwOXlYdDNRUXFmMnEwZ2FmbFRuNk16MVhUaVRmUkRRaXA2cFpaMkdXSGVrOHV3ZkQ1NA?oc=5" target="_blank">The S&amp;P 500 Bump That D</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-04-23 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9iM1hZa3B0c3pDNVpDSnBTbWt1WmdIS1BmYnZRajMxRkNYM2NwdHp3UzB5QURuZFBHSTVLMDMwOXlYdDNRUXFmMnEwZ2FmbFRuNk16MVhUaVRmUkRRaXA2cFpaMkdXSGVrOHV3ZkQ1NA?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+<div class="alert-card announced">
+    <div class="card-header">
+        <span class="badge badge-REMOVAL">REMOVAL</span>
+        <span class="status-badge status-ANNOUNCED">ANNOUNCED</span>
+        <div class="ticker-group"><span style="color:#8b949e;font-size:0.8rem">ticker TBC</span></div>
+    </div>
+    <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWF9La3ktOUU5YXlCLXh2VDkwdHRMNE9IX3lsNXF1VTBkajBrQmhEaDFPODg3LVFKRVc1TkNSd2g5NXpUMWtEUlVocGVlV0RzVmFJQ0w3MjNOMHZhd3pKSDhOQktkNV9KeWRoWENzY3IwVjM5OUN6ZEZWdnNLS0U3cFJPaUF6eGNWT3Z3eTY2cG1VYVo4TjItZ0FBV3VBNGdyal9pX09XRTZGb3ZhTkFSMGZLQTFxOEJUc3JaelNCTGlnUl9iVVlDWEQyLXlXb2FJaXJQTUUwTjhUZHhaY0ZuanByUmthcW8?oc=5" class="title" target="_blank">S&P Dow Jones Indices: constituents removed from S&P 500 or S&P Access Hong Kong Index between rebalancing are removed from index simultaneously - marketscreener.com</a>
+    <div class="summary"><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWF9La3ktOUU5YXlCLXh2VDkwdHRMNE9IX3lsNXF1VTBkajBrQmhEaDFPODg3LVFKRVc1TkNSd2g5NXpUMWtEUlVocGVlV0RzVmFJQ0w3MjNOMHZhd3pKSDhOQktkNV9KeWRoWENzY3IwVjM5OUN6ZEZWdnNLS0U3cFJPaUF6eGNWT3Z3eTY2cG1VYVo4</div>
+    <div class="effective-box pending">
+        <div class="effective-label">Effective Date</div>
+        <div class="effective-date pending">TBC — see article</div>
+    </div>
+    <div class="footer-info">
+        <span>Detected: 2026-04-22 07:00</span>
+        <span class="source-tag">Google News</span>
+        <a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWF9La3ktOUU5YXlCLXh2VDkwdHRMNE9IX3lsNXF1VTBkajBrQmhEaDFPODg3LVFKRVc1TkNSd2g5NXpUMWtEUlVocGVlV0RzVmFJQ0w3MjNOMHZhd3pKSDhOQktkNV9KeWRoWENzY3IwVjM5OUN6ZEZWdnNLS0U3cFJPaUF6eGNWT3Z3eTY2cG1VYVo4TjItZ0FBV3VBNGdyal9pX09XRTZGb3ZhTkFSMGZLQTFxOEJUc3JaelNCTGlnUl9iVVlDWEQyLXlXb2FJaXJQTUUwTjhUZHhaY0ZuanByUmthcW8?oc=5" style="color:#58a6ff;text-decoration:none;">Read Article →</a>
+    </div>
+</div>
+
+    </div>
+</div>
+</body>
+</html>

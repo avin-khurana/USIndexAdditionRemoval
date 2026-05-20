@@ -1,0 +1,92 @@
+name: S&P 500 Pulse Monitor
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"   # Every Monday 8 AM US Eastern (13:00 UTC)
+  workflow_dispatch:         # Also allows manual trigger from GitHub UI
+
+permissions:
+  contents: write            # Needed to commit updated JSON + HTML back to repo
+
+jobs:
+  run-pulse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run S&P 500 Pulse script
+        run: python sp500_pulse.py
+
+      - name: Commit updated data and dashboard
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sp500_pulse_data.json SP500_Pulse_Dashboard.html
+          git diff --cached --quiet || git commit -m "chore: weekly S&P 500 pulse update $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Write job summary (shown in GitHub mobile notification)
+        run: |
+          python - <<'EOF'
+          import json, os
+          from datetime import datetime, timedelta
+
+          with open("sp500_pulse_data.json") as f:
+              data = json.load(f)
+
+          cutoff = datetime.now() - timedelta(days=7)
+          recent = [
+              e for e in data
+              if datetime.strptime(e["date_announced"], "%Y-%m-%d %H:%M") >= cutoff
+          ]
+
+          additions = [e for e in recent if e["action"] == "ADDITION"]
+          removals  = [e for e in recent if e["action"] == "REMOVAL"]
+          announced = [e for e in recent if e.get("status") == "ANNOUNCED"]
+
+          summary = "# S&P 500 Pulse — Weekly Report\n\n"
+          summary += f"**Run:** {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}  \n"
+          summary += f"**New signals this week:** {len(recent)}\n\n"
+
+          if announced:
+              summary += "## ⚡ Pre-Announcement (Not Yet Effective)\n"
+              summary += "| Action | Ticker | Headline |\n|---|---|---|\n"
+              for e in announced:
+                  tickers = ", ".join(e["tickers"]) if e["tickers"] else "TBC"
+                  action_icon = "🟢" if e["action"] == "ADDITION" else "🔴"
+                  summary += f"| {action_icon} {e['action']} | **{tickers}** | [{e['title'][:70]}]({e['link']}) |\n"
+              summary += "\n"
+
+          if additions:
+              summary += "## ✅ Confirmed Additions\n"
+              summary += "| Ticker | Effective Date | Reason |\n|---|---|---|\n"
+              for e in additions:
+                  if e.get("status") == "CONFIRMED":
+                      summary += f"| **{', '.join(e['tickers'])}** | {e['effective_date']} | {e['summary'][:80]} |\n"
+              summary += "\n"
+
+          if removals:
+              summary += "## ❌ Confirmed Removals\n"
+              summary += "| Ticker | Effective Date | Reason |\n|---|---|---|\n"
+              for e in removals:
+                  if e.get("status") == "CONFIRMED":
+                      summary += f"| **{', '.join(e['tickers'])}** | {e['effective_date']} | {e['summary'][:80]} |\n"
+              summary += "\n"
+
+          if not recent:
+              summary += "_No S&P 500 changes detected this week._\n"
+
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as f:
+              f.write(summary)
+          EOF
