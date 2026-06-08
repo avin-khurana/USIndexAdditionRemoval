@@ -104,11 +104,11 @@ The script fetches:
 
 ### Option 1 — GitHub Actions (recommended)
 
-The repo includes `.github/workflows/sp500_pulse.yml` which runs automatically every **Monday at 8:00 AM US Eastern time** on GitHub's servers. Your Mac does not need to be on.
+The repo includes `.github/workflows/sp500_pulse.yml` which runs automatically **every day at 8:00 AM US Eastern time** on GitHub's servers. Your Mac does not need to be on.
 
 After each run:
 - `sp500_pulse_data.json` and `SP500_Pulse_Dashboard.html` are committed back to the repo automatically
-- A formatted job summary is written showing what changed that week
+- A formatted job summary is written showing what changed
 
 **Setup steps:**
 
@@ -122,18 +122,18 @@ After each run:
 Install the GitHub mobile app, then:
 > Repo → **Watch → Custom → check Actions → Apply**
 
-You'll receive a push notification after each run. Tapping it shows the weekly summary table directly in the app.
+You'll receive a push notification after each run. Tapping it shows the summary table directly in the app.
 
 ### Option 2 — Mac cron job (local)
 
-Runs on your Mac every Monday at 8 AM. Requires your Mac to be awake at that time.
+Runs on your Mac every day at 8 AM. Requires your Mac to be awake at that time.
 
 Paste this into Terminal:
 
 ```bash
 (crontab -l 2>/dev/null; \
  echo "# S&P 500 Pulse Monitor"; \
- echo "0 8 * * 1 cd \"/path/to/this/repo\" && /usr/bin/python3 sp500_pulse.py >> sp500_pulse.log 2>&1") \
+ echo "0 8 * * * cd \"/path/to/this/repo\" && /usr/bin/python3 sp500_pulse.py >> sp500_pulse.log 2>&1") \
 | crontab -
 ```
 
@@ -155,7 +155,7 @@ tail -f sp500_pulse.log
 ├── .env.secrets                 # Local credentials file (gitignored — never committed)
 ├── .github/
 │   └── workflows/
-│       └── sp500_pulse.yml      # GitHub Actions weekly schedule
+│       └── sp500_pulse.yml      # GitHub Actions daily schedule
 └── README.md
 ```
 

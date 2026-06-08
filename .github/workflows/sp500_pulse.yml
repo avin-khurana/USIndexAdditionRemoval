@@ -2,7 +2,7 @@ name: S&P 500 Pulse Monitor
 
 on:
   schedule:
-    - cron: "0 13 * * 1"   # Every Monday 8 AM US Eastern (13:00 UTC)
+    - cron: "0 13 * * *"   # Every day 8 AM US Eastern (13:00 UTC)
   workflow_dispatch:         # Also allows manual trigger from GitHub UI
 
 permissions:
