@@ -1,5 +1,42 @@
 [
     {
+        "title": "EPAM Systems, Inc.(NYSE: EPAM) dropped from S&P 500 Value - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "EPAM"
+        ],
+        "date_announced": "2026-06-02 00:26",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3lDdDUxZjN2d3FqWGlfblhiMjkzQjFCLUNIcGpibmxvZFE5MllpckhsNWZlVjctV3F0MFREV2dDUDFkZGZUUDBTd1Jia3VuOWktWlhBYmpxQWJBdGtnTEl0MF9aX3ZSY2E4dW90S2VDdDFNa2k3OXd5M0h1SExJYVhGZGNvQ0ZIaGFNNlJ4d0F4eGU2V1BWQzlxd3g2LW1EUHpsVlBqWnU1Zw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3lDdDUxZjN2d3FqWGlfblhiMjkzQjFCLUNIcGpibmxvZFE5MllpckhsNWZlVjctV3F0MFREV2dDUDFkZGZUUDBTd1Jia3VuOWktWlhBYmpxQWJBdGtnTEl0MF9aX3ZSY2E4dW90S2VDdDFNa2k3OXd5M0h1SExJYVhGZGNvQ0ZIaGFNNlJ4d0F4eGU2",
+        "source": "google_news"
+    },
+    {
+        "title": "FedEx Freight Holding Company, Inc.(NYSE: FDXF) added to S&P 500 Value - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "FDXF"
+        ],
+        "date_announced": "2026-05-31 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamxNTFl1MWQyMjVvbDBzQ25KWkI4SG1ZbkJSY3dDb2VVaEpldGN6OXNBbk5tbWE2RUpCM0U1ZnpQV1RVM193cExYYk9XM1ZTajNWcWZwbmlMMy1JaWJNVHNrcHg2eHh2Yk1kcW83Yy1nMG53UTdJdzVaa1hHMTR6N25VRmI2TndTOVdyVTFaODNLWlRfcjc2bkMwZDJ2c2VsVFlGY1lhUWlOX1RoQjA3RC1Bbmt5OUp4dmZn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamxNTFl1MWQyMjVvbDBzQ25KWkI4SG1ZbkJSY3dDb2VVaEpldGN6OXNBbk5tbWE2RUpCM0U1ZnpQV1RVM193cExYYk9XM1ZTajNWcWZwbmlMMy1JaWJNVHNrcHg2eHh2Yk1kcW83Yy1nMG53UTdJdzVaa1hHMTR6N25VRmI2TndTOVdyVTFaODNLWlRf",
+        "source": "google_news"
+    },
+    {
+        "title": "Marvell and this stock jump ahead of joining the S&P 500. The leavers are falling. - MSN",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-08 14:30",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXctWU83QmxQeFJNa1dHMU9hYXdtVm1hNFZxVW40eWJ2TU9FZ2pvbUJsUldram94U1hGUUpXR0gtcW5ILXNURHVGTG1tRGdTX0VRVnRJRUpsM1JvWElINE56a2FJY2pGRGpPdjdvMFhTMllVZ3JuODhhbkNZc3hraVZlMWM4RFhvTFBWNGVnWUZTWlRsaEc4QlVtdGZHVWgtSFNFU3ViZnBkdkU4dm1NZ3lwSWwydEREM1Z4UVlkVkFnazI2Q05vRklUYlg?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXctWU83QmxQeFJNa1dHMU9hYXdtVm1hNFZxVW40eWJ2TU9FZ2pvbUJsUldram94U1hGUUpXR0gtcW5ILXNURHVGTG1tRGdTX0VRVnRJRUpsM1JvWElINE56a2FJY2pGRGpPdjdvMFhTMllVZ3JuODhhbkNZc3hraVZlMWM4RFhvTFBWNGVnWUZTWlRs",
+        "source": "google_news"
+    },
+    {
         "title": "Campbell Soup gains after earnings, S&P 500 removal hangs over stock - TechStock\u00b2",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
