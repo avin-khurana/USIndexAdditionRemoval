@@ -1,5 +1,51 @@
 [
     {
+        "title": "Marvell Technology jumps almost 9% in premarket after news it will join the S&P 500 index - MSN",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-08 14:19",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUZsd1N3LWRkWm9PMENnY2RvSDlfWTh2UHpqcGpPcmNvQzFDWW9OOXdzZDd3Qnd1VnYzMFdrWFdmZEtPbWVCMVRzOUdzSjZpM0pjZVNUWGRLcnJVbkt5djZLU2FSSzFxUkJpWnM1TldIb3I0aFIxYXlYWGxyZ2FkOUwtV1RZZUpQZDVfRXJHVjd0bzdmMWQydmRLLTlqWFdvWWRYRDlubXdVLVhvbFcyemxRUzIzMi04YmRYaGxR?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUZsd1N3LWRkWm9PMENnY2RvSDlfWTh2UHpqcGpPcmNvQzFDWW9OOXdzZDd3Qnd1VnYzMFdrWFdmZEtPbWVCMVRzOUdzSjZpM0pjZVNUWGRLcnJVbkt5djZLU2FSSzFxUkJpWnM1TldIb3I0aFIxYXlYWGxyZ2FkOUwtV1RZZUpQZDVfRXJHVjd0bzdm",
+        "source": "google_news"
+    },
+    {
+        "title": "Marvell Technology and Flex will be added to the S&P 500. - \u5bcc\u9014\u725b\u725b",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-05 23:18",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNckNEdzlEQnZqWTV2eDZUd3FBeVcxeWxnR3F0bEJKQnFqQXlUMHNyYmI4SHZPZDJWRzFCbTFRalFVNE9ObnVZX185RVBpZzhRU3FXbkQ1bGdrVFpCaDR1d1YwTmg3NDRYcXhoeE50NVFTVjRmODIxWDhDdU5QWVlhM3RhOUlFVVI2OXk3dlE0NzhBRTZUZjdCVTd3?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNckNEdzlEQnZqWTV2eDZUd3FBeVcxeWxnR3F0bEJKQnFqQXlUMHNyYmI4SHZPZDJWRzFCbTFRalFVNE9ObnVZX185RVBpZzhRU3FXbkQ1bGdrVFpCaDR1d1YwTmg3NDRYcXhoeE50NVFTVjRmODIxWDhDdU5QWVlhM3RhOUlFVVI2OXk3dlE0NzhBRTZU",
+        "source": "google_news"
+    },
+    {
+        "title": "Futures Rise On Trump, Iran Comments - Investor's Business Daily",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-08 20:42",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHZGUXJUd3BHVl93cnRiQjBXX2tPSjcyclFhTUYwdUswWnJVN2dLZU9hVjJ5bjVCU3h2alpISEx5TXRNRmlYMzFGLTFwSTVFc0FmN3dfSDlJNF9RYlRHRnB0ZFN0RmJUNmNLb1pieFFqSVBlcGJOQ0prT2tyQ21GcnBjbmdNMXBMSWptdTBfTzBaVjRla084T0FDOEtRN3ZaVTFsM29hVkV0SmRjMzFxeQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHZGUXJUd3BHVl93cnRiQjBXX2tPSjcyclFhTUYwdUswWnJVN2dLZU9hVjJ5bjVCU3h2alpISEx5TXRNRmlYMzFGLTFwSTVFc0FmN3dfSDlJNF9RYlRHRnB0ZFN0RmJUNmNLb1pieFFqSVBlcGJOQ0prT2tyQ21GcnBjbmdNMXBMSWptdTBfTzBaVjRl",
+        "source": "google_news"
+    },
+    {
+        "title": "SOFI Shares Slide After-Hours On Missed S&P 500 Inclusion \u2014 Retail Says \u2018Market Can't Beat Down On A Better Company\u2019 - Stocktwits",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "SOFI"
+        ],
+        "date_announced": "2026-06-11 14:09",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHRxWWNYUjNTU2pkSDhJYmthYUlhNzNCQWRXRUtabDFJZDJIYTZvd1FXTTZwUU1BYlpkSkZIZ0FmZGNVNTRpQkVVdWttbURQM2cxQi12MHRYS1dlX1lrTl91V29lTjQ0VjA5VzBKTEJCaG10RkV6QmVPR0pnMDlzanhoZk5LUU83bUJjMUJObjZJRlRFNTUtMGhwS2ViYXhOOUkxTW10bGhyRGxUcTFfYVJ1bFlIZXQ3OHF3?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHRxWWNYUjNTU2pkSDhJYmthYUlhNzNCQWRXRUtabDFJZDJIYTZvd1FXTTZwUU1BYlpkSkZIZ0FmZGNVNTRpQkVVdWttbURQM2cxQi12MHRYS1dlX1lrTl91V29lTjQ0VjA5VzBKTEJCaG10RkV6QmVPR0pnMDlzanhoZk5LUU83bUJjMUJObjZJRlRF",
+        "source": "google_news"
+    },
+    {
         "title": "SpaceX, Anthropic, and OpenAI won't be added to the S&P 500 in 2026. Here's what investors can do about it. - MSN",
         "action": "ADDITION",
         "status": "ANNOUNCED",
