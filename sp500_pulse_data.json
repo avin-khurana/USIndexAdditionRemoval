@@ -1,5 +1,53 @@
 [
     {
+        "title": "EPAM Systems, Inc.(NYSE: EPAM) dropped from S&P 500 Information Technology - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "EPAM"
+        ],
+        "date_announced": "2026-06-01 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHpndXZFVmpsZEtOQzlSai1icjU2bkxfS3dMaTFqZk5jTkZXR19TTmVMUnpYQlh2cHNlaWx0WllMM095S2JjblFxcGVjbHBxX05qTTNLSVlJLXloZmhqRkpFMnZPdjdvQTRIdzYyTGtPcDJobGRIcVNGOWIwMzFZblpGQUxfWHJIY0lLczh4YWxQVWJyQ1RqZXVMcEwwc1NlMm5xMndlbkpuNWtzd3NJeTRCWE94emgtZ250aExENlA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHpndXZFVmpsZEtOQzlSai1icjU2bkxfS3dMaTFqZk5jTkZXR19TTmVMUnpYQlh2cHNlaWx0WllMM095S2JjblFxcGVjbHBxX05qTTNLSVlJLXloZmhqRkpFMnZPdjdvQTRIdzYyTGtPcDJobGRIcVNGOWIwMzFZblpGQUxfWHJIY0lLczh4YWxQVWJy",
+        "source": "google_news"
+    },
+    {
+        "title": "Marvell (MRVL) Stock Soars on Adobe CFO Hire and Nvidia Endorsement Ahead of S&P 500 Addition - Blockonomi",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "MRVL"
+        ],
+        "date_announced": "2026-06-13 11:42",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjJhd0J0Rk1adUtVLUJSSDJaVVpDdXM2a05vaWcyMklHU1psY1Bta2JSUTdXVUZDTTI3UnRXTVdvMmN0aDhQQ3VFUUJWdjNseUw2bXZSSE5ocW8zMDVCOExUWWJna2ZfQ2c1M1gteXcwVWJXb0lJVXE2XzVieUtNSmNYX0tHZzBzM2ZYUkNIMXNKeDN5bDAwQ1V5WlRybUZnTUpCczlxZ1FkT01jR0NDNE91Y1U?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjJhd0J0Rk1adUtVLUJSSDJaVVpDdXM2a05vaWcyMklHU1psY1Bta2JSUTdXVUZDTTI3UnRXTVdvMmN0aDhQQ3VFUUJWdjNseUw2bXZSSE5ocW8zMDVCOExUWWJna2ZfQ2c1M1gteXcwVWJXb0lJVXE2XzVieUtNSmNYX0tHZzBzM2ZYUkNIMXNKeDN5",
+        "source": "google_news"
+    },
+    {
+        "title": "Could SoFi Stock Finally Be The Next S&P 500 Addition? Here\u2019s What Retail Thinks - TradingView",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-05-31 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRlBPYW4zTVB6aGFmVzZsM2h1bWpZUmFQTmJfaXpac1RrNEJ4OUJWTzQtcmxHWl9vZzIwTjQzU2NzWWFraW5CeEhWR2pick5BTXNLQXpNcjBPQmFxcGg4M050Tzl5WjU2SmEzUm5OZ1gtb1FOY1BRSW1VbUFSbldrM0VwNFNLUVFrMl9iNjBXU0VYTVVuaGlYUkNjWTdfN29rTjdJQlRxdnc1cm5PN3h3OXhqZW5tLUVISlp2LU1JVlViUlRmcFk4TXMwSjVOQXRoTFlOemxwQQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRlBPYW4zTVB6aGFmVzZsM2h1bWpZUmFQTmJfaXpac1RrNEJ4OUJWTzQtcmxHWl9vZzIwTjQzU2NzWWFraW5CeEhWR2pick5BTXNLQXpNcjBPQmFxcGg4M050Tzl5WjU2SmEzUm5OZ1gtb1FOY1BRSW1VbUFSbldrM0VwNFNLUVFrMl9iNjBXU0VYTVVu",
+        "source": "google_news"
+    },
+    {
+        "title": "A Big Change Could Be Coming to the S&P 500. Here's What That Means for Investors - The Globe and Mail",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-09 21:34",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTFFrZHo4MEtDc291R2JzczMxVVR3amhnQmpnVUZISGhXcjJsQ3BDYzZRMXE5YzY0Um9VQVN4YlNtNS1oM3NvN2hRUlU3eTd3OUFBYlF0WXhzbXJUTXVEMUx5eWVmWUxwT0VpbGJtRVlGUURSVVVodmM3aEplaGdVRmJURWFNRUJxRUp2bk1mLTRsVnJ5UkhWakx6RV9EQzFheEhkbXlNa2NvYU5EcldMeXM0ZlkzQ3U5R1c0bjJhT2ZlVE5qODdHZFJpT01scnR6cHE4SlZOUWt5OVlQQzhZcjc0bE14SU04TEtKYk44QVZNMEIzUXk3cUpn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTFFrZHo4MEtDc291R2JzczMxVVR3amhnQmpnVUZISGhXcjJsQ3BDYzZRMXE5YzY0Um9VQVN4YlNtNS1oM3NvN2hRUlU3eTd3OUFBYlF0WXhzbXJUTXVEMUx5eWVmWUxwT0VpbGJtRVlGUURSVVVodmM3aEplaGdVRmJURWFNRUJxRUp2bk1mLTRsVnJ5",
+        "source": "google_news"
+    },
+    {
         "title": "EPAM Systems, Inc.(NYSE: EPAM) dropped from S&P 500 - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
