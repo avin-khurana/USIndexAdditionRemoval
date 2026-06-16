@@ -1,5 +1,18 @@
 [
     {
+        "title": "EPAM Systems, Inc.(NYSE:EPAM) dropped from S&P 500 Software & Services (Industry Group) - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "EPAM"
+        ],
+        "date_announced": "2026-06-02 00:24",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmc4RmoyUTgza1ZMYmFqakptQVVIVVctakp0UnVUejFIYkNJcGhXRl84NlNqczlsd2tnTWRfQ1Uybk1yU2tLQ19ac3hoZlNlcVlIc3NMdDR5ZlRpVDhJcmtlM08xOUJjS1U0Z21ITEZrdnNVTVFibHJETXVfQzBoSnhZd19vZjdwUmFZN05tWENNNkZ1eGhkMzFUbXFqVkNTT09nREMzZzBaTlg4ZW5UUWRsOU5tZU5YNFNDQ0ZQZTlUZU91UVFRTE13aEZOUQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObmc4RmoyUTgza1ZMYmFqakptQVVIVVctakp0UnVUejFIYkNJcGhXRl84NlNqczlsd2tnTWRfQ1Uybk1yU2tLQ19ac3hoZlNlcVlIc3NMdDR5ZlRpVDhJcmtlM08xOUJjS1U0Z21ITEZrdnNVTVFibHJETXVfQzBoSnhZd19vZjdwUmFZN05tWENNNkZ1",
+        "source": "google_news"
+    },
+    {
         "title": "SpaceX, Anthropic, and OpenAI won't be added to the S&P 500 in 2026. Here's what investors can do about it. - MSN",
         "action": "ADDITION",
         "status": "ANNOUNCED",
