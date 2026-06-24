@@ -1,5 +1,40 @@
 [
     {
+        "title": "ConAgra Brands dropped from S&P 500 - StreetInsider",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-23 21:26",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0JxNFExQVAyd0o3YkctNEw5Qk85dGVyN2RNWllpZnhQdmlCQ2Y3SU53X0dJa1RFTHh0RGI5d1Btbm1KdHl4YWlPcW4yRFFhT3FCTUpycEQ4aFFxVkdMSHRCaG5jQlI0clMzTm44cl9GSFBkdUgybXZONUdjR0VIa1dFQUZpZjNJV1BZMXBRY19RblRzdlprSzZMRQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0JxNFExQVAyd0o3YkctNEw5Qk85dGVyN2RNWllpZnhQdmlCQ2Y3SU53X0dJa1RFTHh0RGI5d1Btbm1KdHl4YWlPcW4yRFFhT3FCTUpycEQ4aFFxVkdMSHRCaG5jQlI0clMzTm44cl9GSFBkdUgybXZONUdjR0VIa1dFQUZpZjNJV1BZMXBRY19RblRz",
+        "source": "google_news"
+    },
+    {
+        "title": "Marvell Just Ripped 57% in a Month. Will the June 22 S&P 500 Listing Be a Sell-the-News Event? - 24/7 Wall St.",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-11 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVIxVG1kaFVsX1VsTm1HWlNzazBjNnZxd1BoQzZfd2t4Tm1mRE1tQ0ZRMGJqUkZEVTh0c19feERDWl9CMEpZVzYwRktHdjJVMHhBNHpjTFk5UkRVZ1E2REJQVTUtc0VidE1ULUF4d1dDenBPLVNJVE5EY3QwVzgtZEppUEZNelhwVU9VMDlaU1NCbW9wdXBXWGQ4X3VrNHZPX1NSdXRzaVVLU3VjYVNjLXpDbkVlazU1NGYtVEllREN2V1JsMktMSC00SXhpaFE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVIxVG1kaFVsX1VsTm1HWlNzazBjNnZxd1BoQzZfd2t4Tm1mRE1tQ0ZRMGJqUkZEVTh0c19feERDWl9CMEpZVzYwRktHdjJVMHhBNHpjTFk5UkRVZ1E2REJQVTUtc0VidE1ULUF4d1dDenBPLVNJVE5EY3QwVzgtZEppUEZNelhwVU9VMDlaU1NCbW9w",
+        "source": "google_news"
+    },
+    {
+        "title": "Marvell (MRVL) to Join S&P 500 Index - Yahoo Finance",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "MRVL"
+        ],
+        "date_announced": "2026-06-10 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHBsYzhmRjduWjN1REpDbHpkam1FRVVwOFZTb1FXVVlBcmhMcEprbDlCRXJwcHhyVldMLXBfN0o2cEx4S2dlUE4taDJoNVZvcGp0MWdkZlo3Vm95c3BjX3BMVEpuWFhDRDRTNTBpOS1VWnRaYlQxLWlpWHVvVHBXZkZLX3hWdHUtZHBzYXRBQV9ZQQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHBsYzhmRjduWjN1REpDbHpkam1FRVVwOFZTb1FXVVlBcmhMcEprbDlCRXJwcHhyVldMLXBfN0o2cEx4S2dlUE4taDJoNVZvcGp0MWdkZlo3Vm95c3BjX3BMVEpuWFhDRDRTNTBpOS1VWnRaYlQxLWlpWHVvVHBXZkZLX3hWdHUtZHBzYXRBQV9ZQQ?o",
+        "source": "google_news"
+    },
+    {
         "title": "Autobacs Seven Co., Ltd.(TSE: 9832) dropped from S&P Japan 500 - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
