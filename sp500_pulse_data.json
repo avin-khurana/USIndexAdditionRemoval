@@ -1,5 +1,18 @@
 [
     {
+        "title": "Pool Corporation(NasdaqGS: POOL) dropped from S&P 500 Value - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "POOL"
+        ],
+        "date_announced": "2026-06-22 01:10",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWVNYmxoZlVna1FZQkFMQnZMaktKTHh2TUdQX1RlU2tOY21menlfaWJuN3QxZzczU1BHdzlUamZjNmktNWFDMkIxcGZTY0hPN1ZTSlViTHF6d0dZRlZrcEEwREl4YWgwNndXR00wblo0RnVMbEVHb1hFcHBtcWYxbjNMbFpzVmk5R0t4NVR2Yy1mazZzak8yTjluTl9sandoNDZyeHkxQWNOM2ZDempV?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObWVNYmxoZlVna1FZQkFMQnZMaktKTHh2TUdQX1RlU2tOY21menlfaWJuN3QxZzczU1BHdzlUamZjNmktNWFDMkIxcGZTY0hPN1ZTSlViTHF6d0dZRlZrcEEwREl4YWgwNndXR00wblo0RnVMbEVHb1hFcHBtcWYxbjNMbFpzVmk5R0t4NVR2Yy1mazZz",
+        "source": "google_news"
+    },
+    {
         "title": "ConAgra Brands dropped from S&P 500 - StreetInsider",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
