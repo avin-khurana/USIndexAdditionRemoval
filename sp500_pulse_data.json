@@ -1,5 +1,31 @@
 [
     {
+        "title": "Flex Ltd.(NasdaqGS: FLEX) added to S&P 500 Equal Weighted - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "FLEX"
+        ],
+        "date_announced": "2026-06-22 01:37",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2tURE9sTWdUQ3VVMERkWjd5QWFGb3BuSHIzMGk3cHI0Y0tjOGpsRkkwNjFXSjRFcWUtbHBvSDdXRmpJODRTclp3ZVB0LUtZSVRwR2lsX1ZHM3dqSVQ3R2U5eF9rR3dyM21jZVY1bzJxQ2p6b013bTBZVldzQS1oM0VUUnpoVktDTlNfQktTT1ZValJzRFExVHg2eHA5X3gyTlBTNkVlQnVUcDg?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2tURE9sTWdUQ3VVMERkWjd5QWFGb3BuSHIzMGk3cHI0Y0tjOGpsRkkwNjFXSjRFcWUtbHBvSDdXRmpJODRTclp3ZVB0LUtZSVRwR2lsX1ZHM3dqSVQ3R2U5eF9rR3dyM21jZVY1bzJxQ2p6b013bTBZVldzQS1oM0VUUnpoVktDTlNfQktTT1ZValJz",
+        "source": "google_news"
+    },
+    {
+        "title": "Flex Ltd.(NasdaqGS: FLEX) added to S&P 500 Information Technology - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "FLEX"
+        ],
+        "date_announced": "2026-06-22 01:11",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ19wQzJaa0dRUEtEMHJtdzk5Q2VIMlBfNEY2TjFKLUtRci0zczBCalUtNTVudDJaOXQ2VThZVk1rMC1rcFUxaEpkSnlwcGw4dHRwWU5DZzhreDhWZU83R3lIY3c4aU5CdkMweGlJUGs4eU5SZFFPcXBZXzZuNU03dzJOSkZYcGVsQnJyakY2dVcxTXlodjhXWkVQei10OVBhNE5IN2FfU3ZIa182X3l2TFp6LTBOZw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ19wQzJaa0dRUEtEMHJtdzk5Q2VIMlBfNEY2TjFKLUtRci0zczBCalUtNTVudDJaOXQ2VThZVk1rMC1rcFUxaEpkSnlwcGw4dHRwWU5DZzhreDhWZU83R3lIY3c4aU5CdkMweGlJUGs4eU5SZFFPcXBZXzZuNU03dzJOSkZYcGVsQnJyakY2dVcxTXlo",
+        "source": "google_news"
+    },
+    {
         "title": "Wall Street continue to rebound \ud83d\uddfd Marvell surges 14% - the company will join S&P 500 - XTB.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
