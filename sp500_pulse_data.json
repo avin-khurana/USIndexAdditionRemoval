@@ -1,5 +1,66 @@
 [
     {
+        "title": "Conagra Brands, Inc.(NYSE: CAG) dropped from S&P 500 Equal Weighted - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CAG"
+        ],
+        "date_announced": "2026-06-30 00:26",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlFWUi1rYy1DVDk3U0w3NDY4a2VUeGFFcHNIampQMnIwcTJoOHVJNXBzQ3NTa1loeTA1clRwaTZXY0psb1hIdVRGeTJvWmRVdFdXR1BEQ28yS0NudEJQQ0JhV1NFN1pXdElUXzUxY050bmVwUDNwVXZuRmtBa05tbzVPRkFla0J0WmlVX1hja2xWYnNYM3ctNUh3Q2xjdS1pSU4zWFl2T0t2OUlqanJadUZxRkdkZVU?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlFWUi1rYy1DVDk3U0w3NDY4a2VUeGFFcHNIampQMnIwcTJoOHVJNXBzQ3NTa1loeTA1clRwaTZXY0psb1hIdVRGeTJvWmRVdFdXR1BEQ28yS0NudEJQQ0JhV1NFN1pXdElUXzUxY050bmVwUDNwVXZuRmtBa05tbzVPRkFla0J0WmlVX1hja2xWYnNY",
+        "source": "google_news"
+    },
+    {
+        "title": "Mobility Global, Inc.(NYSE:MBGL) dropped from S&P 500 Financial Services (Industry Group) - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "MBGL"
+        ],
+        "date_announced": "2026-07-02 10:07",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlpxUFFpWXVoamRDMGZyNVdiR2lEN3FHbk95UF9ORXhVS2JfYlAxZE0ybGhJc3NjY09tM3NGYXJaTk1kTnRfSC1fdlR5ZlBCa2FGS0llXzVCSGQwbGMtbmxmWXA2c1JBdmVwcjI5UXVMQzF5bUEzUGFnR1R5bktBa2oyYzNpVXZELS1fcVNYcUtiWnRqS055cDNrcEJITkhDQXlqNHBETVhHOThaUjZxaVFYUkpGUWU2SGo5SUJQRDlIb0E0bGUtT2xIeFlER0VNN25n?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYlpxUFFpWXVoamRDMGZyNVdiR2lEN3FHbk95UF9ORXhVS2JfYlAxZE0ybGhJc3NjY09tM3NGYXJaTk1kTnRfSC1fdlR5ZlBCa2FGS0llXzVCSGQwbGMtbmxmWXA2c1JBdmVwcjI5UXVMQzF5bUEzUGFnR1R5bktBa2oyYzNpVXZELS1fcVNYcUtiWnRq",
+        "source": "google_news"
+    },
+    {
+        "title": "10 Stocks That Were Added to the S&P 500 Index Recently and How They Performed - Insider Monkey",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-30 17:19",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQby1MSHJPQlJFS3ZkeUNYRnFjeUctMlJaTXNOaHk0SERsOXB3YnNVUm40VVpPdlZpRmxXMzZHbkREZWxONFBWRTRiTkRIeGNLU2dyN0pPNnJpSGJsVmg2dW5xMGsyYW5RZ0RtbmhrRnZTalhMYlROZDY2c2pUWGFZVmZfVDV4SE9hc1YzcHIyallMWXFGY1pOYVM1LVJzZERhZTd0TzczMHRIeWdiS0ZFT1VvQTlNXzk5R1o2eGVLVEY?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQby1MSHJPQlJFS3ZkeUNYRnFjeUctMlJaTXNOaHk0SERsOXB3YnNVUm40VVpPdlZpRmxXMzZHbkREZWxONFBWRTRiTkRIeGNLU2dyN0pPNnJpSGJsVmg2dW5xMGsyYW5RZ0RtbmhrRnZTalhMYlROZDY2c2pUWGFZVmZfVDV4SE9hc1YzcHIyallMWXFG",
+        "source": "google_news"
+    },
+    {
+        "title": "Mobility Global, Inc.(NYSE: MBGL) added to S&P 500 Value - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "MBGL"
+        ],
+        "date_announced": "2026-06-30 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORERiUUFuZW10S1pEWW9HWGJkTm4xSG1LZ3g5SFVKRUNlbEhBOXlkS3ZGd182M0VKTDBqUlJPSXlGWGtRTUxPRXFVUlpxU21EbXdfOWJMYUl6blFiWWVvcDlUM0p5b01rWll0bDZoY3RrVE1XWGota0xkQS1XOGNkbXFXeWpZNHJidXJaSEFPd0VrZWpVenQ2ZngtOTR2ZVhNSi1PNWZqNA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORERiUUFuZW10S1pEWW9HWGJkTm4xSG1LZ3g5SFVKRUNlbEhBOXlkS3ZGd182M0VKTDBqUlJPSXlGWGtRTUxPRXFVUlpxU21EbXdfOWJMYUl6blFiWWVvcDlUM0p5b01rWll0bDZoY3RrVE1XWGota0xkQS1XOGNkbXFXeWpZNHJidXJaSEFPd0VrZWpV",
+        "source": "google_news"
+    },
+    {
+        "title": "The Freedom Holding Corp. ecosystem aims to join the S&P 500 index - BBN Times",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-07-03 10:51",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHRSNDJtWFlNV203czllRDh3NC1Canl5R1gzcWJqdk5UbDJ3dTNmWWR6ZkptdDlqN3JrUXFNTWtNLTdVZkNCNndDR01ZMnhOWmtuRURxYTV5NlFUd0tJbjJSazFOVVhBcjN6ZlNyUUxlODM1RlZJbXJiNkt4di01OW9TMTJ3bnZaSnZPNkJ5R3B2NDIzaTlfTGhJRGktUW9rNUE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHRSNDJtWFlNV203czllRDh3NC1Canl5R1gzcWJqdk5UbDJ3dTNmWWR6ZkptdDlqN3JrUXFNTWtNLTdVZkNCNndDR01ZMnhOWmtuRURxYTV5NlFUd0tJbjJSazFOVVhBcjN6ZlNyUUxlODM1RlZJbXJiNkt4di01OW9TMTJ3bnZaSnZPNkJ5R3B2NDIz",
+        "source": "google_news"
+    },
+    {
         "title": "Conagra Brands, Inc.(NYSE: CAG) dropped from S&P 500 Food Products - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
