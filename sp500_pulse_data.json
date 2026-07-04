@@ -1,5 +1,64 @@
 [
     {
+        "title": "PeptiDream Inc.(TSE: 4587) dropped from S&P Japan 500 - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-22 00:40",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOW8wSzZ3TnNwZUw3SzNrVXJ0b1NjZTZKRm1MT29HYkxKOUlJOFpXWWxad01YV3FQdlZ5eWVQN1BKTmlXaEpGeFRiWTdFb0NiUWotTDZRUlFXZ1RzdFlxT3huZVozUjVPTGVhelo4WEtXVkNMSGNNU29sYzNXbkpUUmFORURwbnp1ZDJTQnd1UlBqOTEyWFBuTk13SjltS2dvLV8ydkpR?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOW8wSzZ3TnNwZUw3SzNrVXJ0b1NjZTZKRm1MT29HYkxKOUlJOFpXWWxad01YV3FQdlZ5eWVQN1BKTmlXaEpGeFRiWTdFb0NiUWotTDZRUlFXZ1RzdFlxT3huZVozUjVPTGVhelo4WEtXVkNMSGNNU29sYzNXbkpUUmFORURwbnp1ZDJTQnd1UlBqOTEy",
+        "source": "google_news"
+    },
+    {
+        "title": "Is Marvell Stock a Buy Before June 22? - The Globe and Mail",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-08 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0diX2ZBUWxSZFRhSy1DZVVTd0l5OWxiZ2JrV2xiUDJ6Sk1XMGdGU191aG5lN0JyMnJ4UGwyaUFiaGRaVEo1VnhHMno1UDg5M1dBMGhwUkFfV2lPelM3eVJIZzdBbDJlQ1BKTVdCQ3hZXzlpWUd6Q1BDVDJVVUkyUE82dlhVWkwzY190WTIyeUZRZV9tZERKWTgyQ01obDhURC1aVzllRVRDaktyOVlVOXFFZzNUZjZ0WUhtLU1namU?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0diX2ZBUWxSZFRhSy1DZVVTd0l5OWxiZ2JrV2xiUDJ6Sk1XMGdGU191aG5lN0JyMnJ4UGwyaUFiaGRaVEo1VnhHMno1UDg5M1dBMGhwUkFfV2lPelM3eVJIZzdBbDJlQ1BKTVdCQ3hZXzlpWUd6Q1BDVDJVVUkyUE82dlhVWkwzY190WTIyeUZRZV9t",
+        "source": "google_news"
+    },
+    {
+        "title": "Flex Gains as S&P 500 Addition and AI Infrastructure Strategy Lift Sentiment - Moomoo",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-22 21:19",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQThFOXVGbmJTVmsyVkhNUi1ueFJXc2RvSTdab0I5ank2NWY1eGlrNkk2cnF0NExkaTQxVjBPWks0OFZmeXIxenlwSmJkb3Jfc1djdXJXNGplMlhPVDZKdXUybjUwSTBGVG9sOUp5alpadEU2elBjOGJmSW1iN2dGNFRUd3QzSTduWHQ4YjFCQzJNTjNWNFBwT1Nn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQThFOXVGbmJTVmsyVkhNUi1ueFJXc2RvSTdab0I5ank2NWY1eGlrNkk2cnF0NExkaTQxVjBPWks0OFZmeXIxenlwSmJkb3Jfc1djdXJXNGplMlhPVDZKdXUybjUwSTBGVG9sOUp5alpadEU2elBjOGJmSW1iN2dGNFRUd3QzSTduWHQ4YjFCQzJNTjNW",
+        "source": "google_news"
+    },
+    {
+        "title": "Honeywell Aerospace Inc.(NasdaqGS: HONA) added to S&P 500 Industrials - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "HONA"
+        ],
+        "date_announced": "2026-06-28 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXMwM2lUSzhBUnNyY3ZzaUpCWHVJbkRDdS1qSFhKbXdyWXJLcUtHNlBHalRhQmlsSm4yZ0R2SzlSd3VMVENSVlZkbTR2aVZ4Ukk1NVhRbDRNTEMyVl9zYmd2b0haSjFDSUhYUzJSa2tSeTBpNXNuMDhtbHRPalFlcWQ3WVVyaWNzc1hjU2NWaEtSdnljaUplb3ZVaHZja0lldG9VNnd3c1VYOXE0V2k0eGJUMkRmT09kc080?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXMwM2lUSzhBUnNyY3ZzaUpCWHVJbkRDdS1qSFhKbXdyWXJLcUtHNlBHalRhQmlsSm4yZ0R2SzlSd3VMVENSVlZkbTR2aVZ4Ukk1NVhRbDRNTEMyVl9zYmd2b0haSjFDSUhYUzJSa2tSeTBpNXNuMDhtbHRPalFlcWQ3WVVyaWNzc1hjU2NWaEtSdnlj",
+        "source": "google_news"
+    },
+    {
+        "title": "Honeywell Aerospace Inc.(NasdaqGS:HONA) added to S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "HONA"
+        ],
+        "date_announced": "2026-06-28 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcG1uYm9NaTZpQWNvNWhaNFZ2dFV3WnpVakNmRkFqX0tzbndzNmRqdUl3V0ZOOW1md2d3bG1XWlBXQWNBdndMbkFxbWtMRnBLWENPUjNNOHdnTG5pMUZLUlJkRHBmSDRUNndnM0h0NWRtQXZzT0pPaUhjbVNRX0M0SmR2U1RsYXJ5anpMa3J5Vm1MNS1tRGg2WGJSZ1BPZ3NFYlRDTjdOekpXV2lSYVhrSHR3RjNCVmx2UzN5dmJMVXF0ZmxhZVhYWGp3RlZGZ3I2aVlsTVBrVU0zeG9od2FNOEdNSQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcG1uYm9NaTZpQWNvNWhaNFZ2dFV3WnpVakNmRkFqX0tzbndzNmRqdUl3V0ZOOW1md2d3bG1XWlBXQWNBdndMbkFxbWtMRnBLWENPUjNNOHdnTG5pMUZLUlJkRHBmSDRUNndnM0h0NWRtQXZzT0pPaUhjbVNRX0M0SmR2U1RsYXJ5anpMa3J5Vm1MNS1t",
+        "source": "google_news"
+    },
+    {
         "title": "Conagra Brands, Inc.(NYSE: CAG) dropped from S&P 500 Equal Weighted - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
