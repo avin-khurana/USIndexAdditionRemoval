@@ -1,5 +1,90 @@
 [
     {
+        "title": "How Investors May Respond To Pool (POOL) Leaving The S&P 500 Equal Weight Index After Solid Results - Sahm",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "POOL"
+        ],
+        "date_announced": "2026-06-23 07:54",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdFEya2I3OHVQM2pyeU5sXzVYaTdvSzRqQmNNRDR2YkJqT2ktMjhWMlQtRVFDRlo0b3dJSXRfaXFYdzdaWnozT0xvNXVkZkY3U3lwLUg1bk1JMFNxYTBtY2thb1RjeXVhWXJTVWJxX1NlbURLVVBFeFhCcWt2blA1VFZEUzZPNFVvSEN6blRYd1htQU5zVGdTNjFka05TRFQ0MFVOaFd4endFcFNNbTRrTnVOV0szMG1qc0lFUHg2Q3UyWENZNFdpM0U1VmNlNVg0eVNEQU84dFJBMVo0MUNYUDhB?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdFEya2I3OHVQM2pyeU5sXzVYaTdvSzRqQmNNRDR2YkJqT2ktMjhWMlQtRVFDRlo0b3dJSXRfaXFYdzdaWnozT0xvNXVkZkY3U3lwLUg1bk1JMFNxYTBtY2thb1RjeXVhWXJTVWJxX1NlbURLVVBFeFhCcWt2blA1VFZEUzZPNFVvSEN6blRYd1htQU5z",
+        "source": "google_news"
+    },
+    {
+        "title": "Marvell Joins the S&P 500 on June 22\uff1aHow the Index-Inclusion Trade Actually Works - Tech Times",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-14 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaG5vNUYzTkc5bXZockRIRkU0OU9KQmpIWVp0SzB6cVZBZkoxMzNzaTNsVk0zeDhSZ3A3RFR4M2kzYzV0LU9aN0lsemxWRThPWHJId2ZVWWdvdXZqZndEbjVJSkFhc2NPUEtsTHNaSWJQUURqQmRNMW01YXhzQnZuWTY0aTZORHJZRENqTE5yVnlZZFFtOWhYc2ptZmlVLUJDd0xDbU1hLVlVVDdmZUdGcFJKeWJLOTU0RXNCVUdaejk?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaG5vNUYzTkc5bXZockRIRkU0OU9KQmpIWVp0SzB6cVZBZkoxMzNzaTNsVk0zeDhSZ3A3RFR4M2kzYzV0LU9aN0lsemxWRThPWHJId2ZVWWdvdXZqZndEbjVJSkFhc2NPUEtsTHNaSWJQUURqQmRNMW01YXhzQnZuWTY0aTZORHJZRENqTE5yVnlZZFFt",
+        "source": "google_news"
+    },
+    {
+        "title": "Honeywell Aerospace Inc.(NasdaqGS: HONA) added to S&P 500 Equal Weighted - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "HONA"
+        ],
+        "date_announced": "2026-06-28 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXhkQ2FELWZYMW1EeEZhN2otTEpUc0tvcEwxQ29OVTEyNmZRZ0NFbmsxbmppaXZfRFBOS0ZNLWF5M3ktTThuRDVtSmlVblh1YkROcVFaSGNndmFDc2R4dnNYcW9IaFBaMWpOUEp4UnJFYm9XT3JaUEJicVFoVGNzcjQtZGlmcC1tOTdraE9VeDZZZHpvVkFpSDBSYkpLRWUyWnF2UWpXSjRqRDd5cDFPRGJ0Sm5qUjdBYlYzeVdIaw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXhkQ2FELWZYMW1EeEZhN2otTEpUc0tvcEwxQ29OVTEyNmZRZ0NFbmsxbmppaXZfRFBOS0ZNLWF5M3ktTThuRDVtSmlVblh1YkROcVFaSGNndmFDc2R4dnNYcW9IaFBaMWpOUEp4UnJFYm9XT3JaUEJicVFoVGNzcjQtZGlmcC1tOTdraE9VeDZZZHpv",
+        "source": "google_news"
+    },
+    {
+        "title": "Honeywell Aerospace Inc.(NasdaqGS:HONA) added to S&P 500 Capital Goods (Industry Group) - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "HONA"
+        ],
+        "date_announced": "2026-06-28 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHhQSFp1RHVLVG90UklwR0c2eHhFUF9HQmlBeDlOUk5BNGJyOWRyT1VielhoMDQ4cUUwTlpoYkRLd29hSnJOR0E4Q1ZEQlF3Zld2T0x0ZV80SHItcDJybGFxV1g0LU05bkViRXZqQmNkZlUzN3hPa3J5SWhQeFlmY0dwUzhOMnEzaGdmek9QclYtWEVOSzhKenptaXYzNzdtbkpidFU2TmRfNDFXNkFvVkV5VHRwQlZ3RS1KaHFuaWsyRm5PUEd5TUxPVmpHdGtfV2c?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHhQSFp1RHVLVG90UklwR0c2eHhFUF9HQmlBeDlOUk5BNGJyOWRyT1VielhoMDQ4cUUwTlpoYkRLd29hSnJOR0E4Q1ZEQlF3Zld2T0x0ZV80SHItcDJybGFxV1g0LU05bkViRXZqQmNkZlUzN3hPa3J5SWhQeFlmY0dwUzhOMnEzaGdmek9QclYtWEVO",
+        "source": "google_news"
+    },
+    {
+        "title": "Honeywell Aerospace Inc.(NasdaqGS: HONA) added to S&P 500 Value - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "HONA"
+        ],
+        "date_announced": "2026-06-28 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDFLOURYQkhMNnd3ZDQxRHhqaVRfQ2d5YkZ0STMtQVhPclVCQUNmWWttLUNWd0NqcmdkQllxd3VuTkxQeDlEdFJpUXNrNXhrVGlzZUg1cjloaGtMYkFaelBSWkVxYnZYNFZQbHRwTjJqTUJCcTJfLUkyVnNaanB4ZGJELWc3bWxqTlBELTZmd0Vqa0ZpRkRVeWZPQXNITTl3Tmg0TTJZb0NCTzVYRXRvbk52OA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDFLOURYQkhMNnd3ZDQxRHhqaVRfQ2d5YkZ0STMtQVhPclVCQUNmWWttLUNWd0NqcmdkQllxd3VuTkxQeDlEdFJpUXNrNXhrVGlzZUg1cjloaGtMYkFaelBSWkVxYnZYNFZQbHRwTjJqTUJCcTJfLUkyVnNaanB4ZGJELWc3bWxqTlBELTZmd0Vqa0Zp",
+        "source": "google_news"
+    },
+    {
+        "title": "S&P Dow Jones updates indices with Honeywell Ae... - Pluang",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-23 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmlkUExsckJLcTNZYWZ5bG9EZ3cteTZNS21SY3FRSHJpVzNiTTJsOEk2eG12eUdvMjlub2s3MjlObDhLWlRhcnRXQlJBMkVYSEczOFFTdlE4VjFTWU1qNklNcFVSNzRtWkthX2VoOXlMbVpUb3I3SUhFTFNzdjZIdVZVYkQzQUdwdFRJZXpGbEZqZFY5ei1zNk84OEc?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmlkUExsckJLcTNZYWZ5bG9EZ3cteTZNS21SY3FRSHJpVzNiTTJsOEk2eG12eUdvMjlub2s3MjlObDhLWlRhcnRXQlJBMkVYSEczOFFTdlE4VjFTWU1qNklNcFVSNzRtWkthX2VoOXlMbVpUb3I3SUhFTFNzdjZIdVZVYkQzQUdwdFRJZXpGbEZqZFY5",
+        "source": "google_news"
+    },
+    {
+        "title": "Flex to Join S&P 500 Index - PR Newswire",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-09 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1ZVYVNrSVNhQ1JiWHhTUmpQMWgtT1p1N2tyRTdYU3MxaEdyRFpnMnR6V21FbGxDWmo0cmhhVjBLOHZDTzdVdnc5SVl5MlVNZFhDaTR0c1A0YlpxQV91bWhzMWhsX2pBNmdWRlhVMUlLZURPTzc0S2s3VW05eWFQaXRCaDM5Y3Zx?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1ZVYVNrSVNhQ1JiWHhTUmpQMWgtT1p1N2tyRTdYU3MxaEdyRFpnMnR6V21FbGxDWmo0cmhhVjBLOHZDTzdVdnc5SVl5MlVNZFhDaTR0c1A0YlpxQV91bWhzMWhsX2pBNmdWRlhVMUlLZURPTzc0S2s3VW05eWFQaXRCaDM5Y3Zx?oc=5\" target=\"_",
+        "source": "google_news"
+    },
+    {
         "title": "PeptiDream Inc.(TSE: 4587) dropped from S&P Japan 500 - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
