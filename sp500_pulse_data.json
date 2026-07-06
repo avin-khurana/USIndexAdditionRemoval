@@ -1,5 +1,18 @@
 [
     {
+        "title": "Mobility Global, Inc.(NYSE: MBGL) added to S&P 500 Value - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "MBGL"
+        ],
+        "date_announced": "2026-06-30 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDdKM3hXRHh1enJXUFpUanc3T3hwaE1rQmN1bnFRcUphR1ZmYVF5LXZpUzhURWRvNl9wZ0NmLXEzclhuRHA5Z25FNjdkR1pTNVh0ZzNxSFcwOVNiSDlCY0kyZ2RVVXNHa2V5T051cDZRQmxaRzE4VXhvcHBGX3pkcGxCcUdGNU90b0pJUnZETTlSWjVTZDdiOWVNdmRYdlh6VTl1OVZnS0U?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDdKM3hXRHh1enJXUFpUanc3T3hwaE1rQmN1bnFRcUphR1ZmYVF5LXZpUzhURWRvNl9wZ0NmLXEzclhuRHA5Z25FNjdkR1pTNVh0ZzNxSFcwOVNiSDlCY0kyZ2RVVXNHa2V5T051cDZRQmxaRzE4VXhvcHBGX3pkcGxCcUdGNU90b0pJUnZETTlSWjVT",
+        "source": "google_news"
+    },
+    {
         "title": "How Investors May Respond To Pool (POOL) Leaving The S&P 500 Equal Weight Index After Solid Results - Sahm",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
