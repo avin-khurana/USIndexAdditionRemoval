@@ -1,5 +1,18 @@
 [
     {
+        "title": "Mobility Global, Inc.(NYSE: MBGL) added to S&P 500 Financials - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "MBGL"
+        ],
+        "date_announced": "2026-06-30 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm5md3QtTGJmdlVCVFJSbHB1bXVpZE5KUU4ydU85QlFIQXp1aDFpcEVwWnVacmhsU01pQmJTejRrNlNKOGhDaUZvUllsWjByX2xhUmhxUk9lQUNqRDlHODZRZ3BjTXFDZGhBU3JLYnRUVGNveGZqQk1ILWUtT0tWbi1EOWoweFlQRDlYSmNVd3ZZbTJVUDFaUUlxUk5KaWJLMWtBUTgxcnFWSDVQajg4?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm5md3QtTGJmdlVCVFJSbHB1bXVpZE5KUU4ydU85QlFIQXp1aDFpcEVwWnVacmhsU01pQmJTejRrNlNKOGhDaUZvUllsWjByX2xhUmhxUk9lQUNqRDlHODZRZ3BjTXFDZGhBU3JLYnRUVGNveGZqQk1ILWUtT0tWbi1EOWoweFlQRDlYSmNVd3ZZbTJV",
+        "source": "google_news"
+    },
+    {
         "title": "Mobility Global, Inc.(NYSE: MBGL) dropped from S&P 500 Financials - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
