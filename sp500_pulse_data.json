@@ -1,5 +1,29 @@
 [
     {
+        "title": "The Campbell's Company(NasdaqGS: CPB) dropped from S&P 500 Consumer Staples - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CPB"
+        ],
+        "date_announced": "2026-06-21 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlDNzlGbkVLaHF6b0dYeGpvMTdyazFoOXNCcjZDNGpJN3VwbmR3N1dFZG5RdUN4NXBIYVJST0ZHVm9wRjZlM3Azb1laSjJ5cUliZmd5TXR4YUlWTGwwNkNBanBpbEQxRGwxVnRObmRwMVU3clZIRUJXV0NWWDBLOXpkRU01UTA5d2phQUZXS28xRjQtWDZ5eFFNNUFnREJvN0RubUJ4RnlKbWdTZWlSVEZHLVZWakZON0lIajZmT0hjSnNj?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUlDNzlGbkVLaHF6b0dYeGpvMTdyazFoOXNCcjZDNGpJN3VwbmR3N1dFZG5RdUN4NXBIYVJST0ZHVm9wRjZlM3Azb1laSjJ5cUliZmd5TXR4YUlWTGwwNkNBanBpbEQxRGwxVnRObmRwMVU3clZIRUJXV0NWWDBLOXpkRU01UTA5d2phQUZXS28xRjQt",
+        "source": "google_news"
+    },
+    {
+        "title": "Key facts: Conagra chair Chirico to leave board; CAG out of S&P June 29 - TradingView",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-06-24 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXdjWUFzcWNXMzRwXzQyTmdENVB6bGQ4eVBBelppSTc5ckxmZnNNM2JoQm41c1FDdWYtT2lIYzUzVmQtck43TUc4TTg5ZWtQOE00Y3RvV3NiS29KYlJZc3VzSEhFczcwTzh0cUsyZ2kwdkxyaHJOYWtDcU9TUW9NeW5sTS05U2VTbWRBS2VkN181ekItdkJSc2VDSlBaLWNMbEY1Ujk3S2M0UnBBa25qQzRIeE9weDJPMkpZMXpRYjJYRHE1RUV3bGl2OA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXdjWUFzcWNXMzRwXzQyTmdENVB6bGQ4eVBBelppSTc5ckxmZnNNM2JoQm41c1FDdWYtT2lIYzUzVmQtck43TUc4TTg5ZWtQOE00Y3RvV3NiS29KYlJZc3VzSEhFczcwTzh0cUsyZ2kwdkxyaHJOYWtDcU9TUW9NeW5sTS05U2VTbWRBS2VkN181ekIt",
+        "source": "google_news"
+    },
+    {
         "title": "Mobility Global, Inc.(NYSE: MBGL) added to S&P 500 Financials - marketscreener.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
