@@ -1,5 +1,16 @@
 [
     {
+        "title": "These two stocks could soon be added to the S&P 500, says KBW - CNBC",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-07-13 14:32",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmhFNXBLUmdSdUdQbk4zcEpaaHlwclFfODFkRkNJeWJxWHJtWXVJV2h2U1RMU0JYZXFzZUt4ZWdsWkliakVFcGFmM3FDaWpPQ2tGd2dfbldLa0JoRHdHZlY4NG1CVUpqMTl6QkZwY290Q0FUWmpsbXJaTjQwSzNQSGZpMkg3OEJOSlZiV210SlR6VGZVUXhqeW5aZ2c?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmhFNXBLUmdSdUdQbk4zcEpaaHlwclFfODFkRkNJeWJxWHJtWXVJV2h2U1RMU0JYZXFzZUt4ZWdsWkliakVFcGFmM3FDaWpPQ2tGd2dfbldLa0JoRHdHZlY4NG1CVUpqMTl6QkZwY290Q0FUWmpsbXJaTjQwSzNQSGZpMkg3OEJOSlZiV210SlR6VGZV",
+        "source": "google_news"
+    },
+    {
         "title": "The Campbell's Company(NasdaqGS: CPB) dropped from S&P 500 Consumer Staples - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
