@@ -1,5 +1,18 @@
 [
     {
+        "title": "The Campbell's Company(NasdaqGS:CPB) dropped from S&P 500 Packaged Foods & Meats (Sub Ind) - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CPB"
+        ],
+        "date_announced": "2026-06-21 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmZ4NWlSMGttVWMwRUxZdF9wdGF6N1V0OXk5VjczalB3a3lob29RazFBTE1leFVvMXgtbEhYS3NmYmZxcUYxSGFoT0NUb1RMLWdyVlF0ZU44VnJSRXBXWHFRQjBZMHZmQTFPNHVJN0ZwNzB3VjZGX3o3LU0wdnR6anAxajN4cFJoc0tVMU5HdmUxOS16cUhwTmlPUUllYldzcFJKcXNDZ2pkR3ZrUlJhS05WbTRqUlBZMXRzRDk0eWFRaHNOMmNLVVJKUnFiNjR6V2hNWg?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmZ4NWlSMGttVWMwRUxZdF9wdGF6N1V0OXk5VjczalB3a3lob29RazFBTE1leFVvMXgtbEhYS3NmYmZxcUYxSGFoT0NUb1RMLWdyVlF0ZU44VnJSRXBXWHFRQjBZMHZmQTFPNHVJN0ZwNzB3VjZGX3o3LU0wdnR6anAxajN4cFJoc0tVMU5HdmUxOS16",
+        "source": "google_news"
+    },
+    {
         "title": "Paltac Corporation(TSE: 8283) dropped from S&P Japan 500 - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
