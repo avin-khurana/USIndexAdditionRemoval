@@ -1,5 +1,29 @@
 [
     {
+        "title": "Two High-Yield Dividend Stocks Removed From S&P 500: What Investors Should Know - EPS Surprise History - dars.gov.et",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-07-05 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXFyRWxERWNyRU9xcUkwamlSSVJaU0Q1Z1l4QnByZWI2WEJfQ1Ezb1pxZWZMS2tRUlNSNDlFTVZqM1NNckxVejFYZ2dwR0pIZnpuZWJPRTg4WVFoel9NWkxoZmRlSktULWJJbkhrdkN1dG1vZFA2a3hEejRtS19vaHVWSkx3aE1vWF9Xc196aHQ2aWlDN24zMG1lUkhLdHlWLVpQdnJnZm94dWVKUVg4WjdNRGhJUGlwaUpj?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXFyRWxERWNyRU9xcUkwamlSSVJaU0Q1Z1l4QnByZWI2WEJfQ1Ezb1pxZWZMS2tRUlNSNDlFTVZqM1NNckxVejFYZ2dwR0pIZnpuZWJPRTg4WVFoel9NWkxoZmRlSktULWJJbkhrdkN1dG1vZFA2a3hEejRtS19vaHVWSkx3aE1vWF9Xc196aHQ2aWlD",
+        "source": "google_news"
+    },
+    {
+        "title": "The Campbell's Company(NasdaqGS: CPB) dropped from S&P 500 Food Products - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CPB"
+        ],
+        "date_announced": "2026-06-21 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFNFWEV3QW9zOFlTMzVwWk9wblVWMzRzUDVvUlpZMXR1RDdERi1VZUZZMEtjbHRmb2h0eFhBN3BjV25wTDN4X2FlaFdQdFVKZGhwM3dMZWRsOHppTGZEOEgycm5YUzdWVXpPY3dzMmhHNDN2cVdkS1hrZjBPZFV0dXpTTWtUMjhsMlBxS3FVV2FOdHQxRGhFWE5hTG1ocTRGeUtFNlpNQzFpUWlNcFdwYWo5VjVGYVhwc1VycHJIYVU?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFNFWEV3QW9zOFlTMzVwWk9wblVWMzRzUDVvUlpZMXR1RDdERi1VZUZZMEtjbHRmb2h0eFhBN3BjV25wTDN4X2FlaFdQdFVKZGhwM3dMZWRsOHppTGZEOEgycm5YUzdWVXpPY3dzMmhHNDN2cVdkS1hrZjBPZFV0dXpTTWtUMjhsMlBxS3FVV2FOdHQx",
+        "source": "google_news"
+    },
+    {
         "title": "The Campbell's Company(NasdaqGS:CPB) dropped from S&P 500 Packaged Foods & Meats (Sub Ind) - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
