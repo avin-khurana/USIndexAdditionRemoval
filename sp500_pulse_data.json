@@ -1,5 +1,18 @@
 [
     {
+        "title": "Ferguson (NYSE:FERG) surges 9% following S&P 500 addition, prompting an expected $6.7 billion rebalancing move - TechStock\u00b2",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "FERG"
+        ],
+        "date_announced": "2026-08-03 16:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnZtNVl5SUNiaDd0X1MxUXVNSDVKS2hqZTV5ajAxZWEyTWFHdlpWSVh1endtTGt0NVJsTXRZWTNqaS1EUkVDQUdlcVQwQWNwVkFzZ2czM2JvTEx2WlVfWHdNR3ExUExBajgyZm1ZSnNFa3hBTVp2SEtpc0xYenF1di1zc3ZyUzBMcmlZUmhfRkJYWHZ6QjJkaHdQcnJNSXhaemVtcUJJLVJqZzhHbkhCZGVKRUhCV21NY2M4a3RWdFBqUQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnZtNVl5SUNiaDd0X1MxUXVNSDVKS2hqZTV5ajAxZWEyTWFHdlpWSVh1endtTGt0NVJsTXRZWTNqaS1EUkVDQUdlcVQwQWNwVkFzZ2czM2JvTEx2WlVfWHdNR3ExUExBajgyZm1ZSnNFa3hBTVp2SEtpc0xYenF1di1zc3ZyUzBMcmlZUmhfRkJYWHZ6",
+        "source": "google_news"
+    },
+    {
         "title": "Ferguson Added to S&P 500 and the Plumbing Stock Pops. Where It Can Go Next. - Barron's",
         "action": "ADDITION",
         "status": "ANNOUNCED",
