@@ -1,5 +1,31 @@
 [
     {
+        "title": "Electronic Arts Inc.(NasdaqGS: EA) dropped from S&P 500 Growth - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "EA"
+        ],
+        "date_announced": "2026-08-05 00:32",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFJiZWt2LTd3VXJIU3h4YWp3WGtpMHhZS0tRamdHaUhleGVRZktqeXNSSjBoeU9tM3YxVXp1dTZEeTVNZjBCSEhOak05SVhaRWVuNWFKd0I2SFF5N2xZdEg0RzlqMmwwN0c5WmhldTNnZFA0WUM4SUVQaS1aUU9Hd3h6dWxCaVZITlVvZ1hpdHhGa3ZCaWtJOW55c25nM2Fld1lHOHdvMUVZMVVIYzBNVEp3?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFJiZWt2LTd3VXJIU3h4YWp3WGtpMHhZS0tRamdHaUhleGVRZktqeXNSSjBoeU9tM3YxVXp1dTZEeTVNZjBCSEhOak05SVhaRWVuNWFKd0I2SFF5N2xZdEg0RzlqMmwwN0c5WmhldTNnZFA0WUM4SUVQaS1aUU9Hd3h6dWxCaVZITlVvZ1hpdHhGa3ZC",
+        "source": "google_news"
+    },
+    {
+        "title": "Ferguson Enterprises Inc.(NYSE: FERG) added to S&P 500 Growth - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "FERG"
+        ],
+        "date_announced": "2026-08-05 00:32",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFl3TnMta1BPLVgxLVplNmZHYTdWcllRMC1zSE85Ql9nbTRZeGE3QVdVSzVINHFtZVRWR20ydWVHU2VCVjlNeXN1T2RTZGxYRnZMclRRcENYaWVsSnRfR0NwNTE5anZ2MG96VDRwN2RXVFEtZ3ZnU0JPX3hHRXNzQWxuQnNaTEo3S1JGNTBfQUUxVzNFUE1GS19MRHZzLXRfRnpoVHRKWkZRVzBlcTNwNw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFl3TnMta1BPLVgxLVplNmZHYTdWcllRMC1zSE85Ql9nbTRZeGE3QVdVSzVINHFtZVRWR20ydWVHU2VCVjlNeXN1T2RTZGxYRnZMclRRcENYaWVsSnRfR0NwNTE5anZ2MG96VDRwN2RXVFEtZ3ZnU0JPX3hHRXNzQWxuQnNaTEo3S1JGNTBfQUUxVzNF",
+        "source": "google_news"
+    },
+    {
         "title": "Ferguson (NYSE:FERG) surges 9% following S&P 500 addition, prompting an expected $6.7 billion rebalancing move - TechStock\u00b2",
         "action": "ADDITION",
         "status": "ANNOUNCED",
