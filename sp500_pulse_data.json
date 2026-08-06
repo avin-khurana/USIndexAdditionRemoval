@@ -1,5 +1,27 @@
 [
     {
+        "title": "Ferguson stock surges on S&P 500 inclusion announcement - Investing.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-01 01:40",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0N1QlgxM0hNenl6SGhrU3lXT2JoUWVMVGQwdUd5QnJEQTFoM240V0pMaFRyRkpwX24tMDhpUW5FMkU4b3BTZVF3STdGOWxncXRucVlVeW1YVS13cjZKNWdRRXZXOGpiWTRXQmczVUVwazJCemhEa2dGZXA5OFUzWmdzNVpzeVVkTnRVeEpSSzBoTDFIeDlnTm5GZ00yWTVTRy1oTjdyNmVDTUZ0bmM2QVNaSC1NODA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOS0N1QlgxM0hNenl6SGhrU3lXT2JoUWVMVGQwdUd5QnJEQTFoM240V0pMaFRyRkpwX24tMDhpUW5FMkU4b3BTZVF3STdGOWxncXRucVlVeW1YVS13cjZKNWdRRXZXOGpiWTRXQmczVUVwazJCemhEa2dGZXA5OFUzWmdzNVpzeVVkTnRVeEpSSzBoTDFI",
+        "source": "google_news"
+    },
+    {
+        "title": "Ferguson Added to S&P 500 and the Plumbing Stock Pops. Where It Can Go Next. -- Barrons.com - Moomoo",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-03 15:48",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFllSENIZU9ydVRKRXlqejktd2t0UWk2cjRRSjl0OXNlM3ZpSjRrVG9xNE8wTkJwS0RLeWxpMksxM3FtMWdDX3UwMnIxMkFjNGlCT0RHRVNzQTcwM3lsZ1hFZzRVZWJLUlVUTFBxdk1pb3k0U2FNMmtiN2ZjLWd0LUx1a1dLMUM2aEdTem5GdnhqRWk0?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFllSENIZU9ydVRKRXlqejktd2t0UWk2cjRRSjl0OXNlM3ZpSjRrVG9xNE8wTkJwS0RLeWxpMksxM3FtMWdDX3UwMnIxMkFjNGlCT0RHRVNzQTcwM3lsZ1hFZzRVZWJLUlVUTFBxdk1pb3k0U2FNMmtiN2ZjLWd0LUx1a1dLMUM2aEdTem5GdnhqRWk0",
+        "source": "google_news"
+    },
+    {
         "title": "Electronic Arts Inc.(NasdaqGS: EA) dropped from S&P 500 Growth - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
