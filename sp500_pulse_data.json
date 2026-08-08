@@ -1,5 +1,18 @@
 [
     {
+        "title": "Electronic Arts Inc.(NasdaqGS: EA) dropped from S&P 500 Communication Services - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "EA"
+        ],
+        "date_announced": "2026-08-05 00:31",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUczQUtfdTk5cGVKeFVEeVRWTV8wT2xqTzh0WnJMM0wzbUVpNDEzUzdFRmRkNU95QWdzeVZ5c212UDJKWGlSTHRVb3hQQ0llV1BlYlRpVTk3dm9PZ1lGOE91dlZlTkk2dGF0RzJOX2lEWjVqa01LVVJKeWtVRmIxaDZHV044cVZFcXZVdUYtWlYxLTliUDhfc3g2ajRRaGZ6dG5GOENMUkN3SHhJYXpxa1dlNGlDX1RGZWVFU3RoaFRaZUdkeGJv?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUczQUtfdTk5cGVKeFVEeVRWTV8wT2xqTzh0WnJMM0wzbUVpNDEzUzdFRmRkNU95QWdzeVZ5c212UDJKWGlSTHRVb3hQQ0llV1BlYlRpVTk3dm9PZ1lGOE91dlZlTkk2dGF0RzJOX2lEWjVqa01LVVJKeWtVRmIxaDZHV044cVZFcXZVdUYtWlYxLTli",
+        "source": "google_news"
+    },
+    {
         "title": "Ferguson stock surges on S&P 500 inclusion announcement - Investing.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
