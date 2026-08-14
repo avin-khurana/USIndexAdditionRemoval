@@ -1,5 +1,229 @@
 [
     {
+        "title": "Electronic Arts Inc.(NasdaqGS: EA) dropped from S&P 500 Equal Weighted - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "EA"
+        ],
+        "date_announced": "2026-08-04 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVFtWUpVYUlWQ1ZSNGEyeWtSMy1DT1BIVkdiRk9IWUFrdmFfSWV5VlllNDd0a1BIejJFcmEyeXZETmlMNDFPcV96NVZhS1B0SU9zb3hFYkRtSF9tRXR1bE9wd01xZ1dzdkZyTmZYcWhZY0RJOVJtZF8weE5wZWpBMlpqaFN5RGhGajU1WUNFVEJ0RWFhQzFMeFdOX2d6ZUxTQzhKVWpwM2J0bXVweUJCQ0tOZ2NKSlZ6dTVuaQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVFtWUpVYUlWQ1ZSNGEyeWtSMy1DT1BIVkdiRk9IWUFrdmFfSWV5VlllNDd0a1BIejJFcmEyeXZETmlMNDFPcV96NVZhS1B0SU9zb3hFYkRtSF9tRXR1bE9wd01xZ1dzdkZyTmZYcWhZY0RJOVJtZF8weE5wZWpBMlpqaFN5RGhGajU1WUNFVEJ0RWFh",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit shares surge on S&P 500 inclusion later this month - Moneycontrol.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 01:24",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmdzMnN4YVEtSzBkSVdZQ19zMmI4RmdDNy1zeHRTYlZkSlpDV1hsaC1kUDNYSkJ6dDRFN0hkcHRlX2t3cll0NkpLa2xQS1AzdWNHM0hEUDhQRXdsbXpUUFhOMzA5UlZUTjkwMTA5OG1jZUdpUVRJUm9TSlpHbV85OFItY3MzWVJfMFpUeW5uUWhSMTI1RWU0MUFmc0tqT1pJNURWVTVSMmJsbFFubDhaRWtBT0dRQUtYZjJDeTNSMNIBxAFBVV95cUxOb3lXZGRUeWpFekNvYnJTY2tDWmo1MUxnQU1EUC1sdFlvT3lFeE5WWWlkUjNNaVh5aGNXV0wxZFBNWUhnMzN6ZEdpZDBqTGZHLWZsd3M1OWM2MUhRcnZjNGMtNUxHdXNEZkF0U0RCa2ZNbVZ6YVVuTjhSa0xCb3JkNE55VkUzNkZzdDNsSWUyQnR5bjlZYm02d2lvLV9JN2k4YmdvOG1KT0diTUdrbXFQbFpsc1hhT3Nsc0xtSVFFeDFxd0hi?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmdzMnN4YVEtSzBkSVdZQ19zMmI4RmdDNy1zeHRTYlZkSlpDV1hsaC1kUDNYSkJ6dDRFN0hkcHRlX2t3cll0NkpLa2xQS1AzdWNHM0hEUDhQRXdsbXpUUFhOMzA5UlZUTjkwMTA5OG1jZUdpUVRJUm9TSlpHbV85OFItY3MzWVJfMFpUeW5uUWhSMTI1",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit stock surges after S&P 500 inclusion \u2014 here's the platform's next big opportunity - Yahoo! Finance Canada",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 09:36",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYjEzcEZnOHFaTE5SRUFlRy1JOGlPUE44QXowZzNBdTYzQUhFVHE2ZmxNZ1h4LTJjdkVxRmRvY0R1RktyRWRKT3BqcG9xdkpfUTRScS1CbURJSmpXTThwNVcydzVhQndQRWIwX2xodWgtaFc1OWdoLTAxR0sxdnpHMVgybFU0cXBKYmpzSEgzZlJtNW02YWVYOG92b29VcnBoLVdxeWxqZ0lWM0xSam96dUM2RV84MXFjeFJEcmJsNC0zbGNqMjNfVWlXbVlCdw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNYjEzcEZnOHFaTE5SRUFlRy1JOGlPUE44QXowZzNBdTYzQUhFVHE2ZmxNZ1h4LTJjdkVxRmRvY0R1RktyRWRKT3BqcG9xdkpfUTRScS1CbURJSmpXTThwNVcydzVhQndQRWIwX2xodWgtaFc1OWdoLTAxR0sxdnpHMVgybFU0cXBKYmpzSEgzZlJtNW02",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Shares Surge On S&P 500 Inclusion Later This Month - NDTV Profit",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 01:14",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanBNNUluUDFjeHJhZng4UFlfMV85MjIzR0Z6QlhJNHItRnhFNHp4V2s1amdvZjdPSUEyMDUta2xjV1hwMWNjTWI3dEdWM01OQ21zTTZPT0hUT3BrUmx4alFheGdnOWpxcVlyQUFJZVJHQThPcXlScHR1Und2amd4MVl1dEFIN3R0aDA2ZXJza0hCb2tNSjZTMFFJNkZEbjVtdzBZ0gGrAUFVX3lxTE1fZkJMa3FYd1FuRjdOMWdPbTNTQkk5SGJGMmRJVGptVkpocVNNYTBwT0JHTjIzSWVGVDRqcjJjX01RdWFnS2ltZW1DbEpqeEFtQWZUWllhM3FrenRESlJlSjJoYVBSXzFFWERiNEhUTGlEbkJ1LTdtY09iLW4xRUkyQ29kVUdFNWJua3pDblNmamFpaGFlMzk0bkFmV2h1QlFCeVdwNXBvSEJPYw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNanBNNUluUDFjeHJhZng4UFlfMV85MjIzR0Z6QlhJNHItRnhFNHp4V2s1amdvZjdPSUEyMDUta2xjV1hwMWNjTWI3dEdWM01OQ21zTTZPT0hUT3BrUmx4alFheGdnOWpxcVlyQUFJZVJHQThPcXlScHR1Und2amd4MVl1dEFIN3R0aDA2ZXJza0hCb2tN",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit shares surge on S&P 500 inclusion later in August - The Business Times",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 00:20",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzg5TmJEZUtURkMybnllYjVKclh4WHZHTmk1cl9RaWl6TWZGUko4UVUzd1RZY0RHNnRMbUQxMTlPWkFuU0lzdmI3YTI5cDlvV1I2d3l6UXR5M1ZGNC1PSk5jRGlaUG9LMVh5T29OUUxxN1hsVjJVdmNrR2dObktzQW1zd1ZOYUFyQUJXanpLdkdqRV9mMWtKOHRxVTZyQUtCVUE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzg5TmJEZUtURkMybnllYjVKclh4WHZHTmk1cl9RaWl6TWZGUko4UVUzd1RZY0RHNnRMbUQxMTlPWkFuU0lzdmI3YTI5cDlvV1I2d3l6UXR5M1ZGNC1PSk5jRGlaUG9LMVh5T29OUUxxN1hsVjJVdmNrR2dObktzQW1zd1ZOYUFyQUJXanpLdkdqRV9m",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit to join S&P 500 index on Aug. 18, shares soar - Investing.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-13 21:22",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmtONkllbGV2b0w0OG41aE1VdjFYU2VNM3BpSFlSTHJxNGF4QUVLZGVRZTBSSWY4NVp1dVRESk80QVVqUm5XZVZ4QWdBNjFBU1JWRVlIWU5wV3dhQVlQMVVic3kzdFlkYktjdDMwSzhuV0R6bHhzdHBmMnVMc1Zta2lZOTdOazdFWjJITncwNGQ0R1lyd1ZEQUFLN3NYeXFPaHg4QkxGMzBkRVhpLWxuQURYcklmZC11SUdr?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmtONkllbGV2b0w0OG41aE1VdjFYU2VNM3BpSFlSTHJxNGF4QUVLZGVRZTBSSWY4NVp1dVRESk80QVVqUm5XZVZ4QWdBNjFBU1JWRVlIWU5wV3dhQVlQMVVic3kzdFlkYktjdDMwSzhuV0R6bHhzdHBmMnVMc1Zta2lZOTdOazdFWjJITncwNGQ0R1ly",
+        "source": "google_news"
+    },
+    {
+        "title": "RDDT Stock Jumps 11% After-Hours \u2014 What's Driving The Rally? - tradingview.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "RDDT"
+        ],
+        "date_announced": "2026-08-13 22:09",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWlMNHZwS2xNaWRoV28tVnJWcFZOcnNCbkhKdVNuQnhpN295M0VuWWFPQnRyLUh3TG9ieDVXY2tjQUt6THROLVFveXNmUnFIcDlkak50N2dWVEd5dlV3S1NPanlNQWhrM1V3bGtvbnlXcXRTZm5qcXcwc1VjU18xa0JvTGRtTUtiY3lpUkZ4V3pnZzkxaW5qVC01dFNYWmFNWG8zc09kZmxJZFBlR0VGRUVzT3p2MW4z?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWlMNHZwS2xNaWRoV28tVnJWcFZOcnNCbkhKdVNuQnhpN295M0VuWWFPQnRyLUh3TG9ieDVXY2tjQUt6THROLVFveXNmUnFIcDlkak50N2dWVEd5dlV3S1NPanlNQWhrM1V3bGtvbnlXcXRTZm5qcXcwc1VjU18xa0JvTGRtTUtiY3lpUkZ4V3pnZzkx",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Stock Surges 12%, Set to Join S&P 500 Index This Month - TradingKey",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 02:15",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzRpd25yU2JRaHVpTjBtZEc5cDZqUHo4emlCUWh6S1F0bnBVMEJ3dmNHWUxZMHhFVkJkd2Q0Mk9NNlBnbVB6N2QyU1lNdHhFSmZEaEh0MjBNeEM0d2ZTNVVuVllMWU9RVjBSdDR2SHAzaEZMcUhpbHBFOHZteXBUWU92UWt6Q0pvcE9uS0JwSUplai1HMDd5bnluNkZiWDVuNGs4SFdQVE9LX2JkQnRyTQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPXzRpd25yU2JRaHVpTjBtZEc5cDZqUHo4emlCUWh6S1F0bnBVMEJ3dmNHWUxZMHhFVkJkd2Q0Mk9NNlBnbVB6N2QyU1lNdHhFSmZEaEh0MjBNeEM0d2ZTNVVuVllMWU9RVjBSdDR2SHAzaEZMcUhpbHBFOHZteXBUWU92UWt6Q0pvcE9uS0JwSUplai1H",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit joining S&P 500 on August 18 - CNBC",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-13 21:38",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnNMUHpYVTJycTh5RTRJY09USnBVeEg4QVN2dU9QWEtMRXU5UHYzdEdKZ3NaT3JxdlRrVE9rcExCM05XSGRiNnBvRjZsSXBhZGVTZFRta1I3RjJOSDR2QkRIZGZmWG96S3hqYmNwMklFR2lzTEFOUW5fN2lESmphNkZxOA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNMnNMUHpYVTJycTh5RTRJY09USnBVeEg4QVN2dU9QWEtMRXU5UHYzdEdKZ3NaT3JxdlRrVE9rcExCM05XSGRiNnBvRjZsSXBhZGVTZFRta1I3RjJOSDR2QkRIZGZmWG96S3hqYmNwMklFR2lzTEFOUW5fN2lESmphNkZxOA?oc=5\" target=\"_blank\"",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit to join S&P 500 index, Shares have jumped higher in after hours trade. - investingLive",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-13 22:04",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2lzUkdXa1VSUU9xWVhBX3p5RVJJVGFaemJZekJqVXZDbXozMk9XOWNyUmp0NDNIMHJJUVF5eHZVUGZ6MDJVUkZTbXFHVzdsSWRXSUZEbXJyYlY4VEgybktpQlBiNFFORmNKbWhobWU4UXFPb2FReW9oOFdhdFkyak1RanIyN2ZBUG9OYXg4QmY3N3FWY1gtSS0wQnVBa1dCMVdycklCUjBZNmpESGc?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2lzUkdXa1VSUU9xWVhBX3p5RVJJVGFaemJZekJqVXZDbXozMk9XOWNyUmp0NDNIMHJJUVF5eHZVUGZ6MDJVUkZTbXFHVzdsSWRXSUZEbXJyYlY4VEgybktpQlBiNFFORmNKbWhobWU4UXFPb2FReW9oOFdhdFkyak1RanIyN2ZBUG9OYXg4QmY3N3FW",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Is Set to Join the S&P 500 Index Next Week, Causing Its Stock Price to Surge Over 11% in After-hours Trading. - moomoo.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 02:44",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbFhvVkY4ZTAtNzY4OF85eXlMVHVhakVUc0thT0tuM3V3dURHUXhuSUxtajJGQzlsTkw5cGx5OTZKVG94R2F6cmtPN2lhN284Z21DMFAyZDFqeGRGTXVsYmdvNjlwSDEwdEdIRTFSenFMMW8tZlVwY1dLR3lhUE5fRFhETHFGV2pXb1E?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPbFhvVkY4ZTAtNzY4OF85eXlMVHVhakVUc0thT0tuM3V3dURHUXhuSUxtajJGQzlsTkw5cGx5OTZKVG94R2F6cmtPN2lhN284Z21DMFAyZDFqeGRGTXVsYmdvNjlwSDEwdEdIRTFSenFMMW8tZlVwY1dLR3lhUE5fRFhETHFGV2pXb1E?oc=5\" target",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Will Be Added to the S&P 500 - Yahoo Finance",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 13:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekFQd2ZiNDFkX1pOSzBzRi1tY0xUZnNOUzQtMkY1emZfbFFpZGhlWTRiYzY4NE9WcU9ZanIyUlBOT1BIVkFKYjlYUUlwT0ZYbXctV1l2UF9lc0pISkE2VXFiTkNXTTV4bl9ySkZlUjdDbTRDb1k3VHhlbFZaQ0ZwZ2tEMkZBVHNGaVNn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekFQd2ZiNDFkX1pOSzBzRi1tY0xUZnNOUzQtMkY1emZfbFFpZGhlWTRiYzY4NE9WcU9ZanIyUlBOT1BIVkFKYjlYUUlwT0ZYbXctV1l2UF9lc0pISkE2VXFiTkNXTTV4bl9ySkZlUjdDbTRDb1k3VHhlbFZaQ0ZwZ2tEMkZBVHNGaVNn?oc=5\" targe",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month - Bloomberg.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-13 22:09",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJWNXF2YVdHU3p1Mzlnd21WMUxEYzJjd3k0ZEZDUWNjM2ZPRDA3TG9tRXJiTDJhMlNSTFdSUXU1b2ljR2ZiNWY5Z2t2cmlfLXpTOUducEhibVZjenJJTUd3LTNOZXQ5ZndxNGp5a2xDaGpqNmhEUTBJQ0ZGNXA3aEptNGJUMXlmUnNUbWEtRGRuVGRHZHFOdnVJZjVNcEtKeWRrWWVLWW5XeFQ0?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJWNXF2YVdHU3p1Mzlnd21WMUxEYzJjd3k0ZEZDUWNjM2ZPRDA3TG9tRXJiTDJhMlNSTFdSUXU1b2ljR2ZiNWY5Z2t2cmlfLXpTOUducEhibVZjenJJTUd3LTNOZXQ5ZndxNGp5a2xDaGpqNmhEUTBJQ0ZGNXA3aEptNGJUMXlmUnNUbWEtRGRuVGRH",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit stock jumps after S&P 500 inclusion announcement - qz.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 11:37",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNXI2em9ZR1lvWTJuOVA1NWdISFBRdEVnVzUzZzl5UThBNXNqWGt6aU5zX0JGXzhwbDl4X3JCY0JLci02QzRiU3VVT0UyUVJBaHFlWTM1M3doVURTMGM3SFNHSVE2LWc?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkNXI2em9ZR1lvWTJuOVA1NWdISFBRdEVnVzUzZzl5UThBNXNqWGt6aU5zX0JGXzhwbDl4X3JCY0JLci02QzRiU3VVT0UyUVJBaHFlWTM1M3doVURTMGM3SFNHSVE2LWc?oc=5\" target=\"_blank\">Reddit stock jumps after S&amp;P 500 i",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit is joining the S&P 500. Here's why that matters, and why the stock price is surging on the news - Fast Company",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 12:28",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXVhV1NEdUNMZFZnMmxCZDdDbDN2Z3NlU09qdTNETzdEV3BCamN3aVhBazR2WENTWUdtdWtKcndIMUhrRzU2RTRYS3V1LXlhS043M0twelVXczF1aV90akZZRmVuRnoyaGY3YXBhbXN1OU1Nek42UVBPSGE2Q2FWMmJ2NzZmX2QtRms5LTlWbm9mMHBNMGc?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXVhV1NEdUNMZFZnMmxCZDdDbDN2Z3NlU09qdTNETzdEV3BCamN3aVhBazR2WENTWUdtdWtKcndIMUhrRzU2RTRYS3V1LXlhS043M0twelVXczF1aV90akZZRmVuRnoyaGY3YXBhbXN1OU1Nek42UVBPSGE2Q2FWMmJ2NzZmX2QtRms5LTlWbm9mMHBN",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit is Up 11% Premarket After S&P 500 Addition. Here's How Other New S&P 500 Stocks Performed. - 24/7 Wall St.",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 13:05",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2FmYVNJWmQyWVBoOE1uUmRXUkRxQ3F3dmc0dzVpazk4a0N3M3FlaGwyVFpfQ1Y4d25UNWwwM01PVzdvZjREM3hDNll0ckZkYndfTmR0MzdLTUhwdlZfcURlaVJUY09EbWZLQXprM1g3MndUVU9MeDh6LVFrdTNJVG9USjd6NUUxcUZpdE1yQzMweXY4cmRRQVJXNmZrTzk0UlBkNi1kVEYtNzNjT1ZCTUZBWWlHZXdJN3VZQlc2Z2tXS1p6VU1jY1Rnc0FXVDR2?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2FmYVNJWmQyWVBoOE1uUmRXUkRxQ3F3dmc0dzVpazk4a0N3M3FlaGwyVFpfQ1Y4d25UNWwwM01PVzdvZjREM3hDNll0ckZkYndfTmR0MzdLTUhwdlZfcURlaVJUY09EbWZLQXprM1g3MndUVU9MeDh6LVFrdTNJVG9USjd6NUUxcUZpdE1yQzMweXY4",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit stock jumps on inclusion in S&P 500 - CNBC",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-13 21:30",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnZvWjlnT3dPZlVTTlhDa0QyMmJiTVN1d3dGYnVfYVJSYWY1NDFOMExyQ0NoRWxDU0ZodGRSaHVhUjdLR0dDci1GckNydjRtWDdTNi00WThHZXFTUWZCQXhOb0R1V1hpZlRmeElqc2NyUFh0QTBtbTlTd3hEb05XY0pHTDRtUU91emNoVTdkdE9xd9IBlwFBVV95cUxNdDUxb281S2o1bi1Mc0xEUnpMQno0aVlYM1Zxbk9Sd0ZkVjYxM0hhWjMxMDNwV2VKQVA4N1RHd0p6TnlPS2JTbEx6NnB5eXp4VzJnaDBfMEU3RWZNVEx1SVBrSW5aWGhWbl9IZFZTWGExa0NqVzZnczQzWFJNcEQ3WkZzbVZnUG84WVY4cWtiLUZ1djZUN09R?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnZvWjlnT3dPZlVTTlhDa0QyMmJiTVN1d3dGYnVfYVJSYWY1NDFOMExyQ0NoRWxDU0ZodGRSaHVhUjdLR0dDci1GckNydjRtWDdTNi00WThHZXFTUWZCQXhOb0R1V1hpZlRmeElqc2NyUFh0QTBtbTlTd3hEb05XY0pHTDRtUU91emNoVTdkdE9xd9IB",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Will Be Added to the S&P 500 - Reddit Inc Homepage",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-13 23:38",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTm5tcWJEV0FZakZRYjFBeXlDM1EyZUltZU5zTEFzaHU1T2JXTTdNZWgtRnNhaHRVWnBGWVBjamNuZUI2RVNJUW81Q1RleXBEc3BZX3hWbTc4V1N0dVhXU3lqOXBWQk4yNzNmeTNoNA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTm5tcWJEV0FZakZRYjFBeXlDM1EyZUltZU5zTEFzaHU1T2JXTTdNZWgtRnNhaHRVWnBGWVBjamNuZUI2RVNJUW81Q1RleXBEc3BZX3hWbTc4V1N0dVhXU3lqOXBWQk4yNzNmeTNoNA?oc=5\" target=\"_blank\">Reddit Will Be Added to the",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit is Up 11% Premarket After S&P 500 Addition. Here\u2019s How Other New S&P 500 Stocks Performed. - Yahoo Finance",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 13:05",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObklrc2JHbERmaHBwVVIxQkRKU0Q2N3phYzRJSC1qY2tkRC1pV0ZYLVJsdkM4WjE0UGt5ZFNTLWhFTTdIOU5jNDNqSVNjbm9RNkZxRzZ3THJTOWlmUXBuMTZyUzJ1bmV2Q0xfVXFGdk83YmIzaFRDRWtIOFBxS3ljd0NnOU5RRGkySm1OSkI2cHJSekVf?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObklrc2JHbERmaHBwVVIxQkRKU0Q2N3phYzRJSC1qY2tkRC1pV0ZYLVJsdkM4WjE0UGt5ZFNTLWhFTTdIOU5jNDNqSVNjbm9RNkZxRzZ3THJTOWlmUXBuMTZyUzJ1bmV2Q0xfVXFGdk83YmIzaFRDRWtIOFBxS3ljd0NnOU5RRGkySm1OSkI2cHJSekVf",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit Will Join the S&P 500. The Stock Jumps 12%. - barrons.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 08:44",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0RXZjZnWkRHTFZ1bnl5ZE8zMXhBQzFNUzZIaWpNalVtbzhaMV8zQUlHUzN6bUtVQVZreElGbG9MU1gwNXpKaGU5S2gxVGZJclBjdEM4Z3ZrYVJFLWpHTmxjTko2YXc0djVyVE03eFRwam5MY3ZsRjBqR25UNjBDVUJXYlo?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0RXZjZnWkRHTFZ1bnl5ZE8zMXhBQzFNUzZIaWpNalVtbzhaMV8zQUlHUzN6bUtVQVZreElGbG9MU1gwNXpKaGU5S2gxVGZJclBjdEM4Z3ZrYVJFLWpHTmxjTko2YXc0djVyVE03eFRwam5MY3ZsRjBqR25UNjBDVUJXYlo?oc=5\" target=\"_blank",
+        "source": "google_news"
+    },
+    {
         "title": "Ferguson Enterprises Inc.(NYSE:FERG) added to S&P 500 Trading Companies & Distributors - marketscreener.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
