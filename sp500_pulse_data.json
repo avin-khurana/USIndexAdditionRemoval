@@ -1,5 +1,18 @@
 [
     {
+        "title": "AvalonBay Communities, Inc.(NYSE: AVB) dropped from S&P 500 Value - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "AVB"
+        ],
+        "date_announced": "2026-08-18 00:35",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGFGcFA3eUo2ZHFsMFJvMTlXMGRmLWpWS180UnBoUXpFS056STdkQUR1RllpT1F3N0tvMTZya1gyS21LVkY2RW13OWowNVpPaW15bDVlOXFXWi1IcTVhOVNMZkZ0cXE3VUhuR1lLTWlrTkUyUUJWYWM2dW1hUHBwWUN4b3laaDNCS1hJUzFkZmhfd1Y0cS1nZkhhR0h5aG1wUVp5YmpDTkhQSGFSaHMxZENSUlU?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGFGcFA3eUo2ZHFsMFJvMTlXMGRmLWpWS180UnBoUXpFS056STdkQUR1RllpT1F3N0tvMTZya1gyS21LVkY2RW13OWowNVpPaW15bDVlOXFXWi1IcTVhOVNMZkZ0cXE3VUhuR1lLTWlrTkUyUUJWYWM2dW1hUHBwWUN4b3laaDNCS1hJUzFkZmhfd1Y0",
+        "source": "google_news"
+    },
+    {
         "title": "Reddit to join S&P 500, but history warns gains may fade after initial pop - Pluang",
         "action": "ADDITION",
         "status": "ANNOUNCED",
