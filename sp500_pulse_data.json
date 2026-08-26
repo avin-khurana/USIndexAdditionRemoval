@@ -1,5 +1,29 @@
 [
     {
+        "title": "Reddit, Inc.(NYSE: RDDT) added to S&P 500 Growth - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "RDDT"
+        ],
+        "date_announced": "2026-08-18 00:36",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVMyMjJGU09VOW83V1E2LS1vTWttTldCMG8xSWMwek9XRHpWdW9nSmd3VjZGNWlwQlRPby1lbWlzS2gxa2dLN3ZwdnhoaVNyRE9zTTludlBnSHRJb2ZLSWtfdnBJNFpGTzBvRklQTUtsdXJEQ3RkMERXSHVhb3Q0T1JuN3NvR2R1MnFWeVdndWplUFlvRmFwWmhUcWdBdw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOeVMyMjJGU09VOW83V1E2LS1vTWttTldCMG8xSWMwek9XRHpWdW9nSmd3VjZGNWlwQlRPby1lbWlzS2gxa2dLN3ZwdnhoaVNyRE9zTTludlBnSHRJb2ZLSWtfdnBJNFpGTzBvRklQTUtsdXJEQ3RkMERXSHVhb3Q0T1JuN3NvR2R1MnFWeVdndWplUFlv",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit shares gain as investors continue to digest S&P 500 addition and bullish analyst targets - Quiver Quantitative",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-25 14:48",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUh4dG1qdVBPdHVWcUlCTTNUOG9VQUE4YTBTdWhFX0hleFlaM2lrNTZ4U1oyS1RQMGk4NjRzQkF0TWM2Zi1KS0U1TDNadzRNaWVDMnVweWQ1bndyanNoTnZUVEw3ZTVjSVNlb19CeFhfbnViNDcxQWVzWnM0bk1KaHZaNHRLUFpjRlRITUx1aG9rY01jbGh5ZjFQZ3lLSExlTktsVlNvZkQyZW1NQ2VBb05hX29vY0ZwTWtFVWF2dG9PSHFxdEhxeUhn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUh4dG1qdVBPdHVWcUlCTTNUOG9VQUE4YTBTdWhFX0hleFlaM2lrNTZ4U1oyS1RQMGk4NjRzQkF0TWM2Zi1KS0U1TDNadzRNaWVDMnVweWQ1bndyanNoTnZUVEw3ZTVjSVNlb19CeFhfbnViNDcxQWVzWnM0bk1KaHZaNHRLUFpjRlRITUx1aG9rY01j",
+        "source": "google_news"
+    },
+    {
         "title": "AvalonBay Communities, Inc.(NYSE: AVB) dropped from S&P 500 Equal Weighted - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
