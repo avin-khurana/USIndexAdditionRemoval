@@ -1,5 +1,42 @@
 [
     {
+        "title": "Social Media Giant Reddit Is Set to Join the S&P 500 Soon. Its Stock Is Soaring - AOL.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wYjczdllJQm0yZHBIc2NoSktLVklxSHBrWDVjaW9PdG9OQ0tLeUc0UGtsLU9ZblVUNmZnU2FQaXpBZ3p2MUVpcXBYMGhUVGZxdkRuNWNVeGpWWlpsSlJSVXc1RC1ZN3VNLVd2R3p5MEg1TkN6UEkzS3dWMUprUQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4wYjczdllJQm0yZHBIc2NoSktLVklxSHBrWDVjaW9PdG9OQ0tLeUc0UGtsLU9ZblVUNmZnU2FQaXpBZ3p2MUVpcXBYMGhUVGZxdkRuNWNVeGpWWlpsSlJSVXc1RC1ZN3VNLVd2R3p5MEg1TkN6UEkzS3dWMUprUQ?oc=5\" target=\"_blank\">Social ",
+        "source": "google_news"
+    },
+    {
+        "title": "Reddit, Inc.(NYSE: RDDT) added to S&P 500 Value - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "RDDT"
+        ],
+        "date_announced": "2026-08-17 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEV4eUlSYXg4cmZJb2daWDB2aU1ZbzMzSjdsNWphM1pYYmh3WkFLZE5la2ZYZk00SU9NZGJvRFVXY2h0Y3lYNWg2NE5oRHY0ZGQ2SkZnUzhtWks3UnZINXY2ek9xUEhkbFRnSXVLUDFkcC0yMVExUEJVQ0lzb3FtaDEtWGRRaWxmTXNfQ3FjNnkwUGNhaGJtSmZsNnQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEV4eUlSYXg4cmZJb2daWDB2aU1ZbzMzSjdsNWphM1pYYmh3WkFLZE5la2ZYZk00SU9NZGJvRFVXY2h0Y3lYNWg2NE5oRHY0ZGQ2SkZnUzhtWks3UnZINXY2ek9xUEhkbFRnSXVLUDFkcC0yMVExUEJVQ0lzb3FtaDEtWGRRaWxmTXNfQ3FjNnkwUGNh",
+        "source": "google_news"
+    },
+    {
+        "title": "SoFi Technologies Stock (SOFI) Opinions on Potential S&P 500 Addition - Quiver Quantitative",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "SOFI"
+        ],
+        "date_announced": "2026-09-03 14:05",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekxBRWprMTNOSl9oeF80Mmd5MzJNTTVYR0JDS3d1R0p6OElyc0J6QzdrNFRuNFZtb3lnQzJBSk9nMWhvRVBFaWFZUWpycXpmdTJzVW1qQ1B0YnU3bEV0WTNjN2VZeTRBRjZCZVRyS29jRlhVaHFzaGZTMWRQUlZwZVMtUFpGOTFHZGpLUDBVamJZLWxnUXNfd242OVFLSGMtNXkxUjhKMG5Na2Fz?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOekxBRWprMTNOSl9oeF80Mmd5MzJNTTVYR0JDS3d1R0p6OElyc0J6QzdrNFRuNFZtb3lnQzJBSk9nMWhvRVBFaWFZUWpycXpmdTJzVW1qQ1B0YnU3bEV0WTNjN2VZeTRBRjZCZVRyS29jRlhVaHFzaGZTMWRQUlZwZVMtUFpGOTFHZGpLUDBVamJZLWxn",
+        "source": "google_news"
+    },
+    {
         "title": "Online forum Reddit will join the influential and closely tracked S&P 500 index - sandiegouniontribune.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
