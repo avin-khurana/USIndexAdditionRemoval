@@ -1,5 +1,62 @@
 [
     {
+        "title": "The Trade Desk stock falls as S&P 500 removal and slower growth weigh on sentiment - ad-hoc-news.de",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-11 17:01",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0I0VTNWeE5xWEtaQVdTejB3eG14OTdvVXJBNENSVTdGaHlIcjhGa2FlWjdaSXVkVW5OaVhBZ25oTzFOQ2IySDhGQndRYWtuTFpTUlEwVUtzN1VlOEFZTHQ3STJ2akEtQlVVSmJuUWplRW5ZazVUUjJWSm56Wmx3X1gzWVZveG9QeVVGRURKbzk1aXJZVTlYWWNTZVAxZWxRV2FZdm1NT2FtSXlBeVVXVnBGZGNsRWV6V2o0MzFPeVZMX2tRM0J6NFBiV1VwYmZCREE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0I0VTNWeE5xWEtaQVdTejB3eG14OTdvVXJBNENSVTdGaHlIcjhGa2FlWjdaSXVkVW5OaVhBZ25oTzFOQ2IySDhGQndRYWtuTFpTUlEwVUtzN1VlOEFZTHQ3STJ2akEtQlVVSmJuUWplRW5ZazVUUjJWSm56Wmx3X1gzWVZveG9QeVVGRURKbzk1aXJZ",
+        "source": "google_news"
+    },
+    {
+        "title": "Molson Coors stock falls after S&P 500 removal and 52-week low - ad-hoc-news.de",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-11 19:35",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2FVQWVveDlwenN1eGdfdVROQy1IcDJyX001TW9NYm1MTUxuSmduMWhSem1QUzhZR2N1WE1iNW5IRlNrVk9JWF8xMzhBcEY1Z0dnbVpVMWtrNWN2WGVTQVp1V3ZESGx5SUZ1Y1Zubnkwc1pqblVndDUzeUc2blF3cE9qNmFuMncyVE5ld3FBRElnNHpkX3RKY2N6VHRydExTYTFDZ0wxdzAtVzNsdkFNNVlqMlhxRUpxZjNMUEZ3Y2hjaGlwbm9QbQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2FVQWVveDlwenN1eGdfdVROQy1IcDJyX001TW9NYm1MTUxuSmduMWhSem1QUzhZR2N1WE1iNW5IRlNrVk9JWF8xMzhBcEY1Z0dnbVpVMWtrNWN2WGVTQVp1V3ZESGx5SUZ1Y1Zubnkwc1pqblVndDUzeUc2blF3cE9qNmFuMncyVE5ld3FBRElnNHpk",
+        "source": "google_news"
+    },
+    {
+        "title": "Online forum Reddit will join the influential and closely tracked S&P 500 index - Audacy",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-08-14 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25zMktHbWRVU2ZsMGpkb3hlT2JWVk1YN1dzeEJaX19GeHZsNFdRM1duSnRtTkV2WGFXYXJ6UlpRRktGLWQ3Mi0wcnFpenVFU3BSeDhtNnF4SUVRNkMtRXdLWWg2OWVOWno2MFNtZ1hOaUVYNnJnNXlRaENNQURQZ29FaTNSblRqZEV0TVZmM3pFMzBReGJqWW54YWZ6cjlfTjRPMFdmOUpjMVVuQ1lSV0d5RHpWTUtmYTMxTFdn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQc25zMktHbWRVU2ZsMGpkb3hlT2JWVk1YN1dzeEJaX19GeHZsNFdRM1duSnRtTkV2WGFXYXJ6UlpRRktGLWQ3Mi0wcnFpenVFU3BSeDhtNnF4SUVRNkMtRXdLWWg2OWVOWno2MFNtZ1hOaUVYNnJnNXlRaENNQURQZ29FaTNSblRqZEV0TVZmM3pFMzBR",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy\u2019s S&P 500 Entry Could Bring A New Wave Of Buyers, Says Clear Street \u2014 Projects 20% Upside In BE Stock - TradingView",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BE"
+        ],
+        "date_announced": "2026-09-08 15:33",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWkZ6RGl2TDdxaGZZd0NTN2VKUUgyZlBqUzl6c2tRaXZZdUZqVE9zSlFwVHVVQjJaVHpNU1d0SzFsTWlGNTJuTUQyNXdEczY1b0RUaE1WZVZNSmxZVXc2bVRQTUZuVUdlQV94Y0RjcXlLclpNWEF4d0RsVWFfdHFRR3Atd3otU1RSOGs2ZWZxbXhISWpjeVZHTTg1VDVCSDZaLTNkX2RmVUVUSFFVaVhxcWkwLWVwX25oWGhqUHZLRVl4UnFKN2h6YlRfd3lJc19NLUxqNXdiMDhvR2lvQXJKZFk5Q0Y4b0oySS0xWXdPMlJNV3RlR0NwTzNna2c4NmZS?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNWkZ6RGl2TDdxaGZZd0NTN2VKUUgyZlBqUzl6c2tRaXZZdUZqVE9zSlFwVHVVQjJaVHpNU1d0SzFsTWlGNTJuTUQyNXdEczY1b0RUaE1WZVZNSmxZVXc2bVRQTUZuVUdlQV94Y0RjcXlLclpNWEF4d0RsVWFfdHFRR3Atd3otU1RSOGs2ZWZxbXhISWpj",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher - 24/7 Wall St.",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-11 15:49",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmV1QnVlNTFpamxfRHh6QnJKUHUtQWoxWWYySXZsMjFQdVV5QUNDZW9OT3cxcThWQ3NDb05veFFiV09xZGdybjBoYkpybXpGNHN1WGJOV1RkNmZqYVJOV1VfMHk2Z0lLYk0xS1hwNGFKRXNBMFhnWVdyZFBTMUhESmRfNXJZQzV3UHh6RGQ2aDZ4S2ozcTltbzktZFU0YVpCTDBHUmJSbWd6cUlMNjNwNTRSVWFXM0xDQ0lpaHZhZnQ1dGtPVTZ0dHphZGtTUjlXdGtBUG53bnR1cVRvODFmODc2V01ud1VVS3ZQMFRVOFRhUUk?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRmV1QnVlNTFpamxfRHh6QnJKUHUtQWoxWWYySXZsMjFQdVV5QUNDZW9OT3cxcThWQ3NDb05veFFiV09xZGdybjBoYkpybXpGNHN1WGJOV1RkNmZqYVJOV1VfMHk2Z0lLYk0xS1hwNGFKRXNBMFhnWVdyZFBTMUhESmRfNXJZQzV3UHh6RGQ2aDZ4S2oz",
+        "source": "google_news"
+    },
+    {
         "title": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass? - The Motley Fool",
         "action": "ADDITION",
         "status": "ANNOUNCED",
