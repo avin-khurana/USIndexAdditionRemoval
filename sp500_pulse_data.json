@@ -1,5 +1,27 @@
 [
     {
+        "title": "S&P Dow Jones Indices announces September rebalancing; Bloom Energy added to S&P 500 Index - \u5bcc\u9014\u725b\u725b",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-04 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZU4wSlV5cFdCZXlDalo0dlFTMENwdUQyS3dHeHdJN0k2TWpsWEltZWROM3o2VkNsdnBzcnBnVEhvSmhuX0ZPSk4teENoR1RSTmZIbk05eXd4d1FkUVUyeGNtM0YtOHhjM1hzYTZhSU5hZkxWbFdjZjFqc1Z1NlhLYk16dUI5YkpZX21hLXVTRGdHYmZuSXFmTXFkNXNqVnN3anhRaFVqdF80MnNNN1pEUkZKYWdVdzdmbWgxNFhfelg3TzlybmVUU0t1WWZGZTNxa1puLXBONTY1QWpDVXBOcmtn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZU4wSlV5cFdCZXlDalo0dlFTMENwdUQyS3dHeHdJN0k2TWpsWEltZWROM3o2VkNsdnBzcnBnVEhvSmhuX0ZPSk4teENoR1RSTmZIbk05eXd4d1FkUVUyeGNtM0YtOHhjM1hzYTZhSU5hZkxWbFdjZjFqc1Z1NlhLYk16dUI5YkpZX21hLXVTRGdHYmZu",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy Stock Soars After Replacing Molson Coors in the S&P 500 - benzinga.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-08 12:42",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGh1djUxQk45ejU2S2pidmluaGJ3OFMzU2Y0U01ldEFZUWJwSFNxSHYtVWZWalJkcFNFaGJBSTUxX2NOMnNOWlRzNXdleVZPMmV4b1J5cUpXTm5uTllzX0dZOHAtYWFhTnFmWldyNEVxQU5LRzhSM2U1aE9JYlNvdVBMSlhwdS0tNkV6R21KcWJUZHplVHNWVllCMDNNTWZMT1RpbHBrMm9fNU0zM2xuRkdvdl9PdDhSLVFoeFRyU3k4blg1RGFuZ3pmOA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGh1djUxQk45ejU2S2pidmluaGJ3OFMzU2Y0U01ldEFZUWJwSFNxSHYtVWZWalJkcFNFaGJBSTUxX2NOMnNOWlRzNXdleVZPMmV4b1J5cUpXTm5uTllzX0dZOHAtYWFhTnFmWldyNEVxQU5LRzhSM2U1aE9JYlNvdVBMSlhwdS0tNkV6R21KcWJUZHpl",
+        "source": "google_news"
+    },
+    {
         "title": "The Trade Desk stock falls as S&P 500 removal and slower growth weigh on sentiment - ad-hoc-news.de",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
