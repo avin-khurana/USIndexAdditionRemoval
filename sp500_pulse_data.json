@@ -1,5 +1,153 @@
 [
     {
+        "title": "The Trade Desk, Inc.(NasdaqGM:TTD) dropped from S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-21 01:03",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcTU3em4tTXZlcUtVTTR1eXJZbjRRNmdSdzVJVWVPRkcydzNLY3VMNVA1VmpWaUpKMDF1ZXBvM0JIQVo2VDU5bWVhVzRDZnBrM0J6a3hlWWN0OTBtMGlOUVJUVWo2N1lNa1JMZTUzcE8wUTZ5MFprd3FISEU2eDNBeGRoVzdPQS1lTGx1WFUyV3JQZUNwZFNRT0UzZ1lyUENVNThKcXFqc29Ec1JCSXFsYjk4M3N2VU5ieWNPaWJqc0hmOXRXankwWkdDSTExY3dFNXFCY0VBWGI3V1FlWGJqSmNB?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcTU3em4tTXZlcUtVTTR1eXJZbjRRNmdSdzVJVWVPRkcydzNLY3VMNVA1VmpWaUpKMDF1ZXBvM0JIQVo2VDU5bWVhVzRDZnBrM0J6a3hlWWN0OTBtMGlOUVJUVWo2N1lNa1JMZTUzcE8wUTZ5MFprd3FISEU2eDNBeGRoVzdPQS1lTGx1WFUyV3JQZUNw",
+        "source": "google_news"
+    },
+    {
+        "title": "The Trade Desk, Inc.(NasdaqGM: TTD) dropped from S&P 500 Equal Weighted - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-21 03:32",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3FPQ0Y0OHZrNzRRVVJjYnV2UjdhUjVCNU1nVXZFZnpjQkZaSzdhdWRvQnROZzQxRTllSzJqa1ROdExId3NieDd4SHdvOUZYSHBQT1dpSTJxLW45M1lqaUtiU2VKWlFkcEhxRGFSOENoZ19PYmJybDkxa2d0N0ZGTkpLaGd1b3pZRVVYYzdpTm80Rkw5NmpOZFI3a0c5QjBubUFXYnh1Y0c3NjMzMW9PaTRmZjZnak13bHllUQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3FPQ0Y0OHZrNzRRVVJjYnV2UjdhUjVCNU1nVXZFZnpjQkZaSzdhdWRvQnROZzQxRTllSzJqa1ROdExId3NieDd4SHdvOUZYSHBQT1dpSTJxLW45M1lqaUtiU2VKWlFkcEhxRGFSOENoZ19PYmJybDkxa2d0N0ZGTkpLaGd1b3pZRVVYYzdpTm80Rkw5",
+        "source": "google_news"
+    },
+    {
+        "title": "Builders FirstSource, Inc.(NYSE: BLDR) dropped from S&P 500 Industrials - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BLDR"
+        ],
+        "date_announced": "2026-09-21 01:01",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGRJRzBpdzdkWC03SlpLNElrdGROazd1RjBxdDdMdklXcl96TzR6Rm02MnMwMy1kNVJMc09FNmtRRlM5Q0t3X000dnY4TjBZeVRvZUxhbWpXYU1yT3RON3gycTJKYnU2Qk5JZTMtS25EMWhPdzdTTm43TnR1RUh6MHNORlRXT2ZOVUVoYXRYX0FFai1YYmdudWhEWS1iN1B6Yk5XSF9pdHVHMWpkRjctRzcyZnctYnRCSkZYOQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGRJRzBpdzdkWC03SlpLNElrdGROazd1RjBxdDdMdklXcl96TzR6Rm02MnMwMy1kNVJMc09FNmtRRlM5Q0t3X000dnY4TjBZeVRvZUxhbWpXYU1yT3RON3gycTJKYnU2Qk5JZTMtS25EMWhPdzdTTm43TnR1RUh6MHNORlRXT2ZOVUVoYXRYX0FFai1Y",
+        "source": "google_news"
+    },
+    {
+        "title": "Molson Coors Beverage Company(NYSE: TAP) dropped from S&P 500 Equal Weighted - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "TAP"
+        ],
+        "date_announced": "2026-09-21 03:31",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3dydU5xWFVKSjZRU29UeERNeW9IMm91SERmR2NqS045S2xFMGQ1eHN4S19MdmZ5VE5LWEYtNmpNWThYY29VR0xzR2trZ3JFQWUtVjVjZFdtNUJERU1raVE0N25leEJkMTB1NE14N2FRclBjR0N0bjN4bzczVHRSc2JlbGVVSjU1T2JKMlo5ejZnN2I2QktxMXVOcXBmR0w0ZDMtVVVQZHhJT3NRcmZ4Nm9aLW5JSTVmM01GQVZYOTk1MHh2WEE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3dydU5xWFVKSjZRU29UeERNeW9IMm91SERmR2NqS045S2xFMGQ1eHN4S19MdmZ5VE5LWEYtNmpNWThYY29VR0xzR2trZ3JFQWUtVjVjZFdtNUJERU1raVE0N25leEJkMTB1NE14N2FRclBjR0N0bjN4bzczVHRSc2JlbGVVSjU1T2JKMlo5ejZnN2I2",
+        "source": "google_news"
+    },
+    {
+        "title": "Nike Stock Hits New Low as On Holding Competition Heats Up, Yields Spike, and S&P 500 Removal Nears - Benzinga",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-20 19:30",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNC1Kbk9BLUFMZlFzUGZEVUJ5Vjhyc3NnTVB5MHVJaDZudjF1QmFXZE8wVWxSN1oxV0NwcVNsM3VQdUxGNlYxSmJtNDFfWjdtRE14Wm1BVXdvY183UXZhNTY5UnVmSXVRYk1KRWZ6ZXptWko5em9MQUhVLWduTUlGVXExY3h5TDAtaTFBbE0tNUt6WjVmNXdKbjc3ZHVGWm9GTHpINlprV2g1SHBUY0dic09saXR5R0pIYURKSDB3VmtockpBbFYxbmZpOEphVmx4WnVidXNkVEhyWnlrUnBOejVqcjJORC1i?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNC1Kbk9BLUFMZlFzUGZEVUJ5Vjhyc3NnTVB5MHVJaDZudjF1QmFXZE8wVWxSN1oxV0NwcVNsM3VQdUxGNlYxSmJtNDFfWjdtRE14Wm1BVXdvY183UXZhNTY5UnVmSXVRYk1KRWZ6ZXptWko5em9MQUhVLWduTUlGVXExY3h5TDAtaTFBbE0tNUt6WjVm",
+        "source": "google_news"
+    },
+    {
+        "title": "Builders FirstSource, Inc.(NYSE: BLDR) dropped from S&P 500 Equal Weighted - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BLDR"
+        ],
+        "date_announced": "2026-09-21 03:32",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUFLVjN3ZWJTczM0aWFzbjZWb3A1VURqSk1LTmJ1X1ljSC11cm1xTGJBZVEzY2pDc1I0U0YwYnJlZlg0RWxCaTEzNm83UW1sNEpTX09ORWdXb0FhT2pqbmNkbl9yaWlUN1A3bjM3MERCY3pEUFIzMlZMdDRVWkZkWldwN1dWRHFqLXZIbmJHclhnMVlNV1ktd1BFUElEMjhZajBXQnhFX3lZRlFuaER3Q2pQdHJndzRzeXhkQWY2YWM?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUFLVjN3ZWJTczM0aWFzbjZWb3A1VURqSk1LTmJ1X1ljSC11cm1xTGJBZVEzY2pDc1I0U0YwYnJlZlg0RWxCaTEzNm83UW1sNEpTX09ORWdXb0FhT2pqbmNkbl9yaWlUN1A3bjM3MERCY3pEUFIzMlZMdDRVWkZkWldwN1dWRHFqLXZIbmJHclhnMVlN",
+        "source": "google_news"
+    },
+    {
+        "title": "Illumina, Inc.(NasdaqGS: ILMN) added to S&P 500 Health Care - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "ILMN"
+        ],
+        "date_announced": "2026-09-21 01:07",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDg0SmJaWWpuQW1FeGdJcjl0V0NiNEV0eVBzTVl0cy1ZSVU3UVVOek9KY29KWDhxT0tkeEZHa21KWmoyX3VWYlllTHJfaVJ4cWFaQlUwNGl5bnRWQ3VLVUxIY1NLTlZsV3loV3NRcHlfZzRrQ3UwYUtfdGhPNkFmdHZ2d3NCeWZhWm5JVUd6d0Z1c1JMeEdUejl3aHRmaGNyTE1zSE5RbEVnWmo5?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDg0SmJaWWpuQW1FeGdJcjl0V0NiNEV0eVBzTVl0cy1ZSVU3UVVOek9KY29KWDhxT0tkeEZHa21KWmoyX3VWYlllTHJfaVJ4cWFaQlUwNGl5bnRWQ3VLVUxIY1NLTlZsV3loV3NRcHlfZzRrQ3UwYUtfdGhPNkFmdHZ2d3NCeWZhWm5JVUd6d0Z1c1JM",
+        "source": "google_news"
+    },
+    {
+        "title": "Illumina, Inc.(NasdaqGS: ILMN) added to S&P 500 Equal Weighted - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "ILMN"
+        ],
+        "date_announced": "2026-09-21 04:43",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWE1dHFEM09zODkxSHg4dWhDejFyRW10amRrOTYyY3hJVVR2YzQyeHZSWTZLczR5MWdfWl9WLS1DZ1g0SnVvbkhHaWlaczFUUXdLU2tybUVrdU5MUzRfbURLcGJ0b3FhaHFPRmQ3WmhGYTljNWhHSkVQT2VaRTZTa0pXekp0b3doUXR2akhIcWo5MllIbm1udHp6aEM5blg5ZVBDY3hBWUdtQzBLRW5kcg?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQNWE1dHFEM09zODkxSHg4dWhDejFyRW10amRrOTYyY3hJVVR2YzQyeHZSWTZLczR5MWdfWl9WLS1DZ1g0SnVvbkhHaWlaczFUUXdLU2tybUVrdU5MUzRfbURLcGJ0b3FhaHFPRmQ3WmhGYTljNWhHSkVQT2VaRTZTa0pXekp0b3doUXR2akhIcWo5MllI",
+        "source": "google_news"
+    },
+    {
+        "title": "Everpure, Inc.(NYSE: P) added to S&P 500 Equal Weighted - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-21 05:12",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXBiRzg3TmVHR2hiYUFvd3NfaGtmcVFheW5PN0JPbGJNYWZUMm1JcnQ3c2VqYjU2RXhTWW9ITnpwZGZUdHBVcnRYamdiVU5wMVZiZVJFQ3RtcVVoVF8yRnhBTEs4MkRjLVRHekRrV2s5cVd5ZkRmUTU3WUtFRzhVNWFXbXhzOEZZZDFUeFlJeUgwdXgwcjVGRG9WQWstQ2tQZHQ3MVphUQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXBiRzg3TmVHR2hiYUFvd3NfaGtmcVFheW5PN0JPbGJNYWZUMm1JcnQ3c2VqYjU2RXhTWW9ITnpwZGZUdHBVcnRYamdiVU5wMVZiZVJFQ3RtcVVoVF8yRnhBTEs4MkRjLVRHekRrV2s5cVd5ZkRmUTU3WUtFRzhVNWFXbXhzOEZZZDFUeFlJeUgwdXgw",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy Corporation(NYSE:BE) added to S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BE"
+        ],
+        "date_announced": "2026-09-21 01:16",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPckNLcW5lb3pqR1RJSFMzOUZOemRqZDgwUURJbVhJQ2JveExSRWtWbU5fVk1zb09FdVBJNnJfei1abVJwSUw3M3dVdDZlY3daSllpV2dwT3E0WmdGU3p0S3hmdW40aGRoQ3U3eUZOTjEyQllXMnVlY2Z2Z1phSlhNb2FHckZHMG92WVlXcHhpVFdQOUtuV0w1VnBoeXBLZTFneFVjQ1hYaUtFTlQ4RGh4WDVrYWdBajUtc2gyT2U5ZUJLWmRnN0FGVC1tbWt5bHJtcWJMV0xBbDRhY0JBei1UVE96bDE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPckNLcW5lb3pqR1RJSFMzOUZOemRqZDgwUURJbVhJQ2JveExSRWtWbU5fVk1zb09FdVBJNnJfei1abVJwSUw3M3dVdDZlY3daSllpV2dwT3E0WmdGU3p0S3hmdW40aGRoQ3U3eUZOTjEyQllXMnVlY2Z2Z1phSlhNb2FHckZHMG92WVlXcHhpVFdQOUtu",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy Corporation(NYSE: BE) added to S&P 500 Capital Goods (Industry Group) - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BE"
+        ],
+        "date_announced": "2026-09-21 01:12",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWVLVFBmNUJMSVRRczFUbXlWRHdaZ2NqUUJQNWFzMzZrNWowZ3B2bk9fcUlaRTU5eEhvMVFndkowdnFwMFItR0EwcW5peGUzcjZwWFNYMExXRFhhRTVoQVZKazBPTXNTZjFiZGg4UWFTOTBYVXZZYlpEZW80SDlDZTN0S0M1MDJOY241dnVjTUx5d2xGODZYXzZEYzd0S21IZnNrczVBVHVHajBPMmJSRWNBTHE1dm9admdsQTBzckNXUnhwZ1JUUzRzSQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWVLVFBmNUJMSVRRczFUbXlWRHdaZ2NqUUJQNWFzMzZrNWowZ3B2bk9fcUlaRTU5eEhvMVFndkowdnFwMFItR0EwcW5peGUzcjZwWFNYMExXRFhhRTVoQVZKazBPTXNTZjFiZGg4UWFTOTBYVXZZYlpEZW80SDlDZTN0S0M1MDJOY241dnVjTUx5d2xG",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy Corporation(NYSE: BE) added to S&P 500 Growth - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BE"
+        ],
+        "date_announced": "2026-09-21 01:11",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRElvNkR1OXBhVDN2TVdJY1dYYURjUFpxQ3Q3ZTNBcEdqM2xpSlpXMEVyb1VKRWZCOG5XMV9RZ0tLUFV2V0k4bmwyWW00NHlyVmlCV1dPdFVKSlJQVXo5MXl4YVpmMXRaZ01UZlMtVXM2emMyMkZuRWNMeGRZMzhidTJyWkFtbm1QS2hJNmJ3NGl1NlpWWGgwbHNvS0t6aE9NWmYxQXlSeWQ0c2dNMGc?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRElvNkR1OXBhVDN2TVdJY1dYYURjUFpxQ3Q3ZTNBcEdqM2xpSlpXMEVyb1VKRWZCOG5XMV9RZ0tLUFV2V0k4bmwyWW00NHlyVmlCV1dPdFVKSlJQVXo5MXl4YVpmMXRaZ01UZlMtVXM2emMyMkZuRWNMeGRZMzhidTJyWkFtbm1QS2hJNmJ3NGl1NlpW",
+        "source": "google_news"
+    },
+    {
         "title": "Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance - Investing.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
