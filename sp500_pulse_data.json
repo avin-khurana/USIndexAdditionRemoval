@@ -1,5 +1,55 @@
 [
     {
+        "title": "Builders FirstSource, Inc.(NYSE:BLDR) dropped from S&P 500 Capital Goods (Industry Group) - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "BLDR"
+        ],
+        "date_announced": "2026-09-21 01:01",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9HRlJiYTJxaU1aRDN4UUJhM1NHWlFjc1VYQVhocDVCTTVNQ0hTQkROd1BVcEgtbTZUM3Vjak1XaVh3bzQzcEhWUUhIbjZ3MUZHT0hEZlpzbC00c0tJcFJudkNZTXFPaEF6dENnVTFIU1c1Qy1IbkZBcUFza21PUjFkbU05d0tfenpLY3hEQ3l4b0xUMTdWLU9paFFWSTFpdlA4SUZLTmhFNFI1aVg5a1cwLXVLVUxRcWhmVWtoTE43MHdwUXdiZ0FNd3hlZ1cyZGo0?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9HRlJiYTJxaU1aRDN4UUJhM1NHWlFjc1VYQVhocDVCTTVNQ0hTQkROd1BVcEgtbTZUM3Vjak1XaVh3bzQzcEhWUUhIbjZ3MUZHT0hEZlpzbC00c0tJcFJudkNZTXFPaEF6dENnVTFIU1c1Qy1IbkZBcUFza21PUjFkbU05d0tfenpLY3hEQ3l4b0xU",
+        "source": "google_news"
+    },
+    {
+        "title": "Molson Coors Beverage Company(NYSE:TAP) dropped from S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "TAP"
+        ],
+        "date_announced": "2026-09-21 01:16",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM3NzbFJUOG9EcmRVejd3ZXJ6TzhQcHFKdEZPZXF1V0hIQTh4NGRvT19QWmYtWF91RlYxOXVkZ2MzRjQyYzdPSTZVVnlrRHB0eFhIbFNBWWk1Ujg1TUhlRGhFQ0JQWWlRNm01djZ3Sk5IOVQ1cmRrX0ZZb0hzODJuVXNGTmxUTGZiRGJqdWxTbTF2bTJxemllbGt4eDRBa0xZYW5GNUE1REhxT2FvUjdfaTNfNjdvNFlPZVNTaDExM291WFA0TjZnWFZpc2p1Yklja2s5WXVPRkt1ZVpWcHpNbGZvQmM?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM3NzbFJUOG9EcmRVejd3ZXJ6TzhQcHFKdEZPZXF1V0hIQTh4NGRvT19QWmYtWF91RlYxOXVkZ2MzRjQyYzdPSTZVVnlrRHB0eFhIbFNBWWk1Ujg1TUhlRGhFQ0JQWWlRNm01djZ3Sk5IOVQ1cmRrX0ZZb0hzODJuVXNGTmxUTGZiRGJqdWxTbTF2bTJx",
+        "source": "google_news"
+    },
+    {
+        "title": "Illumina, Inc.(NasdaqGS: ILMN) added to S&P 500 Growth - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "ILMN"
+        ],
+        "date_announced": "2026-09-21 01:10",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHdIYWxrM1BadDdzNnM4X1d6b2hHY1dZcDE5TUMtMXJaTjdNWUZHZUpwamR1ZGkyNXlibmxicFZUeFRnWl9OZldyUll3X3k5WFR0QjczSlFNN2NhWWctQWtsNHZ4NEJHR2tlZTFTQ0ZFZXh6LUVnaGZzaUdXOEdNZ0FwUmFTN3dXM2VyZk9TaUwzb0l0X3JWRTY3alR1dTdlb05rVzRR?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHdIYWxrM1BadDdzNnM4X1d6b2hHY1dZcDE5TUMtMXJaTjdNWUZHZUpwamR1ZGkyNXlibmxicFZUeFRnWl9OZldyUll3X3k5WFR0QjczSlFNN2NhWWctQWtsNHZ4NEJHR2tlZTFTQ0ZFZXh6LUVnaGZzaUdXOEdNZ0FwUmFTN3dXM2VyZk9TaUwzb0l0",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy, Illumina, and Everpure set to join S&P 500 in quarterly rebalance - Yahoo Finance",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-04 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVF9IeXlxelA2NnhwYzRITHVpNzNBM2d1OGJzY0lRNThSUnJCVFpJWmtVUFZVaFRTODZIR3hIUkxMSFpLbDJZRElYc3JvWHg5U20yUVBlYmRYNmIycUYtd1BteVJBeU5VTVVkWWVJczBBSXBNbE0za0dFdmw2TDc2MHgzNDBHUmoxOWFXYXEtRWFNRVlsWkcyM3hvbm0wZk13?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVF9IeXlxelA2NnhwYzRITHVpNzNBM2d1OGJzY0lRNThSUnJCVFpJWmtVUFZVaFRTODZIR3hIUkxMSFpLbDJZRElYc3JvWHg5U20yUVBlYmRYNmIycUYtd1BteVJBeU5VTVVkWWVJczBBSXBNbE0za0dFdmw2TDc2MHgzNDBHUmoxOWFXYXEtRWFNRVls",
+        "source": "google_news"
+    },
+    {
         "title": "Nippon Paper Industries Co., Ltd.(TSE: 3863) dropped from S&P Japan 500 - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
