@@ -1,5 +1,57 @@
 [
     {
+        "title": "Corteva, Inc.(NYSE: CTVA) dropped from S&P 500 - www.marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CTVA"
+        ],
+        "date_announced": "2026-10-05 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2xRNWhJSnZoc2IzYTNWUTdBT2IzQ1RYWnppc21TWXdMRXBNYmt1TV9vQVFzYnIzdW5TYUJhUlliY3NiVlNEUWMyUWk0b0dxV3luX01XcndBZkhnVnphYy00VDgtWGZyM1RZS3JhU3JBVFdjUHoyVVg3ZDBvbDlWLUJtN21aRmp1U2VUQkdySDBjV2dpTFJySTRSYw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2xRNWhJSnZoc2IzYTNWUTdBT2IzQ1RYWnppc21TWXdMRXBNYmt1TV9vQVFzYnIzdW5TYUJhUlliY3NiVlNEUWMyUWk0b0dxV3luX01XcndBZkhnVnphYy00VDgtWGZyM1RZS3JhU3JBVFdjUHoyVVg3ZDBvbDlWLUJtN21aRmp1U2VUQkdySDBjV2dp",
+        "source": "google_news"
+    },
+    {
+        "title": "Warner Bros. Discovery, Inc.(NasdaqGS: WBD) dropped from S&P 500 Equal Weighted - www.marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "WBD"
+        ],
+        "date_announced": "2026-10-06 01:12",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlRhVnZrTXhEQW5mRnZldGxNbVFTdFhXTUtyNEkyeDZadVlGb1hGNjNzOWhXdlRPcUJNeVBpbUZ1TDN4R3VsZkpjSmw0Tm5UR1FPXzFxQy1zOFcxUk91ZXU2V0ptVmQ1M3NDdi1val9sc0RuZnduVjdVTnhBaGFjSnhLSW05ZEFTdl9WMFU0TUhneGFxeGVSYVZYZ3dJMkVVMFh4X0Fvc3JTdnYwdnE0R09JeDhJaVhlTmVhaEg0dzdKYjNuZ2c?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlRhVnZrTXhEQW5mRnZldGxNbVFTdFhXTUtyNEkyeDZadVlGb1hGNjNzOWhXdlRPcUJNeVBpbUZ1TDN4R3VsZkpjSmw0Tm5UR1FPXzFxQy1zOFcxUk91ZXU2V0ptVmQ1M3NDdi1val9sc0RuZnduVjdVTnhBaGFjSnhLSW05ZEFTdl9WMFU0TUhneGFx",
+        "source": "google_news"
+    },
+    {
+        "title": "Twilio Inc.(NYSE:TWLO) added to S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - www.marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "TWLO"
+        ],
+        "date_announced": "2026-10-06 01:13",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTR2czA5T1VrZXlGMHgzMHJKazJ2eG1FZU5NMjJwRUlhd0lWMXllSVhJaS15dWE2YjU3LUpXSXRGcG5ub2VVZlE3eWtvQk0ybUdFTzhOR3RvVUdkT1BWR1VBQUprSU51ZldHd2FmdllIM0ZsNVdodGF3LUJGZU8xc25qVVU4alVDOVBlbUhtc1N6NHRoamY3czNUQ2lta29fcnlMQi1wQXRBRW9wTDdqMm5MYndsT1VMR1Z2aWstN0lOb2l4aUJhcDh6S1JYWDFTRlBIZlZaLXVyOWM5blZ0UDRQOA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTR2czA5T1VrZXlGMHgzMHJKazJ2eG1FZU5NMjJwRUlhd0lWMXllSVhJaS15dWE2YjU3LUpXSXRGcG5ub2VVZlE3eWtvQk0ybUdFTzhOR3RvVUdkT1BWR1VBQUprSU51ZldHd2FmdllIM0ZsNVdodGF3LUJGZU8xc25qVVU4alVDOVBlbUhtc1N6NHRo",
+        "source": "google_news"
+    },
+    {
+        "title": "Twilio Inc.(NYSE: TWLO) added to S&P 500 Software & Services (Industry Group) - www.marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "TWLO"
+        ],
+        "date_announced": "2026-10-06 01:12",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0lOY3dnelRMYVlSdFZRYVh0bVdaMGZxb2ZGTERCZnE3UXFjNEViSnNBb2x4NVFGdlFfOVY2YUxKYzNYdXNDUUhjN0l1dFJsVWJkakY1OFMyNWZfVlVPTXlzLWVSMWU1T01HczJ4Y094ZTRsTVEtc3lpM1lDRE1GazBaWjRYU3hfazVzWFluMnd0SlExcFRxSkhHcjc1WWM1YUdyaW9IUHJZWEVjZ0dEVnpQbnU2VmtXQlFqNm0yV2w?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0lOY3dnelRMYVlSdFZRYVh0bVdaMGZxb2ZGTERCZnE3UXFjNEViSnNBb2x4NVFGdlFfOVY2YUxKYzNYdXNDUUhjN0l1dFJsVWJkakY1OFMyNWZfVlVPTXlzLWVSMWU1T01HczJ4Y094ZTRsTVEtc3lpM1lDRE1GazBaWjRYU3hfazVzWFluMnd0SlEx",
+        "source": "google_news"
+    },
+    {
         "title": "Vylor, Inc.(UNQ:) added to S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - www.marketscreener.com",
         "action": "ADDITION",
         "status": "ANNOUNCED",
