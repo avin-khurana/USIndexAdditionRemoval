@@ -1,5 +1,29 @@
 [
     {
+        "title": "Molson Coors Beverage Company(NYSE:TAP) dropped from S&P 500 Food Beverage & Tobacco (Industry Group) - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "TAP"
+        ],
+        "date_announced": "2026-09-20 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1cxX0pELUVmaXpKN0h6VVc4Y3dLWkFrYVVBZkRvZExuVmlGOWI0V0tfZl9Da1psNzFQRGEyckN6RUtBVWMzTV9saWVBRlIxYVZkeFg3VWdlQy1HejhLcVlxTlRVZ0N5cVVKWG9ZOGVaRURVRklJLXZBZXlBWFRpVkxYVDE2a0tRd1FjQm9ZVDY0VUNwc2trZmhpX3BJMGR4VlF0Mkc1YXpDUVBEdGZwLTZ1OWtQWGFmNDlZZG9HYXd2TEpVbW1aVTlxOGlNZTlhMFhpX01xdDdlb0ZIemVpQW45UQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1cxX0pELUVmaXpKN0h6VVc4Y3dLWkFrYVVBZkRvZExuVmlGOWI0V0tfZl9Da1psNzFQRGEyckN6RUtBVWMzTV9saWVBRlIxYVZkeFg3VWdlQy1HejhLcVlxTlRVZ0N5cVVKWG9ZOGVaRURVRklJLXZBZXlBWFRpVkxYVDE2a0tRd1FjQm9ZVDY0VUNw",
+        "source": "google_news"
+    },
+    {
+        "title": "Twilio and Vylor Stock Join the S&P 500 - Barron's",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-01 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWtYVkk3WGUtZGRnVGZiVnlIeUhjV2JiYm4yZnRMbTZJZlBSUGZyX0VUSGFaRHh5OHVocXlDUUdRdUJnNUJaRmhqWmxWVXZuMWJLWkF3WEY4YmtrMlNrNzVyRkpfc0xtV1VlV0J4Mlhkck9wc1Q1dWhtRlVQX2UtUEFB?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWtYVkk3WGUtZGRnVGZiVnlIeUhjV2JiYm4yZnRMbTZJZlBSUGZyX0VUSGFaRHh5OHVocXlDUUdRdUJnNUJaRmhqWmxWVXZuMWJLWkF3WEY4YmtrMlNrNzVyRkpfc0xtV1VlV0J4Mlhkck9wc1Q1dWhtRlVQX2UtUEFB?oc=5\" target=\"_blank\">T",
+        "source": "google_news"
+    },
+    {
         "title": "The Trade Desk stock falls as S&P 500 removal and weak growth hit sentiment - ad-hoc-news.de",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
