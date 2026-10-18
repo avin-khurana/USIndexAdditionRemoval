@@ -1,5 +1,40 @@
 [
     {
+        "title": "The Trade Desk stock falls as S&P 500 removal and weak guidance deepen selloff - ad-hoc-news.de",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-21 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUNoTUEtd0pMVGlGeTRETmRXU0VCX3NNVllpQ244bWZoQWRGSGNOQ1BucE1tRGpuNjZPWm1vTDF4Y2t4b3ZpbUhKSkU1SHlOcVVsb1JsdnAzOV9tSEZzVDl3VnJnSlk1Y2pNMFVjb2NieEZEY20yU2tJU3ZjcWJ1UWhrV1hQQlZIZ2hIbTlJNnRlODdpWlZ3UHhIR3h3RXNCb3c0UjRGSTFEUFpFVUZmeVhaeFJJejhabUUxdWFpODhnaGR0a0tfSGNub0FDYUo5aVl2ZGhBS2I?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeUNoTUEtd0pMVGlGeTRETmRXU0VCX3NNVllpQ244bWZoQWRGSGNOQ1BucE1tRGpuNjZPWm1vTDF4Y2t4b3ZpbUhKSkU1SHlOcVVsb1JsdnAzOV9tSEZzVDl3VnJnSlk1Y2pNMFVjb2NieEZEY20yU2tJU3ZjcWJ1UWhrV1hQQlZIZ2hIbTlJNnRlODdp",
+        "source": "google_news"
+    },
+    {
+        "title": "The Trade Desk, Inc.(NasdaqGM: TTD) dropped from S&P 500 Communication Services - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-09-20 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnZrTS1MOHRTQ1BraGt0aW9VZ2ZFQTlKbHJSSDVEMVktRGdUS01uT2p2OU9pcHJvSVJBRl9RLWFBZEVNQVZtMy1PQk43ZFo2bm9MZkxkWmpHYUtQNm1waUhDamJsOTRtb0FZRmRjN3BwX3g1dGtraWI4N2xydVBKNnYwcVY2cWw3V0thQ0FjTl9QSjEtbWVoVTJlVjJrbVV1RDJHbGpDNjA2VGVJdTZDZ2Y2MkJmTm1RU0p0bVg3TTZ4a082dTJz?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnZrTS1MOHRTQ1BraGt0aW9VZ2ZFQTlKbHJSSDVEMVktRGdUS01uT2p2OU9pcHJvSVJBRl9RLWFBZEVNQVZtMy1PQk43ZFo2bm9MZkxkWmpHYUtQNm1waUhDamJsOTRtb0FZRmRjN3BwX3g1dGtraWI4N2xydVBKNnYwcVY2cWw3V0thQ0FjTl9QSjEt",
+        "source": "google_news"
+    },
+    {
+        "title": "Corteva, Inc.(NYSE: CTVA) dropped from S&P 500 Equal Weighted - www.marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CTVA"
+        ],
+        "date_announced": "2026-10-05 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakxPdDJLbXlFWVA0b3VCWWhrMVBLV2MxanRmRUpEUTBpV2ctM28zM2dGbFE3QnhxQmN2aW9KSUYwOGY4OXBVZTMwcXpMZmxvMlNnVmo4SnV3d2Q0QV9sejlsVjk3OXVjN3F1cHhLd2xxb0NvNHVhUmFtZkJYSS1HZ0hKRXN1VlhKRk9ldjFfcUNORjlvRXVQY2dsSGJzUjNweGdqamZDX2VrRjZpekFn?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPakxPdDJLbXlFWVA0b3VCWWhrMVBLV2MxanRmRUpEUTBpV2ctM28zM2dGbFE3QnhxQmN2aW9KSUYwOGY4OXBVZTMwcXpMZmxvMlNnVmo4SnV3d2Q0QV9sejlsVjk3OXVjN3F1cHhLd2xxb0NvNHVhUmFtZkJYSS1HZ0hKRXN1VlhKRk9ldjFfcUNORjlv",
+        "source": "google_news"
+    },
+    {
         "title": "The Trade Desk, Inc.(NasdaqGM: TTD) dropped from S&P 500 Value - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
