@@ -1,5 +1,29 @@
 [
     {
+        "title": "Corteva, Inc.(NYSE: CTVA) dropped from S&P 500 Chemicals - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CTVA"
+        ],
+        "date_announced": "2026-10-05 22:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamRYTUlSbVRXUFZfdFgxSGFfX2FHZ0tBa196RVoxdHVCejM1aUNvRGQ5U196cDdUcHd4bmxWVmI2OHBaRF9PcC16MjltR3BuOEU3eFRwNjlQb0hrZUhXWWxZal9oTmRiUTk2MnpCcU03dFV6d0NGM0YxOGRjVHZxRDlsMU1tMHBOMzJaaGluOWpNV1RnWWU0UE45aHNFd21ZUTZxa3hJTVo?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamRYTUlSbVRXUFZfdFgxSGFfX2FHZ0tBa196RVoxdHVCejM1aUNvRGQ5U196cDdUcHd4bmxWVmI2OHBaRF9PcC16MjltR3BuOEU3eFRwNjlQb0hrZUhXWWxZal9oTmRiUTk2MnpCcU03dFV6d0NGM0YxOGRjVHZxRDlsMU1tMHBOMzJaaGluOWpNV1Rn",
+        "source": "google_news"
+    },
+    {
+        "title": "Skydance Corporation(NYSE: SKYD.WS) dropped from S&P 500 - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-15 00:23",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcV9TY3VucFpXOUI2Z0s4SWlWd2w4Z1Z1V1A4VXlFa243ZE5vajRuSjZaYlduS0kyaXRVM1F2OHIyM3pEMUtMVGszN2pNcFdKVnhxRkRBLW0yTzM1MmJqTnJKdkFQWE9uZDdyRGJpUFpmclE5MlVIRE5TbU9qYTJ4eEdsdFdtY3FTV18wWHJYWjFxdWZpbl8zcFRGckhCYVZRbEFOM3EyU3RzaUE?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcV9TY3VucFpXOUI2Z0s4SWlWd2w4Z1Z1V1A4VXlFa243ZE5vajRuSjZaYlduS0kyaXRVM1F2OHIyM3pEMUtMVGszN2pNcFdKVnhxRkRBLW0yTzM1MmJqTnJKdkFQWE9uZDdyRGJpUFpmclE5MlVIRE5TbU9qYTJ4eEdsdFdtY3FTV18wWHJYWjFxdWZp",
+        "source": "google_news"
+    },
+    {
         "title": "The Trade Desk stock falls as S&P 500 removal and weak guidance deepen selloff - ad-hoc-news.de",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
