@@ -1,5 +1,40 @@
 [
     {
+        "title": "Skydance Corporation(NYSE: SKYD.WS) dropped from S&P 500 Equal Weighted - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-15 00:26",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3BPZ3ZSeXlHb3VNMzFLeE1FZWRoQUw3WjZpNVdaN1lLUXlDRUVldzlfYkxqX1kycnJ1TDBTVTJJUURiRVo2dGJiUWtNVEkxdHVlX3FXaDFscXlMajQzYTUydlJhTk5NM0xUWmdxUXBjUGdGalNLbFFZak1ad3E1a0RDRWdKV1Y4ZzdqYnhJWmQwSkhpdmhoeFZmYUdWdXprRUxZNUVKTTM0RzFoczdTTmZxTWFsdGhpR3JZUEhFOA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3BPZ3ZSeXlHb3VNMzFLeE1FZWRoQUw3WjZpNVdaN1lLUXlDRUVldzlfYkxqX1kycnJ1TDBTVTJJUURiRVo2dGJiUWtNVEkxdHVlX3FXaDFscXlMajQzYTUydlJhTk5NM0xUWmdxUXBjUGdGalNLbFFZak1ad3E1a0RDRWdKV1Y4ZzdqYnhJWmQwSkhp",
+        "source": "google_news"
+    },
+    {
+        "title": "Twilio Inc.(NYSE: TWLO) added to S&P 500 - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "TWLO"
+        ],
+        "date_announced": "2026-10-06 01:10",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNktTeHhaSENUUDI3OXN4Tk5WVUNSbVFyblhCQ25kV2o3T1IxMWF4Qjc4WmRoTXhjUnlZTVNnV3N2NzVtUVl2VVRxbjhDd0FmcXZsZ21VQUVhZ29tRVZteDFRdTVrNFdLT09vcHNtNU5sOWJXNU0tZ0ZueHNudm9NX0hnLTRMb2Y0bmpqWGYzbVRJWjFt?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQNktTeHhaSENUUDI3OXN4Tk5WVUNSbVFyblhCQ25kV2o3T1IxMWF4Qjc4WmRoTXhjUnlZTVNnV3N2NzVtUVl2VVRxbjhDd0FmcXZsZ21VQUVhZ29tRVZteDFRdTVrNFdLT09vcHNtNU5sOWJXNU0tZ0ZueHNudm9NX0hnLTRMb2Y0bmpqWGYzbVRJWjFt",
+        "source": "google_news"
+    },
+    {
+        "title": "Bloom Energy S&P 500 Addition & Macro Breakouts Cincinnati - Inter Miami (kkK0cR6Nee) - Unisba Media",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-19 16:06",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GMWJzbVdfWjdpWTZuQXp4Q1RQbXBvUjkwazNOOEZXRnFzS25Ib25EZHJiYkpsMTNobThwQTZNTU1QR2tVbExOZTlvZXRKaHBFWjJIT1JzX0FIOHF5TWVublJqZlRQczdIdTZ3?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5GMWJzbVdfWjdpWTZuQXp4Q1RQbXBvUjkwazNOOEZXRnFzS25Ib25EZHJiYkpsMTNobThwQTZNTU1QR2tVbExOZTlvZXRKaHBFWjJIT1JzX0FIOHF5TWVublJqZlRQczdIdTZ3?oc=5\" target=\"_blank\">Bloom Energy S&amp;P 500 Addition",
+        "source": "google_news"
+    },
+    {
         "title": "Corteva, Inc.(NYSE: CTVA) dropped from S&P 500 Chemicals - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
