@@ -1,5 +1,29 @@
 [
     {
+        "title": "Vylor, Inc.(NYSE: CTVA) dropped from S&P 500 Value - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "CTVA"
+        ],
+        "date_announced": "2026-10-05 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzFJNmVxYkl3bmI1ZkRNam91a0pweU1fbkFjV3RnRU45WWhrZmlLNmg2S285ZzZ3bGxNM0l0a0VjY29MZGp2alFnWERIMjdkeXNOYnVlTE92VEstMXF3OHJFRGJfdzMwRjFDUl94NTdnOXM5ZlZBQ0hjZTB0TUduWm9lSENnZTBrb2hkN1BudWVFdW1DLTlkNFBEd3lTcllJ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORzFJNmVxYkl3bmI1ZkRNam91a0pweU1fbkFjV3RnRU45WWhrZmlLNmg2S285ZzZ3bGxNM0l0a0VjY29MZGp2alFnWERIMjdkeXNOYnVlTE92VEstMXF3OHJFRGJfdzMwRjFDUl94NTdnOXM5ZlZBQ0hjZTB0TUduWm9lSENnZTBrb2hkN1BudWVFdW1D",
+        "source": "google_news"
+    },
+    {
+        "title": "This cybersecurity stock will be the next to join the S&P 500 - MarketWatch",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-30 22:20",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa21DMlRiMmNVWlpOQlYxR3R2VWJ0NmpLLVRIV3BmTmpmanRuR25JQm1NVUdIZ2VnTzFGYWVtc3dFcUxlZVhHaHhDSEtuN0ZaRWIyUVZMUkxMRTQ3TDNIU3M3Q2g1OWdHdXhLc05NLUJMSEZYQ2s5YlIycEExVFpsclVUb0h2Q2QzcHRMbmdzdnJmRGFIbG5CNkZnZDZLZ3hnRE11d1kxMA?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPa21DMlRiMmNVWlpOQlYxR3R2VWJ0NmpLLVRIV3BmTmpmanRuR25JQm1NVUdIZ2VnTzFGYWVtc3dFcUxlZVhHaHhDSEtuN0ZaRWIyUVZMUkxMRTQ3TDNIU3M3Q2g1OWdHdXhLc05NLUJMSEZYQ2s5YlIycEExVFpsclVUb0h2Q2QzcHRMbmdzdnJmRGFI",
+        "source": "google_news"
+    },
+    {
         "title": "Skydance Corporation(NYSE: SKYD.WS) dropped from S&P 500 Equal Weighted - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
