@@ -1,5 +1,27 @@
 [
     {
+        "title": "Molson Coors stock falls after S&P 500 removal and 52-week low - ad-hoc-news.de",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-14 18:21",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX21UM3hKdDU2TE5keTAzOFRZNjVmZEJDT1daX0U5S3pVRHRnQy14MDcyNnRPNU9MaVBQWDNWdkdGQ3diMmdrd0VGQkVySXFhYjNjdW1pLXp4WWNFY25uSV95UUhBN1RwZEJuSmFXZUVJRHlIVXdsa3NOdVQ3aFplY0tVNDhQbWZyTXIxZXN1aXlzbi03eF81ajRzT2xBWVJWSTd6MzQ1WnlwYjNUZGhpYl9aNWRVRHBsTl9SejVUQk0yeWs?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX21UM3hKdDU2TE5keTAzOFRZNjVmZEJDT1daX0U5S3pVRHRnQy14MDcyNnRPNU9MaVBQWDNWdkdGQ3diMmdrd0VGQkVySXFhYjNjdW1pLXp4WWNFY25uSV95UUhBN1RwZEJuSmFXZUVJRHlIVXdsa3NOdVQ3aFplY0tVNDhQbWZyTXIxZXN1aXlzbi03",
+        "source": "google_news"
+    },
+    {
+        "title": "Okta shares drop more than 8% after S&P 500 addition triggers ETF outflows - Traders Union",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-05 15:12",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVldZdFVROWItWjdTVlkyQTk0RkFjNzR3TkFRTThwTjF0V0tVMkcyekFXcWdHTWZqTEcyWUdibjZCMDE2Z1VxTDBQemV4YkxGVTQ2UzlEYjdjQ2U1RnNTODd3TF9seFhPa3JkSkZQZngyNjRCdl9OYmxQSk54ZW5FN1E0T29XX2NoVnVF?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVldZdFVROWItWjdTVlkyQTk0RkFjNzR3TkFRTThwTjF0V0tVMkcyekFXcWdHTWZqTEcyWUdibjZCMDE2Z1VxTDBQemV4YkxGVTQ2UzlEYjdjQ2U1RnNTODd3TF9seFhPa3JkSkZQZngyNjRCdl9OYmxQSk54ZW5FN1E0T29XX2NoVnVF?oc=5\" targe",
+        "source": "google_news"
+    },
+    {
         "title": "Kenvue Inc.(NYSE: KVUE) dropped from S&P 500 Value - www.marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
