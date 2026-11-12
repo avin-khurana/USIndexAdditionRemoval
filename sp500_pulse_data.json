@@ -1,5 +1,18 @@
 [
     {
+        "title": "Kenvue Inc.(NYSE: KVUE) dropped from S&P 500 Consumer Staples - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "KVUE"
+        ],
+        "date_announced": "2026-11-03 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajhjeG1NVWJYTjlRclJpdlFuSkZBQ2llWF9ydE1qVTlreU5BdUczcEpNUGhlSTg2UHBfUlhIdDZEazJaQ1FyYm1EUWNTQS1fRjY4QnZHSTdxaUdfSnp0c05TNFcyYXk3NEVIbTcyQXJXMzAxYmp3M0Y5WHpJeWhpTXI3eW14Zk5rYWp2Z2MxLUxKeEE4dE50X083cnpXMmRuY09aSlFzNUJUWWowTHg4dw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQajhjeG1NVWJYTjlRclJpdlFuSkZBQ2llWF9ydE1qVTlreU5BdUczcEpNUGhlSTg2UHBfUlhIdDZEazJaQ1FyYm1EUWNTQS1fRjY4QnZHSTdxaUdfSnp0c05TNFcyYXk3NEVIbTcyQXJXMzAxYmp3M0Y5WHpJeWhpTXI3eW14Zk5rYWp2Z2MxLUxKeEE4",
+        "source": "google_news"
+    },
+    {
         "title": "Kenvue Inc.(NYSE: KVUE) dropped from S&P 500 Equal Weighted - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
