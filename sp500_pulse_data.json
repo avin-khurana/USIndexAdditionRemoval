@@ -1,5 +1,18 @@
 [
     {
+        "title": "Kenvue Inc.(NYSE:KVUE) dropped from S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "KVUE"
+        ],
+        "date_announced": "2026-11-03 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2p3d1lfV25MaGNqRFRReWRLWG5aeTBOR2pJZVByRnBNREdlSUI2ekM2RnRjci1RZUFWSm1Uc08zYjJELTNmaDEtOGJvb0JBdTZWanIwSzJ4WUlnR0t0UlpwUWNQTWwzcHpfT0EtRnFaWEs1ME9ZUXFlUm1mTU9mX3ltc0F0bnRjX3dSRkhQcEdKS0JIbFJkX1Q5Q0p2emltaWFhVDZMNjNZWDl1alJiTHVCc01GT3ByVGFCS3lYNTVGZHlHQVAxS1JXUnExQ2J0SXNxc25uWlRhQmx1SFRMY19MRQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2p3d1lfV25MaGNqRFRReWRLWG5aeTBOR2pJZVByRnBNREdlSUI2ekM2RnRjci1RZUFWSm1Uc08zYjJELTNmaDEtOGJvb0JBdTZWanIwSzJ4WUlnR0t0UlpwUWNQTWwzcHpfT0EtRnFaWEs1ME9ZUXFlUm1mTU9mX3ltc0F0bnRjX3dSRkhQcEdKS0JI",
+        "source": "google_news"
+    },
+    {
         "title": "Kenvue Inc.(NYSE: KVUE) dropped from S&P 500 Consumer Staples - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
