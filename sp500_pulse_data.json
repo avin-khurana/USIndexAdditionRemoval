@@ -1,5 +1,40 @@
 [
     {
+        "title": "SharkNinja will join the S&P 500 on Dec. 2, replacing AES as its buyout closes - MLQ.ai",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-24 05:04",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWF1LWlNNDNLQ3BJZU82a0JWZFBtdW4xY3llZUY3OG9KdG9DamdwTUVFS2lkRjlaVG0zSlBmZVBYN014S2tsMG0xdW5TRTlDQThUZ3p5a0M3YTBsbjA4M09McU9pdnNsZEtQSnhYWGUzdlpyV2M5ZWp4RUNSdkVCUUZZUHZHcnY3N3E1bFliNGRVR2xHOEJzTEEyS0E?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWF1LWlNNDNLQ3BJZU82a0JWZFBtdW4xY3llZUY3OG9KdG9DamdwTUVFS2lkRjlaVG0zSlBmZVBYN014S2tsMG0xdW5TRTlDQThUZ3p5a0M3YTBsbjA4M09McU9pdnNsZEtQSnhYWGUzdlpyV2M5ZWp4RUNSdkVCUUZZUHZHcnY3N3E1bFliNGRVR2xH",
+        "source": "google_news"
+    },
+    {
+        "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines - MarketWatch",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-24 14:28",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObVRtSERyQTA0TDFDQWhCWDFaRFZkUUxrOVFZUzJhcVdrNFRPWGxTWjdaemlmc2JYMk45OG10Y3BBWmxtVV9VY1FNbVg4QlpTaFVOUW9ZVFB6SzNaZVVBdUpQRGRwTENlWUVqUFpqOU9fZVZpUFYxM2Q0U0FJMG9kcy1DWTFKSGxmclVmcTBZNEVUZmpZY1E4eGE1MVVqRGliV1A0SGsxWWpKT1BuaWY4VGJFbk5USEk?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObVRtSERyQTA0TDFDQWhCWDFaRFZkUUxrOVFZUzJhcVdrNFRPWGxTWjdaemlmc2JYMk45OG10Y3BBWmxtVV9VY1FNbVg4QlpTaFVOUW9ZVFB6SzNaZVVBdUpQRGRwTENlWUVqUFpqOU9fZVZpUFYxM2Q0U0FJMG9kcy1DWTFKSGxmclVmcTBZNEVUZmpZ",
+        "source": "google_news"
+    },
+    {
+        "title": "S&P 500 Addition Might Change The Case For Investing In SharkNinja (SN) - Yahoo Finance",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "SN"
+        ],
+        "date_announced": "2026-11-24 21:11",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEd6bkl4WHZOVmtOcWhLelpPbWZwcUZYX0JuVXliZHFvenc0OHFsOUJnMXNVLUZvbEFQOHNKRWM3TVNDNDNQQnFBUXppQ2FKU2tEVFBfcXZSN3cwYUhQcFB4NF8xYUd2aXplcW5tQjlHWTBPSlN1VjRVMk1DRFhaTUsxZnFaT2w0LTJYRkJRVk5RTjVEU29J?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEd6bkl4WHZOVmtOcWhLelpPbWZwcUZYX0JuVXliZHFvenc0OHFsOUJnMXNVLUZvbEFQOHNKRWM3TVNDNDNQQnFBUXppQ2FKU2tEVFBfcXZSN3cwYUhQcFB4NF8xYUd2aXplcW5tQjlHWTBPSlN1VjRVMk1DRFhaTUsxZnFaT2w0LTJYRkJRVk5RTjVE",
+        "source": "google_news"
+    },
+    {
         "title": "Trade Desk shares hit 52-week low after S&P 500 removal - scanx.trade",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
