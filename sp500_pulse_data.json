@@ -1,5 +1,64 @@
 [
     {
+        "title": "Trade Desk shares hit 52-week low after S&P 500 removal - scanx.trade",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-07 12:53",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWZ5QXF6LWNmZk1ENU9EUlJXTVl2Z0ZITFlqNVZoVGdlTXg5MmVUUmVTSjhjRlhBeGkzNklfYm0zLW1aNFZLY1UxTkw3RUF6MlZDQkxVcXhzWFY2NUEtaEVBa3pvWVlFODlsRHdKYk1icFFTX2Q1a21feXl6b0M5eHJiSlFoMnN0d01RV3RkQlRKVU5TTlV0OVVkVG1fbUY2TGU4Qnl4TnRRVTNOYUdKRw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWZ5QXF6LWNmZk1ENU9EUlJXTVl2Z0ZITFlqNVZoVGdlTXg5MmVUUmVTSjhjRlhBeGkzNklfYm0zLW1aNFZLY1UxTkw3RUF6MlZDQkxVcXhzWFY2NUEtaEVBa3pvWVlFODlsRHdKYk1icFFTX2Q1a21feXl6b0M5eHJiSlFoMnN0d01RV3RkQlRKVU5T",
+        "source": "google_news"
+    },
+    {
+        "title": "Kenvue Removed from S&P 500 Ahead of Kimberly-Clark Deal - kalkine.com",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-10-30 07:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3prc2NobkJnQUVzTTFqWF9zMGY5b2NCLUE0bkdqQzBQb3lrRUtJbC1MeWlyamQ1dldlZnBtM0dZR21iRDA3MWEzbXB6NTNscVBOV2tXemlsZnU0SUxIUEctTE5XZ0xOYWlPekROY3JWUVRYT05naFg4UkdubWtnYzJjSGFCRnBfelVKOElxakhvS2NuaXpwRnVB?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3prc2NobkJnQUVzTTFqWF9zMGY5b2NCLUE0bkdqQzBQb3lrRUtJbC1MeWlyamQ1dldlZnBtM0dZR21iRDA3MWEzbXB6NTNscVBOV2tXemlsZnU0SUxIUEctTE5XZ0xOYWlPekROY3JWUVRYT05naFg4UkdubWtnYzJjSGFCRnBfelVKOElxakhvS2Nu",
+        "source": "google_news"
+    },
+    {
+        "title": "Okta, Inc.(NasdaqGS: OKTA) added to S&P 500 Software & Services (Industry Group) - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "OKTA"
+        ],
+        "date_announced": "2026-11-03 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1R5N1ZBOUFZUUF5Z1h4cy03SG12WE9oam5YbktYaWJPN3dXODdQVktGSVVvRTVjSXhSSXRUZVJabWtYdjU3OWgtdHJDV2pDVjFtcDNTTTBNOUdDd3JkbFJsRThOYkszWGtUNm5yci1wa09INGhCbzlhOVo4QlI1bk0tUUpUbGg2VjVXT2RqdmtRMG5SV0FzOW9HcXJURE4zVnVncUxkSXItNUZHazV4MXhKYmYxc1dmaThCaHVoQkdGRUU?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1R5N1ZBOUFZUUF5Z1h4cy03SG12WE9oam5YbktYaWJPN3dXODdQVktGSVVvRTVjSXhSSXRUZVJabWtYdjU3OWgtdHJDV2pDVjFtcDNTTTBNOUdDd3JkbFJsRThOYkszWGtUNm5yci1wa09INGhCbzlhOVo4QlI1bk0tUUpUbGg2VjVXT2RqdmtRMG5S",
+        "source": "google_news"
+    },
+    {
+        "title": "Okta, Inc.(NasdaqGS: OKTA) added to S&P 500 Equal Weighted - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "OKTA"
+        ],
+        "date_announced": "2026-11-04 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3FKLUNBLVpETE92eDVmZktlbkdsUDg5cmJvSHozY21rU2dERC1QQnZ6TExrMy0xR2lHU2dOb2RsTGxQSHJhQ3dSOEQ5LTRVN09tU3E1N3Mwd0xTWmNFeTZoWDZfcm5rUVctb3lvUElDVGxQVHEzMExfeXhlRGlabnJZdnlEajQ0d3dSbEVMSURWNjRCWF9qcGpmTTQ2UmNaMFBrSWlQVTUycVU?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3FKLUNBLVpETE92eDVmZktlbkdsUDg5cmJvSHozY21rU2dERC1QQnZ6TExrMy0xR2lHU2dOb2RsTGxQSHJhQ3dSOEQ5LTRVN09tU3E1N3Mwd0xTWmNFeTZoWDZfcm5rUVctb3lvUElDVGxQVHEzMExfeXhlRGlabnJZdnlEajQ0d3dSbEVMSURWNjRC",
+        "source": "google_news"
+    },
+    {
+        "title": "SharkNinja Stock to Join the S&P 500 as AES Leaves - Barron's",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-24 00:04",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3RpTG9ya1Fma2tSeXk5YUVqSDJ3anc5dTJyQmlCOS10RldEOURQbVEzSDFITU13MGQxVmVSN1hFN29sT1F3cHBMcFdqZ2hzNmRhbGkxaEZpNkxVSHlDSzBGdVV6aDRPLXN3czRIcEhFM3pSQjlUc0pzTTQzN1FIUUptX3prbDRh?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3RpTG9ya1Fma2tSeXk5YUVqSDJ3anc5dTJyQmlCOS10RldEOURQbVEzSDFITU13MGQxVmVSN1hFN29sT1F3cHBMcFdqZ2hzNmRhbGkxaEZpNkxVSHlDSzBGdVV6aDRPLXN3czRIcEhFM3pSQjlUc0pzTTQzN1FIUUptX3prbDRh?oc=5\" target=\"_",
+        "source": "google_news"
+    },
+    {
         "title": "Kenvue Inc.(NYSE:KVUE) dropped from S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
         "action": "REMOVAL",
         "status": "ANNOUNCED",
