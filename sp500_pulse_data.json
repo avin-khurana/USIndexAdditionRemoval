@@ -1,5 +1,40 @@
 [
     {
+        "title": "SharkNinja Stock (SN) Added to the S&P 500 After Share Price Doubles - TipRanks",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "SN"
+        ],
+        "date_announced": "2026-11-24 17:17",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDA0b085SFpBV3FfSXRtR2hOQWk5bWU3NF9udDZpUWdmQlZqd3lfX2JScGNnUnpiUFRlSV9DY0xFZzlhUXhnMlliYnVkZE5kN1pUa0RXSmRJaGN0SVlnNWIyUnNNeGNZQTRHYlM0YmJrMWJSS3ZXalN5QkwtWFBHRUZuZGthTmg2eVNzNGR4WDVGbEpQc1doTF9Uaw?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObDA0b085SFpBV3FfSXRtR2hOQWk5bWU3NF9udDZpUWdmQlZqd3lfX2JScGNnUnpiUFRlSV9DY0xFZzlhUXhnMlliYnVkZE5kN1pUa0RXSmRJaGN0SVlnNWIyUnNNeGNZQTRHYlM0YmJrMWJSS3ZXalN5QkwtWFBHRUZuZGthTmg2eVNzNGR4WDVGbEpQ",
+        "source": "google_news"
+    },
+    {
+        "title": "SharkNinja Set to Join the S&P 500 Index - Business Wire",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-25 13:30",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHBSblVQN0ZjUUt1Ty01aVhDTDZhVlZIQXF4cnRPb1VrUHNCOWZ5aENfcU43ZVY5b29zalRsRERhdVR3dV94MGlmMk5QUUY4MGhDRnFnTV9wS1Q4cXUzMGRQZjVMOVladUM3OUIxdm9fNGpOT2dnR1pTR3lVYkw5ekxIclFfcF83WEtmaXdWdjBuQV9kRjJFaTFiN2k?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHBSblVQN0ZjUUt1Ty01aVhDTDZhVlZIQXF4cnRPb1VrUHNCOWZ5aENfcU43ZVY5b29zalRsRERhdVR3dV94MGlmMk5QUUY4MGhDRnFnTV9wS1Q4cXUzMGRQZjVMOVladUM3OUIxdm9fNGpOT2dnR1pTR3lVYkw5ekxIclFfcF83WEtmaXdWdjBuQV9k",
+        "source": "google_news"
+    },
+    {
+        "title": "SharkNinja Set to Join the S&P 500 Index - The Joplin Globe",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-25 13:31",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQazN6bHZmeTlOek9oU0JVcjR3bTgtNENaZGJvbmNjc2FzdHJyaXBPRTBiTncwby1zNHFIVWE5N1JnZXhyOVJQeWZjOWpPbFBOVFhZWUUtOGYxbS1lbHZvcTFhT19lQTJOYTR1UWxqZ1Y2WmR1NTRvOTFkcWlrb1dIUWJEY0h1REU5cUJhV1JWT3dZVEdiaVhFbTZPRFlfb2lmN3JFMG1ZMF9zWndFZXVBZXh3NzJmZk11a2J5UDl5Q2JEVEstXzZhR0wzbG00TDA5eFpjcDdfczZhdWs?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQazN6bHZmeTlOek9oU0JVcjR3bTgtNENaZGJvbmNjc2FzdHJyaXBPRTBiTncwby1zNHFIVWE5N1JnZXhyOVJQeWZjOWpPbFBOVFhZWUUtOGYxbS1lbHZvcTFhT19lQTJOYTR1UWxqZ1Y2WmR1NTRvOTFkcWlrb1dIUWJEY0h1REU5cUJhV1JWT3dZVEdi",
+        "source": "google_news"
+    },
+    {
         "title": "SharkNinja will join the S&P 500 on Dec. 2, replacing AES as its buyout closes - MLQ.ai",
         "action": "ADDITION",
         "status": "ANNOUNCED",
