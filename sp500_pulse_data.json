@@ -1,5 +1,53 @@
 [
     {
+        "title": "The Trade Desk stock falls as S&P 500 removal and slower growth weigh on sentiment - ad-hoc-news.de",
+        "action": "REMOVAL",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-09 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQTQ3eGt1UE1Zc29BTXExeURQTkJ6OUlzV3FUOEJjMGpzaGFIRFZlZ1MyU056bkdvUnUwS0Q2T3U2VG51UlhVSlp2cG1MUWJXOUxwRkJJNHZmUTEzOTNpU0hTa3FUdXBFUG4xMGdoenVUeF9Pd3Iwb2dLU2NVV3Q0eUxHcTFpT2pDSExwS2wza2wwVlBTZWl1ekNVVEhEcG1FM1B1c1pGVnpZaWw4NlJuT3NHSXNXYXRGeTlIYTA3SnBhbzdGam9rWGJ0NkFDS25nSlNlOEpuU0ZGbmw1bGc?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQTQ3eGt1UE1Zc29BTXExeURQTkJ6OUlzV3FUOEJjMGpzaGFIRFZlZ1MyU056bkdvUnUwS0Q2T3U2VG51UlhVSlp2cG1MUWJXOUxwRkJJNHZmUTEzOTNpU0hTa3FUdXBFUG4xMGdoenVUeF9Pd3Iwb2dLU2NVV3Q0eUxHcTFpT2pDSExwS2wza2wwVlBT",
+        "source": "google_news"
+    },
+    {
+        "title": "Okta, Inc.(NasdaqGS:OKTA) added to S&P 500 Ex-Financials, Real Estate, Utilities and Transportation Index - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "OKTA"
+        ],
+        "date_announced": "2026-11-03 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ1VObE9mVXdpTDkyV0paYkVzOWFvTlNoMXBtLWlQWDdnc0ViY0drWXk5TXNOeFdmdVZsc2pDam1GSmwwcEVJRnRtTkpOYXhzNEt5U2lEeHoyLUd0THRiek9pMUFpbFBaX0o3M1cyOWsyR0taYnVQcFlYRllWenhWQXNXMExzbXRSV2lQZGZVWllCb0ludnVOcGluSGZyYWNPMGMzclU1WDRhcDdEZjVGV1FoZ0RvNnktQ2puamFFX3YtTGxtTnRGa3QyYm03Y2dGSGw5M0pCQkpoNmNnYXk4cQ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ1VObE9mVXdpTDkyV0paYkVzOWFvTlNoMXBtLWlQWDdnc0ViY0drWXk5TXNOeFdmdVZsc2pDam1GSmwwcEVJRnRtTkpOYXhzNEt5U2lEeHoyLUd0THRiek9pMUFpbFBaX0o3M1cyOWsyR0taYnVQcFlYRllWenhWQXNXMExzbXRSV2lQZGZVWllCb0lu",
+        "source": "google_news"
+    },
+    {
+        "title": "Okta, Inc.(NasdaqGS: OKTA) added to S&P 500 - marketscreener.com",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [
+            "OKTA"
+        ],
+        "date_announced": "2026-11-03 08:00",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzlNM0VKTTB0c00wRFBWTmR6ZWowUkhlNWFVLVQzR0U0Nlg4RWN6bFRJZFhDTzdBSVZGeXlMVVd0eWNOWmdhbGFleXBQRGNrYVk5WmZlSkhjTWlsR1g5cnhkMEd6T1R2d3JFenRFSGpoVVpaYlBwWEY0VFJGZFYzM1UyRFNhYzBYeEtwcXVqUTU0bm5CSlBJ?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzlNM0VKTTB0c00wRFBWTmR6ZWowUkhlNWFVLVQzR0U0Nlg4RWN6bFRJZFhDTzdBSVZGeXlMVVd0eWNOWmdhbGFleXBQRGNrYVk5WmZlSkhjTWlsR1g5cnhkMEd6T1R2d3JFenRFSGpoVVpaYlBwWEY0VFJGZFYzM1UyRFNhYzBYeEtwcXVqUTU0bm5C",
+        "source": "google_news"
+    },
+    {
+        "title": "SharkNinja Set to Join the S&P 500 Index - Yahoo Finance",
+        "action": "ADDITION",
+        "status": "ANNOUNCED",
+        "tickers": [],
+        "date_announced": "2026-11-25 13:30",
+        "effective_date": "TBC \u2014 see article",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNendWZmp1aDhGUkpUSnc1SlctSV9yWUZwQ200UDBsbVd1aDAzQkV1SjVLR3hvalJCS0lUX2V4V2Z1SzNaUjZYN1JGUk1nZ2JCVFdqbHN1Nkd2OGhqejZwMHJVRWRnbUpQR19vTW5lNVFOdU92eEdSRFBFcWdOUjdnRTYzaDk1RC1hX25xdlVDWXZ5aW9E?oc=5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNendWZmp1aDhGUkpUSnc1SlctSV9yWUZwQ200UDBsbVd1aDAzQkV1SjVLR3hvalJCS0lUX2V4V2Z1SzNaUjZYN1JGUk1nZ2JCVFdqbHN1Nkd2OGhqejZwMHJVRWRnbUpQR19vTW5lNVFOdU92eEdSRFBFcWdOUjdnRTYzaDk1RC1hX25xdlVDWXZ5aW9E",
+        "source": "google_news"
+    },
+    {
         "title": "SharkNinja Stock (SN) Added to the S&P 500 After Share Price Doubles - TipRanks",
         "action": "ADDITION",
         "status": "ANNOUNCED",
